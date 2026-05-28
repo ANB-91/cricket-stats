@@ -3,7 +3,10 @@ name: Refresh cricket data
 on:
   schedule:
     - cron: '0 6 * * 1'  # Every Monday at 6am UTC
-  workflow_dispatch:       # Also allows manual trigger from GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   refresh:
