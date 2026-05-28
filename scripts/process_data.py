@@ -1,0 +1,291 @@
+#!/usr/bin/env python3
+import json, zipfile, urllib.request, shutil, datetime
+from pathlib import Path
+from collections import defaultdict
+
+ROOT        = Path(__file__).parent.parent
+RAW_DIR     = ROOT / "data" / "raw"
+MATCHES_DIR = RAW_DIR / "matches"
+ZIP_PATH    = RAW_DIR / "cch_json.zip"
+OUT_DIR     = ROOT / "data" / "processed"
+
+HOME_VENUES = {
+    'Derbyshire':       ['county ground, derby', "queen's park", 'chesterfield'],
+    'Durham':           ['riverside', 'chester-le-street'],
+    'Essex':            ['chelmsford'],
+    'Glamorgan':        ['sophia gardens', 'cardiff'],
+    'Gloucestershire':  ['nevil road', 'bristol'],
+    'Hampshire':        ['ageas bowl', 'rose bowl', 'west end'],
+    'Kent':             ['st lawrence', 'beckenham', 'maidstone', 'canterbury'],
+    'Lancashire':       ['old trafford'],
+    'Leicestershire':   ['grace road'],
+    'Middlesex':        ["lord's", 'lords'],
+    'Northamptonshire': ['wantage road', 'northampton'],
+    'Nottinghamshire':  ['trent bridge'],
+    'Somerset':         ['taunton'],
+    'Surrey':           ['oval', 'kennington'],
+    'Sussex':           ['hove', 'arundel'],
+    'Warwickshire':     ['edgbaston'],
+    'Worcestershire':   ['new road', 'worcester'],
+    'Yorkshire':        ['headingley', 'scarborough'],
+}
+
+def get_host_county(venue):
+    if not venue: return None
+    v = venue.lower()
+    for county, keywords in HOME_VENUES.items():
+        if any(k in v for k in keywords):
+            return county
+    return None
+
+def download_data():
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    print("Downloading Cricsheet county championship data...")
+    urllib.request.urlretrieve("https://cricsheet.org/downloads/cch_json.zip", ZIP_PATH)
+    print(f"  Saved to {ZIP_PATH}")
+
+def extract_data():
+    if MATCHES_DIR.exists(): shutil.rmtree(MATCHES_DIR)
+    MATCHES_DIR.mkdir(parents=True, exist_ok=True)
+    print("Extracting match files...")
+    with zipfile.ZipFile(ZIP_PATH, 'r') as z:
+        z.extractall(MATCHES_DIR)
+    files = list(MATCHES_DIR.glob("*.json"))
+    print(f"  Extracted {len(files)} match files")
+    return files
+
+BOWLER_WICKETS = {
+    'bowled','caught','caught and bowled','lbw','stumped',
+    'hit wicket','hit the ball twice','timed out','obstructing the field'
+}
+
+def new_ha_bat():
+    return {'innings':0,'runs':0,'balls':0,'dismissals':0,'not_outs':0,
+            'fours':0,'sixes':0,'fifties':0,'hundreds':0,'_hsNum':0,'highest':'0'}
+
+def new_ha_bowl():
+    return {'balls':0,'runs':0,'wickets':0,'maidens':0}
+
+def new_batting():
+    return {'innings':0,'runs':0,'balls':0,'dismissals':0,'not_outs':0,
+            'highest':0,'highest_not_out':False,'fifties':0,'hundreds':0,
+            'fours':0,'sixes':0,'dismissal_types':defaultdict(int),
+            'home':new_ha_bat(),'away':new_ha_bat()}
+
+def new_bowling():
+    return {'balls':0,'runs':0,'wickets':0,'maidens':0,'five_wkt':0,'four_wkt':0,
+            'best_w':0,'best_r':9999,'dismissal_types':defaultdict(int),
+            'home':new_ha_bowl(),'away':new_ha_bowl()}
+
+def process_matches(match_files):
+    batting  = defaultdict(lambda: defaultdict(new_batting))
+    bowling  = defaultdict(lambda: defaultdict(new_bowling))
+    ps_teams = defaultdict(lambda: defaultdict(set))
+    seasons, teams = set(), set()
+    unmatched = set()
+
+    print(f"Processing {len(match_files)} matches...")
+    for i, mf in enumerate(match_files):
+        if i % 200 == 0: print(f"  {i}/{len(match_files)}")
+        try:
+            match = json.loads(mf.read_text())
+        except Exception as e:
+            print(f"  Skipping {mf.name}: {e}"); continue
+
+        info   = match.get('info', {})
+        season = str(info.get('season', 'Unknown'))
+        venue  = info.get('venue', '')
+        seasons.add(season)
+
+        host_county = get_host_county(venue)
+        if venue and not host_county: unmatched.add(venue)
+
+        p2team = {}
+        for team, players in info.get('players', {}).items():
+            teams.add(team)
+            for p in players:
+                p2team[p] = team
+                ps_teams[p][season].add(team)
+
+        for innings in match.get('innings', []):
+            batting_team = innings.get('team', 'Unknown')
+            bat_is_home  = (batting_team == host_county) if host_county else None
+
+            # Determine bowling team's home status
+            bowl_team    = None
+            bat_inn, bowl_inn, bowl_ovr = {}, {}, {}
+
+            for over_obj in innings.get('overs', []):
+                deliveries = over_obj.get('deliveries', [])
+                if not deliveries: continue
+                over_bowler = deliveries[0].get('bowler')
+                over_legal, over_runs = 0, 0
+
+                for d in deliveries:
+                    batter = d.get('batter')
+                    bowler = d.get('bowler', over_bowler)
+                    runs   = d.get('runs', {})
+                    extras = d.get('extras', {})
+                    b_runs = runs.get('batter', 0)
+                    total  = runs.get('total', 0)
+                    is_wide = 'wides'   in extras
+                    is_nb   = 'noballs' in extras
+
+                    if batter and batter not in bat_inn:
+                        bat_inn[batter] = {'runs':0,'balls':0,'fours':0,'sixes':0,'dismissed':False,'dtype':None}
+                    if bowler and bowler not in bowl_inn:
+                        bowl_inn[bowler] = {'balls':0,'runs':0,'wickets':0,'dtypes':defaultdict(int)}
+                        bowl_ovr[bowler] = []
+                        if not bowl_team: bowl_team = p2team.get(bowler)
+
+                    if batter:
+                        bat_inn[batter]['runs'] += b_runs
+                        if not is_wide: bat_inn[batter]['balls'] += 1
+                        if b_runs == 4: bat_inn[batter]['fours'] += 1
+                        if b_runs == 6: bat_inn[batter]['sixes'] += 1
+
+                    if bowler:
+                        charged = total - extras.get('byes',0) - extras.get('legbyes',0)
+                        bowl_inn[bowler]['runs'] += charged
+                        over_runs += charged
+                        if not is_wide and not is_nb:
+                            bowl_inn[bowler]['balls'] += 1
+                            over_legal += 1
+
+                    for wkt in d.get('wickets', []):
+                        player_out = wkt.get('player_out')
+                        kind       = wkt.get('kind', 'unknown')
+                        if player_out and player_out in bat_inn:
+                            bat_inn[player_out]['dismissed'] = True
+                            bat_inn[player_out]['dtype']     = kind
+                        if bowler and kind in BOWLER_WICKETS:
+                            bowl_inn[bowler]['wickets']      += 1
+                            bowl_inn[bowler]['dtypes'][kind] += 1
+
+                if over_bowler and over_bowler in bowl_ovr:
+                    bowl_ovr[over_bowler].append((over_legal, over_runs))
+
+            # Commit batting
+            for batter, bi in bat_inn.items():
+                b = batting[batter][season]
+                b['innings']+=1; b['runs']+=bi['runs']; b['balls']+=bi['balls']
+                b['fours']+=bi['fours']; b['sixes']+=bi['sixes']
+                if bi['dismissed']:
+                    b['dismissals']+=1
+                    if bi['dtype']: b['dismissal_types'][bi['dtype']]+=1
+                else: b['not_outs']+=1
+                r = bi['runs']
+                if r > b['highest']: b['highest']=r; b['highest_not_out']=not bi['dismissed']
+                if r>=100: b['hundreds']+=1
+                elif r>=50: b['fifties']+=1
+                # Home/away
+                if bat_is_home is not None:
+                    ha = b['home'] if bat_is_home else b['away']
+                    ha['innings']+=1; ha['runs']+=r; ha['balls']+=bi['balls']
+                    ha['fours']+=bi['fours']; ha['sixes']+=bi['sixes']
+                    if bi['dismissed']: ha['dismissals']+=1
+                    else: ha['not_outs']+=1
+                    if r > ha['_hsNum']:
+                        ha['_hsNum']=r; ha['highest']=str(r)+('' if bi['dismissed'] else '*')
+                    if r>=100: ha['hundreds']+=1
+                    elif r>=50: ha['fifties']+=1
+
+            # Commit bowling
+            bowl_is_home = (bowl_team == host_county) if (host_county and bowl_team) else None
+            for bowler, bi in bowl_inn.items():
+                b = bowling[bowler][season]
+                b['balls']+=bi['balls']; b['runs']+=bi['runs']
+                w=bi['wickets']; b['wickets']+=w
+                for dtype,n in bi['dtypes'].items(): b['dismissal_types'][dtype]+=n
+                if w>b['best_w'] or (w==b['best_w'] and bi['runs']<b['best_r'] and w>0):
+                    b['best_w']=w; b['best_r']=bi['runs']
+                if w>=5: b['five_wkt']+=1
+                elif w==4: b['four_wkt']+=1
+                for legal,ovr in bowl_ovr.get(bowler,[]):
+                    if legal>=6 and ovr==0: b['maidens']+=1
+                # Home/away
+                if bowl_is_home is not None:
+                    ha = b['home'] if bowl_is_home else b['away']
+                    ha['balls']+=bi['balls']; ha['runs']+=bi['runs']; ha['wickets']+=w
+                    for legal,ovr in bowl_ovr.get(bowler,[]):
+                        if legal>=6 and ovr==0: ha['maidens']+=1
+
+    if unmatched:
+        print(f"  {len(unmatched)} venues not matched to a county (won't affect home/away accuracy much)")
+    print(f"  Done — {len(batting)} batters, {len(bowling)} bowlers")
+    return batting, bowling, ps_teams, sorted(seasons), sorted(teams)
+
+def avg(r,d):   return round(r/d,2)   if d else None
+def sr(r,b):    return round(r/b*100,2) if b else None
+def econ(r,b):  return round(r/b*6,2)  if b else None
+def bsr(b,w):   return round(b/w,2)   if w else None
+
+def ha_bat_out(ha):
+    return {'innings':ha['innings'],'runs':ha['runs'],'balls':ha['balls'],
+            'dismissals':ha['dismissals'],'not_outs':ha['not_outs'],
+            'average':avg(ha['runs'],ha['dismissals']),
+            'strike_rate':sr(ha['runs'],ha['balls']),
+            'highest':ha['highest'],'fifties':ha['fifties'],'hundreds':ha['hundreds'],
+            'fours':ha['fours'],'sixes':ha['sixes']}
+
+def ha_bowl_out(ha):
+    balls=ha['balls']
+    return {'balls':balls,'overs':f"{balls//6}.{balls%6}",'runs':ha['runs'],
+            'wickets':ha['wickets'],'maidens':ha['maidens'],
+            'average':avg(ha['runs'],ha['wickets']),
+            'economy':econ(ha['runs'],balls),'strike_rate':bsr(balls,ha['wickets'])}
+
+def build_output(batting, bowling, ps_teams, seasons, teams):
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    bat_rows, bowl_rows = [], []
+
+    for player, sdata in batting.items():
+        for season, s in sdata.items():
+            if s['innings']==0: continue
+            hs = str(s['highest'])+('*' if s['highest_not_out'] else '')
+            bat_rows.append({
+                'player':player,'season':season,
+                'team':', '.join(sorted(ps_teams[player].get(season,{'Unknown'}))),
+                'innings':s['innings'],'runs':s['runs'],'balls':s['balls'],
+                'dismissals':s['dismissals'],'not_outs':s['not_outs'],
+                'average':avg(s['runs'],s['dismissals']),'strike_rate':sr(s['runs'],s['balls']),
+                'highest':hs,'fifties':s['fifties'],'hundreds':s['hundreds'],
+                'fours':s['fours'],'sixes':s['sixes'],
+                'dismissal_types':dict(s['dismissal_types']),
+                'home':ha_bat_out(s['home']),'away':ha_bat_out(s['away']),
+            })
+
+    for player, sdata in bowling.items():
+        for season, s in sdata.items():
+            if s['balls']==0: continue
+            bowl_rows.append({
+                'player':player,'season':season,
+                'team':', '.join(sorted(ps_teams[player].get(season,{'Unknown'}))),
+                'balls':s['balls'],'overs':f"{s['balls']//6}.{s['balls']%6}",
+                'runs':s['runs'],'wickets':s['wickets'],'maidens':s['maidens'],
+                'average':avg(s['runs'],s['wickets']),'economy':econ(s['runs'],s['balls']),
+                'strike_rate':bsr(s['balls'],s['wickets']),
+                'best':f"{s['best_w']}/{s['best_r']}" if s['best_w']>0 else '-',
+                'five_wkt':s['five_wkt'],'four_wkt':s['four_wkt'],
+                'dismissal_types':dict(s['dismissal_types']),
+                'home':ha_bowl_out(s['home']),'away':ha_bowl_out(s['away']),
+            })
+
+    bat_rows.sort(key=lambda x: x['runs'],    reverse=True)
+    bowl_rows.sort(key=lambda x: x['wickets'], reverse=True)
+    (OUT_DIR/"batting.json").write_text(json.dumps(bat_rows, indent=2))
+    print(f"  batting.json  — {len(bat_rows)} records")
+    (OUT_DIR/"bowling.json").write_text(json.dumps(bowl_rows, indent=2))
+    print(f"  bowling.json  — {len(bowl_rows)} records")
+    (OUT_DIR/"metadata.json").write_text(json.dumps(
+        {'seasons':seasons,'teams':sorted(teams),'last_updated':datetime.date.today().isoformat()},
+        indent=2))
+    print(f"  metadata.json — {len(seasons)} seasons, {len(teams)} teams")
+
+if __name__ == '__main__':
+    download_data()
+    files = extract_data()
+    batting, bowling, ps_teams, seasons, teams = process_matches(files)
+    print("Writing output...")
+    build_output(batting, bowling, ps_teams, seasons, teams)
+    print("\nAll done!")
