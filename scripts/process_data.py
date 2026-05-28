@@ -40,8 +40,12 @@ def get_host_county(venue):
 
 def download_data():
     RAW_DIR.mkdir(parents=True, exist_ok=True)
+    url = "https://cricsheet.org/downloads/cch_json.zip"
     print("Downloading Cricsheet county championship data...")
-    urllib.request.urlretrieve("https://cricsheet.org/downloads/cch_json.zip", ZIP_PATH)
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req) as response:
+        with open(ZIP_PATH, 'wb') as f:
+            f.write(response.read())
     print(f"  Saved to {ZIP_PATH}")
 
 def extract_data():
