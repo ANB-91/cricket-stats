@@ -42,11 +42,23 @@ def download_data():
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     url = "https://cricsheet.org/downloads/cch_json.zip"
     print("Downloading Cricsheet county championship data...")
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+        'Accept': 'application/zip,application/octet-stream,*/*',
+        'Accept-Language': 'en-GB,en;q=0.9',
+        'Referer': 'https://cricsheet.org/downloads/',
+    }
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req) as response:
-        with open(ZIP_PATH, 'wb') as f:
-            f.write(response.read())
-    print(f"  Saved to {ZIP_PATH}")
+        data = response.read()
+    if data[:2] != b'PK':
+        raise RuntimeError(
+            f"Download blocked or invalid — received {len(data)} bytes, "
+            f"starts with: {data[:200]}"
+        )
+    with open(ZIP_PATH, 'wb') as f:
+        f.write(data)
+    print(f"  Saved to {ZIP_PATH} ({len(data):,} bytes)")
 
 def extract_data():
     if MATCHES_DIR.exists(): shutil.rmtree(MATCHES_DIR)
