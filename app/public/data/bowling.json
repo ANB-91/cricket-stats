@@ -8647,6 +8647,48 @@
     }
   },
   {
+    "player": "BA Raine",
+    "season": "2026",
+    "team": "Durham",
+    "balls": 1711,
+    "overs": "285.1",
+    "runs": 730,
+    "wickets": 41,
+    "maidens": 62,
+    "average": 17.8,
+    "economy": 2.56,
+    "strike_rate": 41.73,
+    "best": "5/45",
+    "five_wkt": 3,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 21,
+      "bowled": 8,
+      "lbw": 11,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 905,
+      "overs": "150.5",
+      "runs": 417,
+      "wickets": 19,
+      "maidens": 23,
+      "average": 21.95,
+      "economy": 2.76,
+      "strike_rate": 47.63
+    },
+    "away": {
+      "balls": 806,
+      "overs": "134.2",
+      "runs": 313,
+      "wickets": 22,
+      "maidens": 39,
+      "average": 14.23,
+      "economy": 2.33,
+      "strike_rate": 36.64
+    }
+  },
+  {
     "player": "LM Reece",
     "season": "2019",
     "team": "Derbyshire",
@@ -8685,6 +8727,47 @@
       "average": 21.45,
       "economy": 2.17,
       "strike_rate": 59.45
+    }
+  },
+  {
+    "player": "MJ Potts",
+    "season": "2026",
+    "team": "Durham",
+    "balls": 1585,
+    "overs": "264.1",
+    "runs": 800,
+    "wickets": 41,
+    "maidens": 52,
+    "average": 19.51,
+    "economy": 3.03,
+    "strike_rate": 38.66,
+    "best": "8/66",
+    "five_wkt": 2,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 23,
+      "bowled": 10,
+      "lbw": 8
+    },
+    "home": {
+      "balls": 975,
+      "overs": "162.3",
+      "runs": 474,
+      "wickets": 28,
+      "maidens": 32,
+      "average": 16.93,
+      "economy": 2.92,
+      "strike_rate": 34.82
+    },
+    "away": {
+      "balls": 610,
+      "overs": "101.4",
+      "runs": 326,
+      "wickets": 13,
+      "maidens": 20,
+      "average": 25.08,
+      "economy": 3.21,
+      "strike_rate": 46.92
     }
   },
   {
@@ -8810,6 +8893,48 @@
       "average": 19.19,
       "economy": 3.18,
       "strike_rate": 36.25
+    }
+  },
+  {
+    "player": "BW Aitchison",
+    "season": "2026",
+    "team": "Derbyshire",
+    "balls": 1796,
+    "overs": "299.2",
+    "runs": 842,
+    "wickets": 40,
+    "maidens": 64,
+    "average": 21.05,
+    "economy": 2.81,
+    "strike_rate": 44.9,
+    "best": "5/47",
+    "five_wkt": 3,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "lbw": 11,
+      "caught": 21,
+      "bowled": 7,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 888,
+      "overs": "148.0",
+      "runs": 390,
+      "wickets": 17,
+      "maidens": 37,
+      "average": 22.94,
+      "economy": 2.64,
+      "strike_rate": 52.24
+    },
+    "away": {
+      "balls": 908,
+      "overs": "151.2",
+      "runs": 452,
+      "wickets": 23,
+      "maidens": 27,
+      "average": 19.65,
+      "economy": 2.99,
+      "strike_rate": 39.48
     }
   },
   {
@@ -9603,6 +9728,48 @@
     }
   },
   {
+    "player": "BW Sanderson",
+    "season": "2026",
+    "team": "Northamptonshire",
+    "balls": 1563,
+    "overs": "260.3",
+    "runs": 731,
+    "wickets": 39,
+    "maidens": 53,
+    "average": 18.74,
+    "economy": 2.81,
+    "strike_rate": 40.08,
+    "best": "7/31",
+    "five_wkt": 4,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "lbw": 9,
+      "caught": 23,
+      "bowled": 6,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 687,
+      "overs": "114.3",
+      "runs": 337,
+      "wickets": 22,
+      "maidens": 19,
+      "average": 15.32,
+      "economy": 2.94,
+      "strike_rate": 31.23
+    },
+    "away": {
+      "balls": 876,
+      "overs": "146.0",
+      "runs": 394,
+      "wickets": 17,
+      "maidens": 34,
+      "average": 23.18,
+      "economy": 2.7,
+      "strike_rate": 51.53
+    }
+  },
+  {
     "player": "SA Patterson",
     "season": "2016",
     "team": "Yorkshire",
@@ -10096,6 +10263,47 @@
       "average": 17.45,
       "economy": 2.49,
       "strike_rate": 42.0
+    }
+  },
+  {
+    "player": "KJ Abbott",
+    "season": "2026",
+    "team": "Hampshire",
+    "balls": 1511,
+    "overs": "251.5",
+    "runs": 636,
+    "wickets": 39,
+    "maidens": 76,
+    "average": 16.31,
+    "economy": 2.53,
+    "strike_rate": 38.74,
+    "best": "6/21",
+    "five_wkt": 2,
+    "four_wkt": 3,
+    "dismissal_types": {
+      "bowled": 11,
+      "caught": 21,
+      "lbw": 7
+    },
+    "home": {
+      "balls": 703,
+      "overs": "117.1",
+      "runs": 324,
+      "wickets": 10,
+      "maidens": 32,
+      "average": 32.4,
+      "economy": 2.77,
+      "strike_rate": 70.3
+    },
+    "away": {
+      "balls": 808,
+      "overs": "134.4",
+      "runs": 312,
+      "wickets": 29,
+      "maidens": 44,
+      "average": 10.76,
+      "economy": 2.32,
+      "strike_rate": 27.86
     }
   },
   {
@@ -11223,6 +11431,48 @@
     }
   },
   {
+    "player": "JM Anderson",
+    "season": "2026",
+    "team": "Lancashire",
+    "balls": 1405,
+    "overs": "234.1",
+    "runs": 656,
+    "wickets": 38,
+    "maidens": 49,
+    "average": 17.26,
+    "economy": 2.8,
+    "strike_rate": 36.97,
+    "best": "5/66",
+    "five_wkt": 1,
+    "four_wkt": 3,
+    "dismissal_types": {
+      "bowled": 8,
+      "caught": 21,
+      "lbw": 8,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 317,
+      "overs": "52.5",
+      "runs": 163,
+      "wickets": 10,
+      "maidens": 12,
+      "average": 16.3,
+      "economy": 3.09,
+      "strike_rate": 31.7
+    },
+    "away": {
+      "balls": 724,
+      "overs": "120.4",
+      "runs": 353,
+      "wickets": 19,
+      "maidens": 21,
+      "average": 18.58,
+      "economy": 2.93,
+      "strike_rate": 38.11
+    }
+  },
+  {
     "player": "CJ White",
     "season": "2022",
     "team": "Northamptonshire",
@@ -11346,6 +11596,47 @@
       "average": 35.73,
       "economy": 4.1,
       "strike_rate": 52.27
+    }
+  },
+  {
+    "player": "ER Bamber",
+    "season": "2026",
+    "team": "Warwickshire",
+    "balls": 1776,
+    "overs": "296.0",
+    "runs": 931,
+    "wickets": 37,
+    "maidens": 62,
+    "average": 25.16,
+    "economy": 3.15,
+    "strike_rate": 48.0,
+    "best": "5/48",
+    "five_wkt": 1,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 24,
+      "bowled": 7,
+      "lbw": 6
+    },
+    "home": {
+      "balls": 912,
+      "overs": "152.0",
+      "runs": 446,
+      "wickets": 23,
+      "maidens": 34,
+      "average": 19.39,
+      "economy": 2.93,
+      "strike_rate": 39.65
+    },
+    "away": {
+      "balls": 864,
+      "overs": "144.0",
+      "runs": 485,
+      "wickets": 14,
+      "maidens": 28,
+      "average": 34.64,
+      "economy": 3.37,
+      "strike_rate": 61.71
     }
   },
   {
@@ -12765,48 +13056,6 @@
     }
   },
   {
-    "player": "BA Raine",
-    "season": "2026",
-    "team": "Durham",
-    "balls": 1451,
-    "overs": "241.5",
-    "runs": 608,
-    "wickets": 36,
-    "maidens": 57,
-    "average": 16.89,
-    "economy": 2.51,
-    "strike_rate": 40.31,
-    "best": "5/45",
-    "five_wkt": 3,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 18,
-      "bowled": 7,
-      "lbw": 10,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 645,
-      "overs": "107.3",
-      "runs": 295,
-      "wickets": 14,
-      "maidens": 18,
-      "average": 21.07,
-      "economy": 2.74,
-      "strike_rate": 46.07
-    },
-    "away": {
-      "balls": 806,
-      "overs": "134.2",
-      "runs": 313,
-      "wickets": 22,
-      "maidens": 39,
-      "average": 14.23,
-      "economy": 2.33,
-      "strike_rate": 36.64
-    }
-  },
-  {
     "player": "WSA Williams",
     "season": "2022",
     "team": "Lancashire",
@@ -12970,48 +13219,6 @@
       "average": 35.44,
       "economy": 3.66,
       "strike_rate": 58.11
-    }
-  },
-  {
-    "player": "JM Anderson",
-    "season": "2026",
-    "team": "Lancashire",
-    "balls": 1275,
-    "overs": "212.3",
-    "runs": 583,
-    "wickets": 36,
-    "maidens": 49,
-    "average": 16.19,
-    "economy": 2.74,
-    "strike_rate": 35.42,
-    "best": "5/66",
-    "five_wkt": 1,
-    "four_wkt": 3,
-    "dismissal_types": {
-      "bowled": 8,
-      "caught": 19,
-      "lbw": 8,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 317,
-      "overs": "52.5",
-      "runs": 163,
-      "wickets": 10,
-      "maidens": 12,
-      "average": 16.3,
-      "economy": 3.09,
-      "strike_rate": 31.7
-    },
-    "away": {
-      "balls": 594,
-      "overs": "99.0",
-      "runs": 280,
-      "wickets": 17,
-      "maidens": 21,
-      "average": 16.47,
-      "economy": 2.83,
-      "strike_rate": 34.94
     }
   },
   {
@@ -13723,89 +13930,6 @@
       "average": 23.62,
       "economy": 2.85,
       "strike_rate": 49.75
-    }
-  },
-  {
-    "player": "ER Bamber",
-    "season": "2026",
-    "team": "Warwickshire",
-    "balls": 1554,
-    "overs": "259.0",
-    "runs": 832,
-    "wickets": 34,
-    "maidens": 50,
-    "average": 24.47,
-    "economy": 3.21,
-    "strike_rate": 45.71,
-    "best": "5/48",
-    "five_wkt": 1,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 22,
-      "bowled": 7,
-      "lbw": 5
-    },
-    "home": {
-      "balls": 912,
-      "overs": "152.0",
-      "runs": 446,
-      "wickets": 23,
-      "maidens": 34,
-      "average": 19.39,
-      "economy": 2.93,
-      "strike_rate": 39.65
-    },
-    "away": {
-      "balls": 642,
-      "overs": "107.0",
-      "runs": 386,
-      "wickets": 11,
-      "maidens": 16,
-      "average": 35.09,
-      "economy": 3.61,
-      "strike_rate": 58.36
-    }
-  },
-  {
-    "player": "BW Sanderson",
-    "season": "2026",
-    "team": "Northamptonshire",
-    "balls": 1263,
-    "overs": "210.3",
-    "runs": 560,
-    "wickets": 34,
-    "maidens": 47,
-    "average": 16.47,
-    "economy": 2.66,
-    "strike_rate": 37.15,
-    "best": "7/31",
-    "five_wkt": 4,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 22,
-      "lbw": 6,
-      "bowled": 5,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 687,
-      "overs": "114.3",
-      "runs": 337,
-      "wickets": 22,
-      "maidens": 19,
-      "average": 15.32,
-      "economy": 2.94,
-      "strike_rate": 31.23
-    },
-    "away": {
-      "balls": 576,
-      "overs": "96.0",
-      "runs": 223,
-      "wickets": 12,
-      "maidens": 28,
-      "average": 18.58,
-      "economy": 2.32,
-      "strike_rate": 48.0
     }
   },
   {
@@ -15008,47 +15132,6 @@
     }
   },
   {
-    "player": "MJ Potts",
-    "season": "2026",
-    "team": "Durham",
-    "balls": 1279,
-    "overs": "213.1",
-    "runs": 639,
-    "wickets": 34,
-    "maidens": 42,
-    "average": 18.79,
-    "economy": 3.0,
-    "strike_rate": 37.62,
-    "best": "8/66",
-    "five_wkt": 2,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 19,
-      "bowled": 8,
-      "lbw": 7
-    },
-    "home": {
-      "balls": 669,
-      "overs": "111.3",
-      "runs": 313,
-      "wickets": 21,
-      "maidens": 22,
-      "average": 14.9,
-      "economy": 2.81,
-      "strike_rate": 31.86
-    },
-    "away": {
-      "balls": 610,
-      "overs": "101.4",
-      "runs": 326,
-      "wickets": 13,
-      "maidens": 20,
-      "average": 25.08,
-      "economy": 3.21,
-      "strike_rate": 46.92
-    }
-  },
-  {
     "player": "J Leach",
     "season": "2022",
     "team": "Worcestershire",
@@ -15129,6 +15212,48 @@
       "average": 43.47,
       "economy": 3.49,
       "strike_rate": 74.8
+    }
+  },
+  {
+    "player": "HNA Conway",
+    "season": "2026",
+    "team": "Northamptonshire",
+    "balls": 1607,
+    "overs": "267.5",
+    "runs": 809,
+    "wickets": 34,
+    "maidens": 41,
+    "average": 23.79,
+    "economy": 3.02,
+    "strike_rate": 47.26,
+    "best": "5/36",
+    "five_wkt": 1,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "lbw": 5,
+      "caught": 24,
+      "bowled": 4,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 822,
+      "overs": "137.0",
+      "runs": 401,
+      "wickets": 14,
+      "maidens": 21,
+      "average": 28.64,
+      "economy": 2.93,
+      "strike_rate": 58.71
+    },
+    "away": {
+      "balls": 785,
+      "overs": "130.5",
+      "runs": 408,
+      "wickets": 20,
+      "maidens": 20,
+      "average": 20.4,
+      "economy": 3.12,
+      "strike_rate": 39.25
     }
   },
   {
@@ -15342,45 +15467,45 @@
     }
   },
   {
-    "player": "BW Aitchison",
+    "player": "C Overton",
     "season": "2026",
-    "team": "Derbyshire",
-    "balls": 1610,
-    "overs": "268.2",
-    "runs": 763,
+    "team": "Somerset",
+    "balls": 1555,
+    "overs": "259.1",
+    "runs": 645,
     "wickets": 33,
-    "maidens": 55,
-    "average": 23.12,
-    "economy": 2.84,
-    "strike_rate": 48.79,
-    "best": "5/47",
-    "five_wkt": 2,
+    "maidens": 71,
+    "average": 19.55,
+    "economy": 2.49,
+    "strike_rate": 47.12,
+    "best": "5/29",
+    "five_wkt": 1,
     "four_wkt": 1,
     "dismissal_types": {
-      "lbw": 9,
-      "caught": 18,
-      "bowled": 5,
-      "caught and bowled": 1
+      "caught and bowled": 3,
+      "lbw": 8,
+      "caught": 19,
+      "bowled": 3
     },
     "home": {
-      "balls": 702,
-      "overs": "117.0",
-      "runs": 311,
-      "wickets": 10,
-      "maidens": 28,
-      "average": 31.1,
-      "economy": 2.66,
-      "strike_rate": 70.2
+      "balls": 715,
+      "overs": "119.1",
+      "runs": 301,
+      "wickets": 14,
+      "maidens": 30,
+      "average": 21.5,
+      "economy": 2.53,
+      "strike_rate": 51.07
     },
     "away": {
-      "balls": 908,
-      "overs": "151.2",
-      "runs": 452,
-      "wickets": 23,
-      "maidens": 27,
-      "average": 19.65,
-      "economy": 2.99,
-      "strike_rate": 39.48
+      "balls": 840,
+      "overs": "140.0",
+      "runs": 344,
+      "wickets": 19,
+      "maidens": 41,
+      "average": 18.11,
+      "economy": 2.46,
+      "strike_rate": 44.21
     }
   },
   {
@@ -16340,6 +16465,49 @@
     }
   },
   {
+    "player": "LA Patterson-White",
+    "season": "2026",
+    "team": "Nottinghamshire",
+    "balls": 1718,
+    "overs": "286.2",
+    "runs": 759,
+    "wickets": 32,
+    "maidens": 67,
+    "average": 23.72,
+    "economy": 2.65,
+    "strike_rate": 53.69,
+    "best": "6/43",
+    "five_wkt": 2,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "caught": 18,
+      "stumped": 1,
+      "lbw": 7,
+      "bowled": 5,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 656,
+      "overs": "109.2",
+      "runs": 291,
+      "wickets": 9,
+      "maidens": 28,
+      "average": 32.33,
+      "economy": 2.66,
+      "strike_rate": 72.89
+    },
+    "away": {
+      "balls": 1062,
+      "overs": "177.0",
+      "runs": 468,
+      "wickets": 23,
+      "maidens": 39,
+      "average": 20.35,
+      "economy": 2.64,
+      "strike_rate": 46.17
+    }
+  },
+  {
     "player": "SJ Cook",
     "season": "2019",
     "team": "Essex",
@@ -17256,48 +17424,6 @@
       "average": 31.5,
       "economy": 3.19,
       "strike_rate": 59.33
-    }
-  },
-  {
-    "player": "C Overton",
-    "season": "2026",
-    "team": "Somerset",
-    "balls": 1399,
-    "overs": "233.1",
-    "runs": 595,
-    "wickets": 31,
-    "maidens": 64,
-    "average": 19.19,
-    "economy": 2.55,
-    "strike_rate": 45.13,
-    "best": "5/29",
-    "five_wkt": 1,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "lbw": 8,
-      "caught": 19,
-      "bowled": 3,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 559,
-      "overs": "93.1",
-      "runs": 251,
-      "wickets": 12,
-      "maidens": 23,
-      "average": 20.92,
-      "economy": 2.69,
-      "strike_rate": 46.58
-    },
-    "away": {
-      "balls": 840,
-      "overs": "140.0",
-      "runs": 344,
-      "wickets": 19,
-      "maidens": 41,
-      "average": 18.11,
-      "economy": 2.46,
-      "strike_rate": 44.21
     }
   },
   {
@@ -19087,44 +19213,45 @@
     }
   },
   {
-    "player": "KJ Abbott",
+    "player": "BGF Green",
     "season": "2026",
-    "team": "Hampshire",
-    "balls": 1326,
-    "overs": "221.0",
-    "runs": 581,
+    "team": "Leicestershire",
+    "balls": 1583,
+    "overs": "263.5",
+    "runs": 802,
     "wickets": 30,
-    "maidens": 64,
-    "average": 19.37,
-    "economy": 2.63,
-    "strike_rate": 44.2,
-    "best": "6/21",
+    "maidens": 53,
+    "average": 26.73,
+    "economy": 3.04,
+    "strike_rate": 52.77,
+    "best": "7/112",
     "five_wkt": 1,
-    "four_wkt": 3,
+    "four_wkt": 0,
     "dismissal_types": {
-      "bowled": 10,
-      "caught": 14,
-      "lbw": 6
+      "caught": 17,
+      "lbw": 4,
+      "bowled": 8,
+      "stumped": 1
     },
     "home": {
-      "balls": 703,
-      "overs": "117.1",
-      "runs": 324,
-      "wickets": 10,
-      "maidens": 32,
-      "average": 32.4,
-      "economy": 2.77,
-      "strike_rate": 70.3
+      "balls": 869,
+      "overs": "144.5",
+      "runs": 415,
+      "wickets": 19,
+      "maidens": 27,
+      "average": 21.84,
+      "economy": 2.87,
+      "strike_rate": 45.74
     },
     "away": {
-      "balls": 623,
-      "overs": "103.5",
-      "runs": 257,
-      "wickets": 20,
-      "maidens": 32,
-      "average": 12.85,
-      "economy": 2.48,
-      "strike_rate": 31.15
+      "balls": 714,
+      "overs": "119.0",
+      "runs": 387,
+      "wickets": 11,
+      "maidens": 26,
+      "average": 35.18,
+      "economy": 3.25,
+      "strike_rate": 64.91
     }
   },
   {
@@ -20290,6 +20417,47 @@
     }
   },
   {
+    "player": "KJ Dudgeon",
+    "season": "2026",
+    "team": "Kent",
+    "balls": 1308,
+    "overs": "218.0",
+    "runs": 849,
+    "wickets": 29,
+    "maidens": 27,
+    "average": 29.28,
+    "economy": 3.89,
+    "strike_rate": 45.1,
+    "best": "6/21",
+    "five_wkt": 1,
+    "four_wkt": 3,
+    "dismissal_types": {
+      "caught": 18,
+      "bowled": 6,
+      "lbw": 5
+    },
+    "home": {
+      "balls": 648,
+      "overs": "108.0",
+      "runs": 462,
+      "wickets": 13,
+      "maidens": 10,
+      "average": 35.54,
+      "economy": 4.28,
+      "strike_rate": 49.85
+    },
+    "away": {
+      "balls": 546,
+      "overs": "91.0",
+      "runs": 334,
+      "wickets": 10,
+      "maidens": 14,
+      "average": 33.4,
+      "economy": 3.67,
+      "strike_rate": 54.6
+    }
+  },
+  {
     "player": "J Shaw",
     "season": "2016",
     "team": "Gloucestershire, Yorkshire",
@@ -20370,48 +20538,6 @@
       "average": 36.8,
       "economy": 3.29,
       "strike_rate": 67.2
-    }
-  },
-  {
-    "player": "HNA Conway",
-    "season": "2026",
-    "team": "Northamptonshire",
-    "balls": 1385,
-    "overs": "230.5",
-    "runs": 694,
-    "wickets": 29,
-    "maidens": 35,
-    "average": 23.93,
-    "economy": 3.01,
-    "strike_rate": 47.76,
-    "best": "5/36",
-    "five_wkt": 1,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "lbw": 5,
-      "caught": 20,
-      "caught and bowled": 1,
-      "bowled": 3
-    },
-    "home": {
-      "balls": 822,
-      "overs": "137.0",
-      "runs": 401,
-      "wickets": 14,
-      "maidens": 21,
-      "average": 28.64,
-      "economy": 2.93,
-      "strike_rate": 58.71
-    },
-    "away": {
-      "balls": 563,
-      "overs": "93.5",
-      "runs": 293,
-      "wickets": 15,
-      "maidens": 14,
-      "average": 19.53,
-      "economy": 3.12,
-      "strike_rate": 37.53
     }
   },
   {
@@ -20786,6 +20912,47 @@
       "average": 20.56,
       "economy": 2.82,
       "strike_rate": 43.78
+    }
+  },
+  {
+    "player": "GP Balderson",
+    "season": "2026",
+    "team": "Lancashire",
+    "balls": 1265,
+    "overs": "210.5",
+    "runs": 652,
+    "wickets": 28,
+    "maidens": 41,
+    "average": 23.29,
+    "economy": 3.09,
+    "strike_rate": 45.18,
+    "best": "5/34",
+    "five_wkt": 1,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "bowled": 5,
+      "lbw": 5,
+      "caught": 18
+    },
+    "home": {
+      "balls": 74,
+      "overs": "12.2",
+      "runs": 42,
+      "wickets": 5,
+      "maidens": 1,
+      "average": 8.4,
+      "economy": 3.41,
+      "strike_rate": 14.8
+    },
+    "away": {
+      "balls": 807,
+      "overs": "134.3",
+      "runs": 413,
+      "wickets": 16,
+      "maidens": 31,
+      "average": 25.81,
+      "economy": 3.07,
+      "strike_rate": 50.44
     }
   },
   {
@@ -21330,14 +21497,14 @@
     "player": "GCH Hill",
     "season": "2026",
     "team": "Yorkshire",
-    "balls": 1227,
-    "overs": "204.3",
-    "runs": 580,
+    "balls": 1341,
+    "overs": "223.3",
+    "runs": 645,
     "wickets": 27,
-    "maidens": 49,
-    "average": 21.48,
-    "economy": 2.84,
-    "strike_rate": 45.44,
+    "maidens": 53,
+    "average": 23.89,
+    "economy": 2.89,
+    "strike_rate": 49.67,
     "best": "5/46",
     "five_wkt": 1,
     "four_wkt": 1,
@@ -21358,14 +21525,14 @@
       "strike_rate": 34.35
     },
     "away": {
-      "balls": 540,
-      "overs": "90.0",
-      "runs": 219,
+      "balls": 654,
+      "overs": "109.0",
+      "runs": 284,
       "wickets": 7,
-      "maidens": 22,
-      "average": 31.29,
-      "economy": 2.43,
-      "strike_rate": 77.14
+      "maidens": 26,
+      "average": 40.57,
+      "economy": 2.61,
+      "strike_rate": 93.43
     }
   },
   {
@@ -22696,6 +22863,47 @@
     }
   },
   {
+    "player": "R Hadley",
+    "season": "2026",
+    "team": "Glamorgan",
+    "balls": 1209,
+    "overs": "201.3",
+    "runs": 754,
+    "wickets": 27,
+    "maidens": 25,
+    "average": 27.93,
+    "economy": 3.74,
+    "strike_rate": 44.78,
+    "best": "4/76",
+    "five_wkt": 0,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "caught": 21,
+      "bowled": 4,
+      "lbw": 2
+    },
+    "home": {
+      "balls": 671,
+      "overs": "111.5",
+      "runs": 382,
+      "wickets": 18,
+      "maidens": 15,
+      "average": 21.22,
+      "economy": 3.42,
+      "strike_rate": 37.28
+    },
+    "away": {
+      "balls": 538,
+      "overs": "89.4",
+      "runs": 372,
+      "wickets": 9,
+      "maidens": 10,
+      "average": 41.33,
+      "economy": 4.15,
+      "strike_rate": 59.78
+    }
+  },
+  {
     "player": "DM Bess",
     "season": "2019",
     "team": "Somerset, Yorkshire",
@@ -22904,6 +23112,47 @@
       "average": 35.0,
       "economy": 3.06,
       "strike_rate": 68.57
+    }
+  },
+  {
+    "player": "TS Roland-Jones",
+    "season": "2026",
+    "team": "Middlesex",
+    "balls": 1453,
+    "overs": "242.1",
+    "runs": 634,
+    "wickets": 26,
+    "maidens": 64,
+    "average": 24.38,
+    "economy": 2.62,
+    "strike_rate": 55.88,
+    "best": "5/37",
+    "five_wkt": 1,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "lbw": 3,
+      "caught": 14,
+      "bowled": 9
+    },
+    "home": {
+      "balls": 752,
+      "overs": "125.2",
+      "runs": 353,
+      "wickets": 12,
+      "maidens": 34,
+      "average": 29.42,
+      "economy": 2.82,
+      "strike_rate": 62.67
+    },
+    "away": {
+      "balls": 701,
+      "overs": "116.5",
+      "runs": 281,
+      "wickets": 14,
+      "maidens": 30,
+      "average": 20.07,
+      "economy": 2.41,
+      "strike_rate": 50.07
     }
   },
   {
@@ -23448,6 +23697,90 @@
     }
   },
   {
+    "player": "S Snater",
+    "season": "2026",
+    "team": "Essex",
+    "balls": 1178,
+    "overs": "196.2",
+    "runs": 534,
+    "wickets": 26,
+    "maidens": 47,
+    "average": 20.54,
+    "economy": 2.72,
+    "strike_rate": 45.31,
+    "best": "4/12",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "bowled": 8,
+      "caught": 11,
+      "caught and bowled": 1,
+      "lbw": 6
+    },
+    "home": {
+      "balls": 497,
+      "overs": "82.5",
+      "runs": 238,
+      "wickets": 14,
+      "maidens": 21,
+      "average": 17.0,
+      "economy": 2.87,
+      "strike_rate": 35.5
+    },
+    "away": {
+      "balls": 681,
+      "overs": "113.3",
+      "runs": 296,
+      "wickets": 12,
+      "maidens": 26,
+      "average": 24.67,
+      "economy": 2.61,
+      "strike_rate": 56.75
+    }
+  },
+  {
+    "player": "T van der Gugten",
+    "season": "2026",
+    "team": "Glamorgan",
+    "balls": 1547,
+    "overs": "257.5",
+    "runs": 691,
+    "wickets": 26,
+    "maidens": 67,
+    "average": 26.58,
+    "economy": 2.68,
+    "strike_rate": 59.5,
+    "best": "4/53",
+    "five_wkt": 0,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "lbw": 6,
+      "bowled": 7,
+      "caught": 11,
+      "caught and bowled": 2
+    },
+    "home": {
+      "balls": 750,
+      "overs": "125.0",
+      "runs": 327,
+      "wickets": 9,
+      "maidens": 30,
+      "average": 36.33,
+      "economy": 2.62,
+      "strike_rate": 83.33
+    },
+    "away": {
+      "balls": 797,
+      "overs": "132.5",
+      "runs": 364,
+      "wickets": 17,
+      "maidens": 37,
+      "average": 21.41,
+      "economy": 2.74,
+      "strike_rate": 46.88
+    }
+  },
+  {
     "player": "SR Patel",
     "season": "2015",
     "team": "Nottinghamshire",
@@ -23488,48 +23821,6 @@
       "average": 31.82,
       "economy": 3.11,
       "strike_rate": 61.36
-    }
-  },
-  {
-    "player": "BGF Green",
-    "season": "2026",
-    "team": "Leicestershire",
-    "balls": 1361,
-    "overs": "226.5",
-    "runs": 734,
-    "wickets": 26,
-    "maidens": 40,
-    "average": 28.23,
-    "economy": 3.24,
-    "strike_rate": 52.35,
-    "best": "7/112",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 15,
-      "lbw": 3,
-      "bowled": 7,
-      "stumped": 1
-    },
-    "home": {
-      "balls": 647,
-      "overs": "107.5",
-      "runs": 347,
-      "wickets": 15,
-      "maidens": 14,
-      "average": 23.13,
-      "economy": 3.22,
-      "strike_rate": 43.13
-    },
-    "away": {
-      "balls": 714,
-      "overs": "119.0",
-      "runs": 387,
-      "wickets": 11,
-      "maidens": 26,
-      "average": 35.18,
-      "economy": 3.25,
-      "strike_rate": 64.91
     }
   },
   {
@@ -23616,6 +23907,48 @@
     }
   },
   {
+    "player": "TAI Taylor",
+    "season": "2026",
+    "team": "Worcestershire",
+    "balls": 1437,
+    "overs": "239.3",
+    "runs": 790,
+    "wickets": 26,
+    "maidens": 45,
+    "average": 30.38,
+    "economy": 3.3,
+    "strike_rate": 55.27,
+    "best": "5/56",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 15,
+      "lbw": 6,
+      "caught and bowled": 2,
+      "bowled": 3
+    },
+    "home": {
+      "balls": 720,
+      "overs": "120.0",
+      "runs": 375,
+      "wickets": 14,
+      "maidens": 25,
+      "average": 26.79,
+      "economy": 3.12,
+      "strike_rate": 51.43
+    },
+    "away": {
+      "balls": 591,
+      "overs": "98.3",
+      "runs": 348,
+      "wickets": 11,
+      "maidens": 17,
+      "average": 31.64,
+      "economy": 3.53,
+      "strike_rate": 53.73
+    }
+  },
+  {
     "player": "R Clarke",
     "season": "2019",
     "team": "Surrey",
@@ -23699,6 +24032,47 @@
     }
   },
   {
+    "player": "ME Milnes",
+    "season": "2026",
+    "team": "Kent",
+    "balls": 1225,
+    "overs": "204.1",
+    "runs": 648,
+    "wickets": 26,
+    "maidens": 37,
+    "average": 24.92,
+    "economy": 3.17,
+    "strike_rate": 47.12,
+    "best": "6/12",
+    "five_wkt": 2,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "bowled": 8,
+      "caught": 12,
+      "lbw": 6
+    },
+    "home": {
+      "balls": 726,
+      "overs": "121.0",
+      "runs": 400,
+      "wickets": 19,
+      "maidens": 20,
+      "average": 21.05,
+      "economy": 3.31,
+      "strike_rate": 38.21
+    },
+    "away": {
+      "balls": 355,
+      "overs": "59.1",
+      "runs": 202,
+      "wickets": 6,
+      "maidens": 10,
+      "average": 33.67,
+      "economy": 3.41,
+      "strike_rate": 59.17
+    }
+  },
+  {
     "player": "JW Dernbach",
     "season": "2018",
     "team": "Surrey",
@@ -23779,6 +24153,47 @@
       "average": 40.2,
       "economy": 2.81,
       "strike_rate": 85.8
+    }
+  },
+  {
+    "player": "F O'Neill",
+    "season": "2026",
+    "team": "Nottinghamshire",
+    "balls": 953,
+    "overs": "158.5",
+    "runs": 426,
+    "wickets": 26,
+    "maidens": 36,
+    "average": 16.38,
+    "economy": 2.68,
+    "strike_rate": 36.65,
+    "best": "6/72",
+    "five_wkt": 3,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "lbw": 9,
+      "bowled": 3,
+      "caught": 14
+    },
+    "home": {
+      "balls": 522,
+      "overs": "87.0",
+      "runs": 258,
+      "wickets": 12,
+      "maidens": 22,
+      "average": 21.5,
+      "economy": 2.97,
+      "strike_rate": 43.5
+    },
+    "away": {
+      "balls": 431,
+      "overs": "71.5",
+      "runs": 168,
+      "wickets": 14,
+      "maidens": 14,
+      "average": 12.0,
+      "economy": 2.34,
+      "strike_rate": 30.79
     }
   },
   {
@@ -24111,47 +24526,6 @@
     }
   },
   {
-    "player": "TS Roland-Jones",
-    "season": "2026",
-    "team": "Middlesex",
-    "balls": 1268,
-    "overs": "211.2",
-    "runs": 563,
-    "wickets": 25,
-    "maidens": 55,
-    "average": 22.52,
-    "economy": 2.66,
-    "strike_rate": 50.72,
-    "best": "5/37",
-    "five_wkt": 1,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "lbw": 3,
-      "caught": 13,
-      "bowled": 9
-    },
-    "home": {
-      "balls": 752,
-      "overs": "125.2",
-      "runs": 353,
-      "wickets": 12,
-      "maidens": 34,
-      "average": 29.42,
-      "economy": 2.82,
-      "strike_rate": 62.67
-    },
-    "away": {
-      "balls": 516,
-      "overs": "86.0",
-      "runs": 210,
-      "wickets": 13,
-      "maidens": 21,
-      "average": 16.15,
-      "economy": 2.44,
-      "strike_rate": 39.69
-    }
-  },
-  {
     "player": "HJH Brookes",
     "season": "2019",
     "team": "Warwickshire",
@@ -24276,47 +24650,6 @@
     }
   },
   {
-    "player": "GP Balderson",
-    "season": "2026",
-    "team": "Lancashire",
-    "balls": 1122,
-    "overs": "187.0",
-    "runs": 566,
-    "wickets": 25,
-    "maidens": 36,
-    "average": 22.64,
-    "economy": 3.03,
-    "strike_rate": 44.88,
-    "best": "5/34",
-    "five_wkt": 1,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "bowled": 4,
-      "lbw": 4,
-      "caught": 17
-    },
-    "home": {
-      "balls": 74,
-      "overs": "12.2",
-      "runs": 42,
-      "wickets": 5,
-      "maidens": 1,
-      "average": 8.4,
-      "economy": 3.41,
-      "strike_rate": 14.8
-    },
-    "away": {
-      "balls": 664,
-      "overs": "110.4",
-      "runs": 327,
-      "wickets": 13,
-      "maidens": 26,
-      "average": 25.15,
-      "economy": 2.95,
-      "strike_rate": 51.08
-    }
-  },
-  {
     "player": "KHD Barker",
     "season": "2017",
     "team": "Warwickshire",
@@ -24396,6 +24729,48 @@
       "average": 62.0,
       "economy": 2.55,
       "strike_rate": 146.0
+    }
+  },
+  {
+    "player": "SR Harmer",
+    "season": "2026",
+    "team": "Essex",
+    "balls": 1585,
+    "overs": "264.1",
+    "runs": 760,
+    "wickets": 25,
+    "maidens": 59,
+    "average": 30.4,
+    "economy": 2.88,
+    "strike_rate": 63.4,
+    "best": "5/165",
+    "five_wkt": 1,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 12,
+      "lbw": 6,
+      "caught and bowled": 3,
+      "bowled": 4
+    },
+    "home": {
+      "balls": 706,
+      "overs": "117.4",
+      "runs": 387,
+      "wickets": 11,
+      "maidens": 25,
+      "average": 35.18,
+      "economy": 3.29,
+      "strike_rate": 64.18
+    },
+    "away": {
+      "balls": 879,
+      "overs": "146.3",
+      "runs": 373,
+      "wickets": 14,
+      "maidens": 34,
+      "average": 26.64,
+      "economy": 2.55,
+      "strike_rate": 62.79
     }
   },
   {
@@ -25776,48 +26151,6 @@
     }
   },
   {
-    "player": "T van der Gugten",
-    "season": "2026",
-    "team": "Glamorgan",
-    "balls": 1313,
-    "overs": "218.5",
-    "runs": 614,
-    "wickets": 24,
-    "maidens": 56,
-    "average": 25.58,
-    "economy": 2.81,
-    "strike_rate": 54.71,
-    "best": "4/53",
-    "five_wkt": 0,
-    "four_wkt": 2,
-    "dismissal_types": {
-      "lbw": 6,
-      "bowled": 7,
-      "caught": 10,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 516,
-      "overs": "86.0",
-      "runs": 250,
-      "wickets": 7,
-      "maidens": 19,
-      "average": 35.71,
-      "economy": 2.91,
-      "strike_rate": 73.71
-    },
-    "away": {
-      "balls": 797,
-      "overs": "132.5",
-      "runs": 364,
-      "wickets": 17,
-      "maidens": 37,
-      "average": 21.41,
-      "economy": 2.74,
-      "strike_rate": 46.88
-    }
-  },
-  {
     "player": "HF Gurney",
     "season": "2017",
     "team": "Nottinghamshire",
@@ -26064,48 +26397,6 @@
     }
   },
   {
-    "player": "TAI Taylor",
-    "season": "2026",
-    "team": "Worcestershire",
-    "balls": 1293,
-    "overs": "215.3",
-    "runs": 721,
-    "wickets": 24,
-    "maidens": 40,
-    "average": 30.04,
-    "economy": 3.35,
-    "strike_rate": 53.88,
-    "best": "5/56",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 14,
-      "lbw": 5,
-      "caught and bowled": 2,
-      "bowled": 3
-    },
-    "home": {
-      "balls": 576,
-      "overs": "96.0",
-      "runs": 306,
-      "wickets": 12,
-      "maidens": 20,
-      "average": 25.5,
-      "economy": 3.19,
-      "strike_rate": 48.0
-    },
-    "away": {
-      "balls": 591,
-      "overs": "98.3",
-      "runs": 348,
-      "wickets": 11,
-      "maidens": 17,
-      "average": 31.64,
-      "economy": 3.53,
-      "strike_rate": 53.73
-    }
-  },
-  {
     "player": "JP McIlroy",
     "season": "2023",
     "team": "Glamorgan",
@@ -26187,6 +26478,47 @@
       "average": 37.5,
       "economy": 2.52,
       "strike_rate": 89.12
+    }
+  },
+  {
+    "player": "WSA Williams",
+    "season": "2026",
+    "team": "Gloucestershire",
+    "balls": 1635,
+    "overs": "272.3",
+    "runs": 768,
+    "wickets": 24,
+    "maidens": 68,
+    "average": 32.0,
+    "economy": 2.82,
+    "strike_rate": 68.12,
+    "best": "4/48",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "bowled": 9,
+      "caught": 8,
+      "lbw": 7
+    },
+    "home": {
+      "balls": 801,
+      "overs": "133.3",
+      "runs": 416,
+      "wickets": 14,
+      "maidens": 33,
+      "average": 29.71,
+      "economy": 3.12,
+      "strike_rate": 57.21
+    },
+    "away": {
+      "balls": 834,
+      "overs": "139.0",
+      "runs": 352,
+      "wickets": 10,
+      "maidens": 35,
+      "average": 35.2,
+      "economy": 2.53,
+      "strike_rate": 83.4
     }
   },
   {
@@ -26894,14 +27226,14 @@
     "player": "CJ White",
     "season": "2026",
     "team": "Yorkshire",
-    "balls": 1240,
-    "overs": "206.4",
-    "runs": 507,
+    "balls": 1360,
+    "overs": "226.4",
+    "runs": 592,
     "wickets": 23,
-    "maidens": 64,
-    "average": 22.04,
-    "economy": 2.45,
-    "strike_rate": 53.91,
+    "maidens": 67,
+    "average": 25.74,
+    "economy": 2.61,
+    "strike_rate": 59.13,
     "best": "4/41",
     "five_wkt": 0,
     "four_wkt": 3,
@@ -26921,14 +27253,14 @@
       "strike_rate": 63.64
     },
     "away": {
-      "balls": 540,
-      "overs": "90.0",
-      "runs": 233,
+      "balls": 660,
+      "overs": "110.0",
+      "runs": 318,
       "wickets": 12,
-      "maidens": 28,
-      "average": 19.42,
-      "economy": 2.59,
-      "strike_rate": 45.0
+      "maidens": 31,
+      "average": 26.5,
+      "economy": 2.89,
+      "strike_rate": 55.0
     }
   },
   {
@@ -27473,49 +27805,6 @@
     }
   },
   {
-    "player": "LA Patterson-White",
-    "season": "2026",
-    "team": "Nottinghamshire",
-    "balls": 1402,
-    "overs": "233.4",
-    "runs": 650,
-    "wickets": 23,
-    "maidens": 53,
-    "average": 28.26,
-    "economy": 2.78,
-    "strike_rate": 60.96,
-    "best": "5/53",
-    "five_wkt": 1,
-    "four_wkt": 2,
-    "dismissal_types": {
-      "caught": 12,
-      "stumped": 1,
-      "lbw": 6,
-      "caught and bowled": 1,
-      "bowled": 3
-    },
-    "home": {
-      "balls": 656,
-      "overs": "109.2",
-      "runs": 291,
-      "wickets": 9,
-      "maidens": 28,
-      "average": 32.33,
-      "economy": 2.66,
-      "strike_rate": 72.89
-    },
-    "away": {
-      "balls": 746,
-      "overs": "124.2",
-      "runs": 359,
-      "wickets": 14,
-      "maidens": 25,
-      "average": 25.64,
-      "economy": 2.89,
-      "strike_rate": 53.29
-    }
-  },
-  {
     "player": "SJ Cook",
     "season": "2018",
     "team": "Essex",
@@ -27555,47 +27844,6 @@
       "average": 33.22,
       "economy": 3.15,
       "strike_rate": 63.33
-    }
-  },
-  {
-    "player": "S Snater",
-    "season": "2026",
-    "team": "Essex",
-    "balls": 1052,
-    "overs": "175.2",
-    "runs": 472,
-    "wickets": 23,
-    "maidens": 44,
-    "average": 20.52,
-    "economy": 2.69,
-    "strike_rate": 45.74,
-    "best": "4/12",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "bowled": 7,
-      "caught": 10,
-      "lbw": 6
-    },
-    "home": {
-      "balls": 371,
-      "overs": "61.5",
-      "runs": 176,
-      "wickets": 11,
-      "maidens": 18,
-      "average": 16.0,
-      "economy": 2.85,
-      "strike_rate": 33.73
-    },
-    "away": {
-      "balls": 681,
-      "overs": "113.3",
-      "runs": 296,
-      "wickets": 12,
-      "maidens": 26,
-      "average": 24.67,
-      "economy": 2.61,
-      "strike_rate": 56.75
     }
   },
   {
@@ -28262,14 +28510,14 @@
     "player": "M Pretorius",
     "season": "2026",
     "team": "Somerset",
-    "balls": 1053,
-    "overs": "175.3",
-    "runs": 512,
+    "balls": 1089,
+    "overs": "181.3",
+    "runs": 536,
     "wickets": 23,
-    "maidens": 42,
-    "average": 22.26,
-    "economy": 2.92,
-    "strike_rate": 45.78,
+    "maidens": 44,
+    "average": 23.3,
+    "economy": 2.95,
+    "strike_rate": 47.35,
     "best": "4/65",
     "five_wkt": 0,
     "four_wkt": 2,
@@ -28279,14 +28527,14 @@
       "caught": 16
     },
     "home": {
-      "balls": 444,
-      "overs": "74.0",
-      "runs": 209,
+      "balls": 480,
+      "overs": "80.0",
+      "runs": 233,
       "wickets": 9,
-      "maidens": 18,
-      "average": 23.22,
-      "economy": 2.82,
-      "strike_rate": 49.33
+      "maidens": 20,
+      "average": 25.89,
+      "economy": 2.91,
+      "strike_rate": 53.33
     },
     "away": {
       "balls": 609,
@@ -28507,6 +28755,88 @@
       "average": 18.75,
       "economy": 2.88,
       "strike_rate": 39.0
+    }
+  },
+  {
+    "player": "SHB Morgan",
+    "season": "2026",
+    "team": "Middlesex",
+    "balls": 1069,
+    "overs": "178.1",
+    "runs": 622,
+    "wickets": 23,
+    "maidens": 34,
+    "average": 27.04,
+    "economy": 3.49,
+    "strike_rate": 46.48,
+    "best": "5/104",
+    "five_wkt": 1,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 12,
+      "bowled": 8,
+      "lbw": 3
+    },
+    "home": {
+      "balls": 539,
+      "overs": "89.5",
+      "runs": 297,
+      "wickets": 9,
+      "maidens": 18,
+      "average": 33.0,
+      "economy": 3.31,
+      "strike_rate": 59.89
+    },
+    "away": {
+      "balls": 530,
+      "overs": "88.2",
+      "runs": 325,
+      "wickets": 14,
+      "maidens": 16,
+      "average": 23.21,
+      "economy": 3.68,
+      "strike_rate": 37.86
+    }
+  },
+  {
+    "player": "DM Bess",
+    "season": "2026",
+    "team": "Yorkshire",
+    "balls": 1492,
+    "overs": "248.4",
+    "runs": 750,
+    "wickets": 22,
+    "maidens": 36,
+    "average": 34.09,
+    "economy": 3.02,
+    "strike_rate": 67.82,
+    "best": "4/60",
+    "five_wkt": 0,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "lbw": 3,
+      "caught": 12,
+      "bowled": 7
+    },
+    "home": {
+      "balls": 690,
+      "overs": "115.0",
+      "runs": 374,
+      "wickets": 7,
+      "maidens": 18,
+      "average": 53.43,
+      "economy": 3.25,
+      "strike_rate": 98.57
+    },
+    "away": {
+      "balls": 802,
+      "overs": "133.4",
+      "runs": 376,
+      "wickets": 15,
+      "maidens": 18,
+      "average": 25.07,
+      "economy": 2.81,
+      "strike_rate": 53.47
     }
   },
   {
@@ -28926,6 +29256,48 @@
     }
   },
   {
+    "player": "MS Crane",
+    "season": "2026",
+    "team": "Glamorgan",
+    "balls": 1302,
+    "overs": "217.0",
+    "runs": 795,
+    "wickets": 22,
+    "maidens": 29,
+    "average": 36.14,
+    "economy": 3.66,
+    "strike_rate": 59.18,
+    "best": "5/55",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 5,
+      "stumped": 1,
+      "lbw": 9,
+      "caught": 7
+    },
+    "home": {
+      "balls": 779,
+      "overs": "129.5",
+      "runs": 471,
+      "wickets": 13,
+      "maidens": 19,
+      "average": 36.23,
+      "economy": 3.63,
+      "strike_rate": 59.92
+    },
+    "away": {
+      "balls": 523,
+      "overs": "87.1",
+      "runs": 324,
+      "wickets": 9,
+      "maidens": 10,
+      "average": 36.0,
+      "economy": 3.72,
+      "strike_rate": 58.11
+    }
+  },
+  {
     "player": "LA Patterson-White",
     "season": "2021",
     "team": "Nottinghamshire",
@@ -29218,6 +29590,47 @@
     }
   },
   {
+    "player": "J Clark",
+    "season": "2026",
+    "team": "Surrey",
+    "balls": 1274,
+    "overs": "212.2",
+    "runs": 771,
+    "wickets": 22,
+    "maidens": 28,
+    "average": 35.05,
+    "economy": 3.63,
+    "strike_rate": 57.91,
+    "best": "5/68",
+    "five_wkt": 1,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 13,
+      "lbw": 6,
+      "bowled": 3
+    },
+    "home": {
+      "balls": 746,
+      "overs": "124.2",
+      "runs": 414,
+      "wickets": 16,
+      "maidens": 22,
+      "average": 25.88,
+      "economy": 3.33,
+      "strike_rate": 46.62
+    },
+    "away": {
+      "balls": 528,
+      "overs": "88.0",
+      "runs": 357,
+      "wickets": 6,
+      "maidens": 6,
+      "average": 59.5,
+      "economy": 4.06,
+      "strike_rate": 88.0
+    }
+  },
+  {
     "player": "LC Norwell",
     "season": "2022",
     "team": "Warwickshire",
@@ -29256,47 +29669,6 @@
       "average": 54.5,
       "economy": 4.04,
       "strike_rate": 81.0
-    }
-  },
-  {
-    "player": "KJ Dudgeon",
-    "season": "2026",
-    "team": "Kent",
-    "balls": 1140,
-    "overs": "190.0",
-    "runs": 720,
-    "wickets": 22,
-    "maidens": 24,
-    "average": 32.73,
-    "economy": 3.79,
-    "strike_rate": 51.82,
-    "best": "6/21",
-    "five_wkt": 1,
-    "four_wkt": 2,
-    "dismissal_types": {
-      "caught": 14,
-      "bowled": 4,
-      "lbw": 4
-    },
-    "home": {
-      "balls": 480,
-      "overs": "80.0",
-      "runs": 333,
-      "wickets": 6,
-      "maidens": 7,
-      "average": 55.5,
-      "economy": 4.16,
-      "strike_rate": 80.0
-    },
-    "away": {
-      "balls": 546,
-      "overs": "91.0",
-      "runs": 334,
-      "wickets": 10,
-      "maidens": 14,
-      "average": 33.4,
-      "economy": 3.67,
-      "strike_rate": 54.6
     }
   },
   {
@@ -29504,47 +29876,6 @@
       "average": 21.42,
       "economy": 2.86,
       "strike_rate": 45.0
-    }
-  },
-  {
-    "player": "WSA Williams",
-    "season": "2026",
-    "team": "Gloucestershire",
-    "balls": 1449,
-    "overs": "241.3",
-    "runs": 701,
-    "wickets": 22,
-    "maidens": 59,
-    "average": 31.86,
-    "economy": 2.9,
-    "strike_rate": 65.86,
-    "best": "4/48",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "bowled": 9,
-      "caught": 8,
-      "lbw": 5
-    },
-    "home": {
-      "balls": 801,
-      "overs": "133.3",
-      "runs": 416,
-      "wickets": 14,
-      "maidens": 33,
-      "average": 29.71,
-      "economy": 3.12,
-      "strike_rate": 57.21
-    },
-    "away": {
-      "balls": 648,
-      "overs": "108.0",
-      "runs": 285,
-      "wickets": 8,
-      "maidens": 26,
-      "average": 35.62,
-      "economy": 2.64,
-      "strike_rate": 81.0
     }
   },
   {
@@ -29838,47 +30169,6 @@
     }
   },
   {
-    "player": "R Hadley",
-    "season": "2026",
-    "team": "Glamorgan",
-    "balls": 1036,
-    "overs": "172.4",
-    "runs": 656,
-    "wickets": 22,
-    "maidens": 22,
-    "average": 29.82,
-    "economy": 3.8,
-    "strike_rate": 47.09,
-    "best": "4/76",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 17,
-      "bowled": 3,
-      "lbw": 2
-    },
-    "home": {
-      "balls": 498,
-      "overs": "83.0",
-      "runs": 284,
-      "wickets": 13,
-      "maidens": 12,
-      "average": 21.85,
-      "economy": 3.42,
-      "strike_rate": 38.31
-    },
-    "away": {
-      "balls": 538,
-      "overs": "89.4",
-      "runs": 372,
-      "wickets": 9,
-      "maidens": 10,
-      "average": 41.33,
-      "economy": 4.15,
-      "strike_rate": 59.78
-    }
-  },
-  {
     "player": "LJ Hatchett",
     "season": "2014",
     "team": "Sussex",
@@ -29917,6 +30207,48 @@
       "average": 45.42,
       "economy": 4.26,
       "strike_rate": 64.0
+    }
+  },
+  {
+    "player": "ROL Haydon",
+    "season": "2026",
+    "team": "Derbyshire",
+    "balls": 945,
+    "overs": "157.3",
+    "runs": 502,
+    "wickets": 22,
+    "maidens": 41,
+    "average": 22.82,
+    "economy": 3.19,
+    "strike_rate": 42.95,
+    "best": "5/81",
+    "five_wkt": 2,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 9,
+      "lbw": 5,
+      "bowled": 7,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 399,
+      "overs": "66.3",
+      "runs": 206,
+      "wickets": 8,
+      "maidens": 19,
+      "average": 25.75,
+      "economy": 3.1,
+      "strike_rate": 49.88
+    },
+    "away": {
+      "balls": 546,
+      "overs": "91.0",
+      "runs": 296,
+      "wickets": 14,
+      "maidens": 22,
+      "average": 21.14,
+      "economy": 3.25,
+      "strike_rate": 39.0
     }
   },
   {
@@ -30298,14 +30630,14 @@
     "player": "JA Porter",
     "season": "2026",
     "team": "Essex",
-    "balls": 1206,
-    "overs": "201.0",
-    "runs": 557,
+    "balls": 1320,
+    "overs": "220.0",
+    "runs": 613,
     "wickets": 21,
-    "maidens": 60,
-    "average": 26.52,
-    "economy": 2.77,
-    "strike_rate": 57.43,
+    "maidens": 63,
+    "average": 29.19,
+    "economy": 2.79,
+    "strike_rate": 62.86,
     "best": "4/59",
     "five_wkt": 0,
     "four_wkt": 1,
@@ -30316,14 +30648,14 @@
       "caught and bowled": 1
     },
     "home": {
-      "balls": 480,
-      "overs": "80.0",
-      "runs": 244,
+      "balls": 594,
+      "overs": "99.0",
+      "runs": 300,
       "wickets": 9,
-      "maidens": 23,
-      "average": 27.11,
-      "economy": 3.05,
-      "strike_rate": 53.33
+      "maidens": 26,
+      "average": 33.33,
+      "economy": 3.03,
+      "strike_rate": 66.0
     },
     "away": {
       "balls": 726,
@@ -30833,6 +31165,47 @@
     }
   },
   {
+    "player": "N Sharma",
+    "season": "2026",
+    "team": "Middlesex",
+    "balls": 964,
+    "overs": "160.4",
+    "runs": 524,
+    "wickets": 21,
+    "maidens": 35,
+    "average": 24.95,
+    "economy": 3.26,
+    "strike_rate": 45.9,
+    "best": "4/17",
+    "five_wkt": 0,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "caught": 15,
+      "bowled": 4,
+      "lbw": 2
+    },
+    "home": {
+      "balls": 462,
+      "overs": "77.0",
+      "runs": 249,
+      "wickets": 9,
+      "maidens": 17,
+      "average": 27.67,
+      "economy": 3.23,
+      "strike_rate": 51.33
+    },
+    "away": {
+      "balls": 502,
+      "overs": "83.4",
+      "runs": 275,
+      "wickets": 12,
+      "maidens": 18,
+      "average": 22.92,
+      "economy": 3.29,
+      "strike_rate": 41.83
+    }
+  },
+  {
     "player": "ME Milnes",
     "season": "2022",
     "team": "Kent",
@@ -31328,6 +31701,47 @@
     }
   },
   {
+    "player": "TO Norton",
+    "season": "2026",
+    "team": "Glamorgan",
+    "balls": 677,
+    "overs": "112.5",
+    "runs": 479,
+    "wickets": 21,
+    "maidens": 16,
+    "average": 22.81,
+    "economy": 4.25,
+    "strike_rate": 32.24,
+    "best": "5/50",
+    "five_wkt": 1,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "bowled": 3,
+      "caught": 15,
+      "lbw": 3
+    },
+    "home": {
+      "balls": 420,
+      "overs": "70.0",
+      "runs": 281,
+      "wickets": 14,
+      "maidens": 9,
+      "average": 20.07,
+      "economy": 4.01,
+      "strike_rate": 30.0
+    },
+    "away": {
+      "balls": 257,
+      "overs": "42.5",
+      "runs": 198,
+      "wickets": 7,
+      "maidens": 7,
+      "average": 28.29,
+      "economy": 4.62,
+      "strike_rate": 36.71
+    }
+  },
+  {
     "player": "WA Agar",
     "season": "2023",
     "team": "Kent",
@@ -31407,47 +31821,6 @@
       "average": 17.5,
       "economy": 2.78,
       "strike_rate": 37.8
-    }
-  },
-  {
-    "player": "DM Bess",
-    "season": "2026",
-    "team": "Yorkshire",
-    "balls": 1408,
-    "overs": "234.4",
-    "runs": 703,
-    "wickets": 20,
-    "maidens": 35,
-    "average": 35.15,
-    "economy": 3.0,
-    "strike_rate": 70.4,
-    "best": "4/60",
-    "five_wkt": 0,
-    "four_wkt": 2,
-    "dismissal_types": {
-      "lbw": 2,
-      "caught": 11,
-      "bowled": 7
-    },
-    "home": {
-      "balls": 690,
-      "overs": "115.0",
-      "runs": 374,
-      "wickets": 7,
-      "maidens": 18,
-      "average": 53.43,
-      "economy": 3.25,
-      "strike_rate": 98.57
-    },
-    "away": {
-      "balls": 718,
-      "overs": "119.4",
-      "runs": 329,
-      "wickets": 13,
-      "maidens": 17,
-      "average": 25.31,
-      "economy": 2.75,
-      "strike_rate": 55.23
     }
   },
   {
@@ -32321,48 +32694,6 @@
     }
   },
   {
-    "player": "SR Harmer",
-    "season": "2026",
-    "team": "Essex",
-    "balls": 1315,
-    "overs": "219.1",
-    "runs": 595,
-    "wickets": 20,
-    "maidens": 50,
-    "average": 29.75,
-    "economy": 2.71,
-    "strike_rate": 65.75,
-    "best": "4/66",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 8,
-      "caught and bowled": 3,
-      "lbw": 5,
-      "bowled": 4
-    },
-    "home": {
-      "balls": 436,
-      "overs": "72.4",
-      "runs": 222,
-      "wickets": 6,
-      "maidens": 16,
-      "average": 37.0,
-      "economy": 3.06,
-      "strike_rate": 72.67
-    },
-    "away": {
-      "balls": 879,
-      "overs": "146.3",
-      "runs": 373,
-      "wickets": 14,
-      "maidens": 34,
-      "average": 26.64,
-      "economy": 2.55,
-      "strike_rate": 62.79
-    }
-  },
-  {
     "player": "MD Fisher",
     "season": "2021",
     "team": "Yorkshire",
@@ -32607,47 +32938,6 @@
       "average": 66.5,
       "economy": 3.4,
       "strike_rate": 117.5
-    }
-  },
-  {
-    "player": "J Clark",
-    "season": "2026",
-    "team": "Surrey",
-    "balls": 1106,
-    "overs": "184.2",
-    "runs": 670,
-    "wickets": 20,
-    "maidens": 27,
-    "average": 33.5,
-    "economy": 3.63,
-    "strike_rate": 55.3,
-    "best": "5/68",
-    "five_wkt": 1,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 12,
-      "lbw": 5,
-      "bowled": 3
-    },
-    "home": {
-      "balls": 746,
-      "overs": "124.2",
-      "runs": 414,
-      "wickets": 16,
-      "maidens": 22,
-      "average": 25.88,
-      "economy": 3.33,
-      "strike_rate": 46.62
-    },
-    "away": {
-      "balls": 360,
-      "overs": "60.0",
-      "runs": 256,
-      "wickets": 4,
-      "maidens": 5,
-      "average": 64.0,
-      "economy": 4.27,
-      "strike_rate": 90.0
     }
   },
   {
@@ -33149,47 +33439,6 @@
     }
   },
   {
-    "player": "F O'Neill",
-    "season": "2026",
-    "team": "Nottinghamshire",
-    "balls": 774,
-    "overs": "129.0",
-    "runs": 344,
-    "wickets": 20,
-    "maidens": 31,
-    "average": 17.2,
-    "economy": 2.67,
-    "strike_rate": 38.7,
-    "best": "6/72",
-    "five_wkt": 2,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "lbw": 7,
-      "caught": 11,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 522,
-      "overs": "87.0",
-      "runs": 258,
-      "wickets": 12,
-      "maidens": 22,
-      "average": 21.5,
-      "economy": 2.97,
-      "strike_rate": 43.5
-    },
-    "away": {
-      "balls": 252,
-      "overs": "42.0",
-      "runs": 86,
-      "wickets": 8,
-      "maidens": 9,
-      "average": 10.75,
-      "economy": 2.05,
-      "strike_rate": 31.5
-    }
-  },
-  {
     "player": "AM Vaughan",
     "season": "2025",
     "team": "Somerset",
@@ -33684,6 +33933,48 @@
       "average": 26.53,
       "economy": 3.56,
       "strike_rate": 44.67
+    }
+  },
+  {
+    "player": "JJ Carson",
+    "season": "2026",
+    "team": "Sussex",
+    "balls": 1209,
+    "overs": "201.3",
+    "runs": 666,
+    "wickets": 19,
+    "maidens": 19,
+    "average": 35.05,
+    "economy": 3.31,
+    "strike_rate": 63.63,
+    "best": "4/40",
+    "five_wkt": 0,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "caught": 14,
+      "stumped": 2,
+      "lbw": 2,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 561,
+      "overs": "93.3",
+      "runs": 277,
+      "wickets": 11,
+      "maidens": 9,
+      "average": 25.18,
+      "economy": 2.96,
+      "strike_rate": 51.0
+    },
+    "away": {
+      "balls": 648,
+      "overs": "108.0",
+      "runs": 389,
+      "wickets": 8,
+      "maidens": 10,
+      "average": 48.62,
+      "economy": 3.6,
+      "strike_rate": 81.0
     }
   },
   {
@@ -34686,48 +34977,6 @@
     }
   },
   {
-    "player": "MS Crane",
-    "season": "2026",
-    "team": "Glamorgan",
-    "balls": 1100,
-    "overs": "183.2",
-    "runs": 694,
-    "wickets": 19,
-    "maidens": 20,
-    "average": 36.53,
-    "economy": 3.79,
-    "strike_rate": 57.89,
-    "best": "5/55",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 4,
-      "stumped": 1,
-      "lbw": 9,
-      "caught": 5
-    },
-    "home": {
-      "balls": 577,
-      "overs": "96.1",
-      "runs": 370,
-      "wickets": 10,
-      "maidens": 10,
-      "average": 37.0,
-      "economy": 3.85,
-      "strike_rate": 57.7
-    },
-    "away": {
-      "balls": 523,
-      "overs": "87.1",
-      "runs": 324,
-      "wickets": 9,
-      "maidens": 10,
-      "average": 36.0,
-      "economy": 3.72,
-      "strike_rate": 58.11
-    }
-  },
-  {
     "player": "LJ Fletcher",
     "season": "2016",
     "team": "Derbyshire, Nottinghamshire",
@@ -35557,44 +35806,44 @@
     }
   },
   {
-    "player": "ME Milnes",
+    "player": "Kasey Aldridge",
     "season": "2026",
-    "team": "Kent",
-    "balls": 997,
-    "overs": "166.1",
-    "runs": 539,
+    "team": "Durham",
+    "balls": 1147,
+    "overs": "191.1",
+    "runs": 683,
     "wickets": 19,
-    "maidens": 29,
-    "average": 28.37,
-    "economy": 3.24,
-    "strike_rate": 52.47,
-    "best": "6/12",
+    "maidens": 26,
+    "average": 35.95,
+    "economy": 3.57,
+    "strike_rate": 60.37,
+    "best": "5/19",
     "five_wkt": 1,
-    "four_wkt": 1,
+    "four_wkt": 0,
     "dismissal_types": {
-      "bowled": 7,
-      "caught": 10,
+      "caught": 13,
+      "bowled": 4,
       "lbw": 2
     },
     "home": {
-      "balls": 498,
-      "overs": "83.0",
-      "runs": 291,
-      "wickets": 12,
-      "maidens": 12,
-      "average": 24.25,
-      "economy": 3.51,
-      "strike_rate": 41.5
+      "balls": 568,
+      "overs": "94.4",
+      "runs": 330,
+      "wickets": 11,
+      "maidens": 14,
+      "average": 30.0,
+      "economy": 3.49,
+      "strike_rate": 51.64
     },
     "away": {
-      "balls": 355,
-      "overs": "59.1",
-      "runs": 202,
-      "wickets": 6,
-      "maidens": 10,
-      "average": 33.67,
-      "economy": 3.41,
-      "strike_rate": 59.17
+      "balls": 579,
+      "overs": "96.3",
+      "runs": 353,
+      "wickets": 8,
+      "maidens": 12,
+      "average": 44.12,
+      "economy": 3.66,
+      "strike_rate": 72.38
     }
   },
   {
@@ -38410,6 +38659,47 @@
     }
   },
   {
+    "player": "B Swanepoel",
+    "season": "2026",
+    "team": "Worcestershire",
+    "balls": 907,
+    "overs": "151.1",
+    "runs": 491,
+    "wickets": 18,
+    "maidens": 22,
+    "average": 27.28,
+    "economy": 3.25,
+    "strike_rate": 50.39,
+    "best": "5/65",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 5,
+      "bowled": 4,
+      "caught": 9
+    },
+    "home": {
+      "balls": 643,
+      "overs": "107.1",
+      "runs": 316,
+      "wickets": 13,
+      "maidens": 18,
+      "average": 24.31,
+      "economy": 2.95,
+      "strike_rate": 49.46
+    },
+    "away": {
+      "balls": 126,
+      "overs": "21.0",
+      "runs": 94,
+      "wickets": 2,
+      "maidens": 1,
+      "average": 47.0,
+      "economy": 4.48,
+      "strike_rate": 63.0
+    }
+  },
+  {
     "player": "DM Bess",
     "season": "2017",
     "team": "Somerset",
@@ -38491,6 +38781,48 @@
       "average": 14.9,
       "economy": 2.61,
       "strike_rate": 34.3
+    }
+  },
+  {
+    "player": "JM Coles",
+    "season": "2026",
+    "team": "Sussex",
+    "balls": 839,
+    "overs": "139.5",
+    "runs": 535,
+    "wickets": 17,
+    "maidens": 14,
+    "average": 31.47,
+    "economy": 3.83,
+    "strike_rate": 49.35,
+    "best": "3/34",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 6,
+      "caught": 6,
+      "lbw": 4,
+      "stumped": 1
+    },
+    "home": {
+      "balls": 279,
+      "overs": "46.3",
+      "runs": 150,
+      "wickets": 6,
+      "maidens": 4,
+      "average": 25.0,
+      "economy": 3.23,
+      "strike_rate": 46.5
+    },
+    "away": {
+      "balls": 560,
+      "overs": "93.2",
+      "runs": 385,
+      "wickets": 11,
+      "maidens": 10,
+      "average": 35.0,
+      "economy": 4.12,
+      "strike_rate": 50.91
     }
   },
   {
@@ -39361,88 +39693,6 @@
     }
   },
   {
-    "player": "N Sharma",
-    "season": "2026",
-    "team": "Middlesex",
-    "balls": 742,
-    "overs": "123.4",
-    "runs": 410,
-    "wickets": 17,
-    "maidens": 25,
-    "average": 24.12,
-    "economy": 3.32,
-    "strike_rate": 43.65,
-    "best": "4/17",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 15,
-      "lbw": 1,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 462,
-      "overs": "77.0",
-      "runs": 249,
-      "wickets": 9,
-      "maidens": 17,
-      "average": 27.67,
-      "economy": 3.23,
-      "strike_rate": 51.33
-    },
-    "away": {
-      "balls": 280,
-      "overs": "46.4",
-      "runs": 161,
-      "wickets": 8,
-      "maidens": 8,
-      "average": 20.12,
-      "economy": 3.45,
-      "strike_rate": 35.0
-    }
-  },
-  {
-    "player": "Kasey Aldridge",
-    "season": "2026",
-    "team": "Durham",
-    "balls": 985,
-    "overs": "164.1",
-    "runs": 579,
-    "wickets": 17,
-    "maidens": 23,
-    "average": 34.06,
-    "economy": 3.53,
-    "strike_rate": 57.94,
-    "best": "5/19",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 4,
-      "caught": 11,
-      "lbw": 2
-    },
-    "home": {
-      "balls": 406,
-      "overs": "67.4",
-      "runs": 226,
-      "wickets": 9,
-      "maidens": 11,
-      "average": 25.11,
-      "economy": 3.34,
-      "strike_rate": 45.11
-    },
-    "away": {
-      "balls": 579,
-      "overs": "96.3",
-      "runs": 353,
-      "wickets": 8,
-      "maidens": 12,
-      "average": 44.12,
-      "economy": 3.66,
-      "strike_rate": 72.38
-    }
-  },
-  {
     "player": "MP Dunn",
     "season": "2015",
     "team": "Surrey",
@@ -40022,90 +40272,6 @@
     }
   },
   {
-    "player": "ROL Haydon",
-    "season": "2026",
-    "team": "Derbyshire",
-    "balls": 798,
-    "overs": "133.0",
-    "runs": 403,
-    "wickets": 17,
-    "maidens": 40,
-    "average": 23.71,
-    "economy": 3.03,
-    "strike_rate": 46.94,
-    "best": "5/81",
-    "five_wkt": 2,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 7,
-      "lbw": 5,
-      "bowled": 4,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 252,
-      "overs": "42.0",
-      "runs": 107,
-      "wickets": 3,
-      "maidens": 18,
-      "average": 35.67,
-      "economy": 2.55,
-      "strike_rate": 84.0
-    },
-    "away": {
-      "balls": 546,
-      "overs": "91.0",
-      "runs": 296,
-      "wickets": 14,
-      "maidens": 22,
-      "average": 21.14,
-      "economy": 3.25,
-      "strike_rate": 39.0
-    }
-  },
-  {
-    "player": "JM Coles",
-    "season": "2026",
-    "team": "Sussex",
-    "balls": 767,
-    "overs": "127.5",
-    "runs": 507,
-    "wickets": 16,
-    "maidens": 13,
-    "average": 31.69,
-    "economy": 3.97,
-    "strike_rate": 47.94,
-    "best": "3/34",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 5,
-      "caught": 6,
-      "lbw": 4,
-      "stumped": 1
-    },
-    "home": {
-      "balls": 207,
-      "overs": "34.3",
-      "runs": 122,
-      "wickets": 5,
-      "maidens": 3,
-      "average": 24.4,
-      "economy": 3.54,
-      "strike_rate": 41.4
-    },
-    "away": {
-      "balls": 560,
-      "overs": "93.2",
-      "runs": 385,
-      "wickets": 11,
-      "maidens": 10,
-      "average": 35.0,
-      "economy": 4.12,
-      "strike_rate": 50.91
-    }
-  },
-  {
     "player": "MET Salisbury",
     "season": "2021",
     "team": "Durham",
@@ -40227,6 +40393,47 @@
       "average": 49.75,
       "economy": 5.38,
       "strike_rate": 55.5
+    }
+  },
+  {
+    "player": "TG Helm",
+    "season": "2026",
+    "team": "Leicestershire, Middlesex",
+    "balls": 784,
+    "overs": "130.4",
+    "runs": 459,
+    "wickets": 16,
+    "maidens": 25,
+    "average": 28.69,
+    "economy": 3.51,
+    "strike_rate": 49.0,
+    "best": "4/72",
+    "five_wkt": 0,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "caught": 12,
+      "bowled": 1,
+      "lbw": 3
+    },
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 784,
+      "overs": "130.4",
+      "runs": 459,
+      "wickets": 16,
+      "maidens": 25,
+      "average": 28.69,
+      "economy": 3.51,
+      "strike_rate": 49.0
     }
   },
   {
@@ -40603,6 +40810,48 @@
     }
   },
   {
+    "player": "CG Harrison",
+    "season": "2026",
+    "team": "Northamptonshire",
+    "balls": 1464,
+    "overs": "244.0",
+    "runs": 786,
+    "wickets": 16,
+    "maidens": 34,
+    "average": 49.12,
+    "economy": 3.22,
+    "strike_rate": 91.5,
+    "best": "4/55",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "bowled": 9,
+      "lbw": 3,
+      "caught": 3,
+      "stumped": 1
+    },
+    "home": {
+      "balls": 795,
+      "overs": "132.3",
+      "runs": 421,
+      "wickets": 10,
+      "maidens": 17,
+      "average": 42.1,
+      "economy": 3.18,
+      "strike_rate": 79.5
+    },
+    "away": {
+      "balls": 669,
+      "overs": "111.3",
+      "runs": 365,
+      "wickets": 6,
+      "maidens": 17,
+      "average": 60.83,
+      "economy": 3.27,
+      "strike_rate": 111.5
+    }
+  },
+  {
     "player": "SJ Cook",
     "season": "2025",
     "team": "Essex",
@@ -40973,6 +41222,48 @@
       "average": 52.83,
       "economy": 5.27,
       "strike_rate": 60.17
+    }
+  },
+  {
+    "player": "GL van Buuren",
+    "season": "2026",
+    "team": "Gloucestershire",
+    "balls": 1187,
+    "overs": "197.5",
+    "runs": 554,
+    "wickets": 16,
+    "maidens": 30,
+    "average": 34.62,
+    "economy": 2.8,
+    "strike_rate": 74.19,
+    "best": "4/36",
+    "five_wkt": 0,
+    "four_wkt": 2,
+    "dismissal_types": {
+      "caught": 8,
+      "stumped": 1,
+      "bowled": 5,
+      "lbw": 2
+    },
+    "home": {
+      "balls": 361,
+      "overs": "60.1",
+      "runs": 189,
+      "wickets": 3,
+      "maidens": 5,
+      "average": 63.0,
+      "economy": 3.14,
+      "strike_rate": 120.33
+    },
+    "away": {
+      "balls": 826,
+      "overs": "137.4",
+      "runs": 365,
+      "wickets": 13,
+      "maidens": 25,
+      "average": 28.08,
+      "economy": 2.65,
+      "strike_rate": 63.54
     }
   },
   {
@@ -41430,6 +41721,47 @@
   },
   {
     "player": "JT Ball",
+    "season": "2026",
+    "team": "Somerset",
+    "balls": 1020,
+    "overs": "170.0",
+    "runs": 511,
+    "wickets": 16,
+    "maidens": 27,
+    "average": 31.94,
+    "economy": 3.01,
+    "strike_rate": 63.75,
+    "best": "3/67",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 11,
+      "lbw": 4,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 308,
+      "overs": "51.2",
+      "runs": 187,
+      "wickets": 4,
+      "maidens": 8,
+      "average": 46.75,
+      "economy": 3.64,
+      "strike_rate": 77.0
+    },
+    "away": {
+      "balls": 712,
+      "overs": "118.4",
+      "runs": 324,
+      "wickets": 12,
+      "maidens": 19,
+      "average": 27.0,
+      "economy": 2.73,
+      "strike_rate": 59.33
+    }
+  },
+  {
+    "player": "JT Ball",
     "season": "2025",
     "team": "Durham, Kent, Somerset",
     "balls": 810,
@@ -41550,6 +41882,48 @@
       "average": 49.5,
       "economy": 3.15,
       "strike_rate": 94.25
+    }
+  },
+  {
+    "player": "OP Stone",
+    "season": "2026",
+    "team": "Nottinghamshire",
+    "balls": 938,
+    "overs": "156.2",
+    "runs": 496,
+    "wickets": 16,
+    "maidens": 26,
+    "average": 31.0,
+    "economy": 3.17,
+    "strike_rate": 58.62,
+    "best": "5/68",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught and bowled": 1,
+      "bowled": 4,
+      "caught": 9,
+      "lbw": 2
+    },
+    "home": {
+      "balls": 132,
+      "overs": "22.0",
+      "runs": 68,
+      "wickets": 2,
+      "maidens": 1,
+      "average": 34.0,
+      "economy": 3.09,
+      "strike_rate": 66.0
+    },
+    "away": {
+      "balls": 806,
+      "overs": "134.2",
+      "runs": 428,
+      "wickets": 14,
+      "maidens": 25,
+      "average": 30.57,
+      "economy": 3.19,
+      "strike_rate": 57.57
     }
   },
   {
@@ -41920,47 +42294,6 @@
       "average": 21.0,
       "economy": 3.09,
       "strike_rate": 40.82
-    }
-  },
-  {
-    "player": "SHB Morgan",
-    "season": "2026",
-    "team": "Middlesex",
-    "balls": 841,
-    "overs": "140.1",
-    "runs": 466,
-    "wickets": 16,
-    "maidens": 29,
-    "average": 29.12,
-    "economy": 3.32,
-    "strike_rate": 52.56,
-    "best": "4/48",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "bowled": 7,
-      "caught": 7,
-      "lbw": 2
-    },
-    "home": {
-      "balls": 539,
-      "overs": "89.5",
-      "runs": 297,
-      "wickets": 9,
-      "maidens": 18,
-      "average": 33.0,
-      "economy": 3.31,
-      "strike_rate": 59.89
-    },
-    "away": {
-      "balls": 302,
-      "overs": "50.2",
-      "runs": 169,
-      "wickets": 7,
-      "maidens": 11,
-      "average": 24.14,
-      "economy": 3.36,
-      "strike_rate": 43.14
     }
   },
   {
@@ -44480,6 +44813,89 @@
     }
   },
   {
+    "player": "MT Stanley",
+    "season": "2026",
+    "team": "Lancashire",
+    "balls": 552,
+    "overs": "92.0",
+    "runs": 375,
+    "wickets": 15,
+    "maidens": 15,
+    "average": 25.0,
+    "economy": 4.08,
+    "strike_rate": 36.8,
+    "best": "5/80",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 4,
+      "bowled": 4,
+      "caught": 7
+    },
+    "home": {
+      "balls": 270,
+      "overs": "45.0",
+      "runs": 197,
+      "wickets": 7,
+      "maidens": 8,
+      "average": 28.14,
+      "economy": 4.38,
+      "strike_rate": 38.57
+    },
+    "away": {
+      "balls": 282,
+      "overs": "47.0",
+      "runs": 178,
+      "wickets": 8,
+      "maidens": 7,
+      "average": 22.25,
+      "economy": 3.79,
+      "strike_rate": 35.25
+    }
+  },
+  {
+    "player": "AY Patel",
+    "season": "2026",
+    "team": "Leicestershire",
+    "balls": 1174,
+    "overs": "195.4",
+    "runs": 674,
+    "wickets": 15,
+    "maidens": 27,
+    "average": 44.93,
+    "economy": 3.44,
+    "strike_rate": 78.27,
+    "best": "3/59",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 4,
+      "caught": 7,
+      "bowled": 3,
+      "stumped": 1
+    },
+    "home": {
+      "balls": 318,
+      "overs": "53.0",
+      "runs": 172,
+      "wickets": 5,
+      "maidens": 14,
+      "average": 34.4,
+      "economy": 3.25,
+      "strike_rate": 63.6
+    },
+    "away": {
+      "balls": 856,
+      "overs": "142.4",
+      "runs": 502,
+      "wickets": 10,
+      "maidens": 13,
+      "average": 50.2,
+      "economy": 3.52,
+      "strike_rate": 85.6
+    }
+  },
+  {
     "player": "WJ Weighell",
     "season": "2018",
     "team": "Durham",
@@ -44726,48 +45142,6 @@
       "average": 14.0,
       "economy": 3.5,
       "strike_rate": 24.0
-    }
-  },
-  {
-    "player": "JJ Carson",
-    "season": "2026",
-    "team": "Sussex",
-    "balls": 1044,
-    "overs": "174.0",
-    "runs": 602,
-    "wickets": 14,
-    "maidens": 16,
-    "average": 43.0,
-    "economy": 3.46,
-    "strike_rate": 74.57,
-    "best": "4/40",
-    "five_wkt": 0,
-    "four_wkt": 2,
-    "dismissal_types": {
-      "caught": 9,
-      "stumped": 2,
-      "lbw": 2,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 396,
-      "overs": "66.0",
-      "runs": 213,
-      "wickets": 6,
-      "maidens": 6,
-      "average": 35.5,
-      "economy": 3.23,
-      "strike_rate": 66.0
-    },
-    "away": {
-      "balls": 648,
-      "overs": "108.0",
-      "runs": 389,
-      "wickets": 8,
-      "maidens": 10,
-      "average": 48.62,
-      "economy": 3.6,
-      "strike_rate": 81.0
     }
   },
   {
@@ -45021,6 +45395,48 @@
   },
   {
     "player": "CF Parkinson",
+    "season": "2026",
+    "team": "Durham",
+    "balls": 1300,
+    "overs": "216.4",
+    "runs": 556,
+    "wickets": 14,
+    "maidens": 39,
+    "average": 39.71,
+    "economy": 2.57,
+    "strike_rate": 92.86,
+    "best": "5/13",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 7,
+      "bowled": 4,
+      "caught and bowled": 2,
+      "lbw": 1
+    },
+    "home": {
+      "balls": 562,
+      "overs": "93.4",
+      "runs": 264,
+      "wickets": 5,
+      "maidens": 15,
+      "average": 52.8,
+      "economy": 2.82,
+      "strike_rate": 112.4
+    },
+    "away": {
+      "balls": 738,
+      "overs": "123.0",
+      "runs": 292,
+      "wickets": 9,
+      "maidens": 24,
+      "average": 32.44,
+      "economy": 2.37,
+      "strike_rate": 82.0
+    }
+  },
+  {
+    "player": "CF Parkinson",
     "season": "2016",
     "team": "Derbyshire",
     "balls": 1024,
@@ -45182,48 +45598,6 @@
       "average": 42.43,
       "economy": 4.43,
       "strike_rate": 57.43
-    }
-  },
-  {
-    "player": "CG Harrison",
-    "season": "2026",
-    "team": "Northamptonshire",
-    "balls": 1236,
-    "overs": "206.0",
-    "runs": 630,
-    "wickets": 14,
-    "maidens": 32,
-    "average": 45.0,
-    "economy": 3.06,
-    "strike_rate": 88.29,
-    "best": "4/55",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "bowled": 8,
-      "caught": 3,
-      "lbw": 2,
-      "stumped": 1
-    },
-    "home": {
-      "balls": 795,
-      "overs": "132.3",
-      "runs": 421,
-      "wickets": 10,
-      "maidens": 17,
-      "average": 42.1,
-      "economy": 3.18,
-      "strike_rate": 79.5
-    },
-    "away": {
-      "balls": 441,
-      "overs": "73.3",
-      "runs": 209,
-      "wickets": 4,
-      "maidens": 15,
-      "average": 52.25,
-      "economy": 2.84,
-      "strike_rate": 110.25
     }
   },
   {
@@ -45765,14 +46139,14 @@
     "player": "Zafar Gohar",
     "season": "2026",
     "team": "Middlesex",
-    "balls": 889,
-    "overs": "148.1",
-    "runs": 413,
+    "balls": 1111,
+    "overs": "185.1",
+    "runs": 554,
     "wickets": 14,
-    "maidens": 34,
-    "average": 29.5,
-    "economy": 2.79,
-    "strike_rate": 63.5,
+    "maidens": 37,
+    "average": 39.57,
+    "economy": 2.99,
+    "strike_rate": 79.36,
     "best": "6/31",
     "five_wkt": 1,
     "four_wkt": 0,
@@ -45791,14 +46165,14 @@
       "strike_rate": 96.29
     },
     "away": {
-      "balls": 215,
-      "overs": "35.5",
-      "runs": 73,
+      "balls": 437,
+      "overs": "72.5",
+      "runs": 214,
       "wickets": 7,
-      "maidens": 13,
-      "average": 10.43,
-      "economy": 2.04,
-      "strike_rate": 30.71
+      "maidens": 16,
+      "average": 30.57,
+      "economy": 2.94,
+      "strike_rate": 62.43
     }
   },
   {
@@ -46339,47 +46713,6 @@
     }
   },
   {
-    "player": "JT Ball",
-    "season": "2026",
-    "team": "Somerset",
-    "balls": 876,
-    "overs": "146.0",
-    "runs": 439,
-    "wickets": 14,
-    "maidens": 22,
-    "average": 31.36,
-    "economy": 3.01,
-    "strike_rate": 62.57,
-    "best": "3/67",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 3,
-      "caught": 10,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 164,
-      "overs": "27.2",
-      "runs": 115,
-      "wickets": 2,
-      "maidens": 3,
-      "average": 57.5,
-      "economy": 4.21,
-      "strike_rate": 82.0
-    },
-    "away": {
-      "balls": 712,
-      "overs": "118.4",
-      "runs": 324,
-      "wickets": 12,
-      "maidens": 19,
-      "average": 27.0,
-      "economy": 2.73,
-      "strike_rate": 59.33
-    }
-  },
-  {
     "player": "Mohammad Amir",
     "season": "2017",
     "team": "Essex",
@@ -46462,6 +46795,47 @@
     }
   },
   {
+    "player": "MJ Waite",
+    "season": "2026",
+    "team": "Worcestershire",
+    "balls": 936,
+    "overs": "156.0",
+    "runs": 429,
+    "wickets": 14,
+    "maidens": 36,
+    "average": 30.64,
+    "economy": 2.75,
+    "strike_rate": 66.86,
+    "best": "3/14",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 8,
+      "lbw": 3,
+      "bowled": 3
+    },
+    "home": {
+      "balls": 444,
+      "overs": "74.0",
+      "runs": 172,
+      "wickets": 9,
+      "maidens": 18,
+      "average": 19.11,
+      "economy": 2.32,
+      "strike_rate": 49.33
+    },
+    "away": {
+      "balls": 414,
+      "overs": "69.0",
+      "runs": 224,
+      "wickets": 3,
+      "maidens": 16,
+      "average": 74.67,
+      "economy": 3.25,
+      "strike_rate": 138.0
+    }
+  },
+  {
     "player": "PWA Mulder",
     "season": "2022",
     "team": "Leicestershire",
@@ -46503,59 +46877,17 @@
     }
   },
   {
-    "player": "OP Stone",
-    "season": "2026",
-    "team": "Nottinghamshire",
-    "balls": 788,
-    "overs": "131.2",
-    "runs": 414,
-    "wickets": 14,
-    "maidens": 20,
-    "average": 29.57,
-    "economy": 3.15,
-    "strike_rate": 56.29,
-    "best": "5/68",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught and bowled": 1,
-      "bowled": 4,
-      "caught": 8,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 132,
-      "overs": "22.0",
-      "runs": 68,
-      "wickets": 2,
-      "maidens": 1,
-      "average": 34.0,
-      "economy": 3.09,
-      "strike_rate": 66.0
-    },
-    "away": {
-      "balls": 656,
-      "overs": "109.2",
-      "runs": 346,
-      "wickets": 12,
-      "maidens": 19,
-      "average": 28.83,
-      "economy": 3.16,
-      "strike_rate": 54.67
-    }
-  },
-  {
     "player": "JA Thompson",
     "season": "2026",
     "team": "Warwickshire",
-    "balls": 813,
-    "overs": "135.3",
-    "runs": 436,
+    "balls": 933,
+    "overs": "155.3",
+    "runs": 500,
     "wickets": 14,
-    "maidens": 21,
-    "average": 31.14,
+    "maidens": 24,
+    "average": 35.71,
     "economy": 3.22,
-    "strike_rate": 58.07,
+    "strike_rate": 66.64,
     "best": "3/14",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -46576,14 +46908,14 @@
       "strike_rate": 45.0
     },
     "away": {
-      "balls": 318,
-      "overs": "53.0",
-      "runs": 154,
+      "balls": 438,
+      "overs": "73.0",
+      "runs": 218,
       "wickets": 3,
-      "maidens": 7,
-      "average": 51.33,
-      "economy": 2.91,
-      "strike_rate": 106.0
+      "maidens": 10,
+      "average": 72.67,
+      "economy": 2.99,
+      "strike_rate": 146.0
     }
   },
   {
@@ -46876,6 +47208,47 @@
     }
   },
   {
+    "player": "ARJ Ogborne",
+    "season": "2026",
+    "team": "Somerset",
+    "balls": 780,
+    "overs": "130.0",
+    "runs": 492,
+    "wickets": 14,
+    "maidens": 18,
+    "average": 35.14,
+    "economy": 3.78,
+    "strike_rate": 55.71,
+    "best": "3/40",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 7,
+      "lbw": 5,
+      "bowled": 2
+    },
+    "home": {
+      "balls": 570,
+      "overs": "95.0",
+      "runs": 366,
+      "wickets": 12,
+      "maidens": 14,
+      "average": 30.5,
+      "economy": 3.85,
+      "strike_rate": 47.5
+    },
+    "away": {
+      "balls": 210,
+      "overs": "35.0",
+      "runs": 126,
+      "wickets": 2,
+      "maidens": 4,
+      "average": 63.0,
+      "economy": 3.6,
+      "strike_rate": 105.0
+    }
+  },
+  {
     "player": "AY Patel",
     "season": "2022",
     "team": "Glamorgan",
@@ -46916,47 +47289,6 @@
       "average": 42.57,
       "economy": 3.8,
       "strike_rate": 67.14
-    }
-  },
-  {
-    "player": "TO Norton",
-    "season": "2026",
-    "team": "Glamorgan",
-    "balls": 467,
-    "overs": "77.5",
-    "runs": 334,
-    "wickets": 14,
-    "maidens": 11,
-    "average": 23.86,
-    "economy": 4.29,
-    "strike_rate": 33.36,
-    "best": "4/48",
-    "five_wkt": 0,
-    "four_wkt": 2,
-    "dismissal_types": {
-      "bowled": 2,
-      "caught": 9,
-      "lbw": 3
-    },
-    "home": {
-      "balls": 210,
-      "overs": "35.0",
-      "runs": 136,
-      "wickets": 7,
-      "maidens": 4,
-      "average": 19.43,
-      "economy": 3.89,
-      "strike_rate": 30.0
-    },
-    "away": {
-      "balls": 257,
-      "overs": "42.5",
-      "runs": 198,
-      "wickets": 7,
-      "maidens": 7,
-      "average": 28.29,
-      "economy": 4.62,
-      "strike_rate": 36.71
     }
   },
   {
@@ -47576,6 +47908,48 @@
     }
   },
   {
+    "player": "MJJ Critchley",
+    "season": "2026",
+    "team": "Essex",
+    "balls": 571,
+    "overs": "95.1",
+    "runs": 332,
+    "wickets": 13,
+    "maidens": 8,
+    "average": 25.54,
+    "economy": 3.49,
+    "strike_rate": 43.92,
+    "best": "5/9",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "stumped": 1,
+      "caught": 5,
+      "lbw": 3,
+      "bowled": 4
+    },
+    "home": {
+      "balls": 276,
+      "overs": "46.0",
+      "runs": 182,
+      "wickets": 2,
+      "maidens": 2,
+      "average": 91.0,
+      "economy": 3.96,
+      "strike_rate": 138.0
+    },
+    "away": {
+      "balls": 295,
+      "overs": "49.1",
+      "runs": 150,
+      "wickets": 11,
+      "maidens": 6,
+      "average": 13.64,
+      "economy": 3.05,
+      "strike_rate": 26.82
+    }
+  },
+  {
     "player": "LBK Hollman",
     "season": "2021",
     "team": "Middlesex",
@@ -47738,6 +48112,48 @@
       "average": 24.17,
       "economy": 2.04,
       "strike_rate": 70.92
+    }
+  },
+  {
+    "player": "MJ Leach",
+    "season": "2026",
+    "team": "Somerset",
+    "balls": 868,
+    "overs": "144.4",
+    "runs": 364,
+    "wickets": 13,
+    "maidens": 34,
+    "average": 28.0,
+    "economy": 2.52,
+    "strike_rate": 66.77,
+    "best": "3/44",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "stumped": 1,
+      "bowled": 4,
+      "caught": 5,
+      "lbw": 3
+    },
+    "home": {
+      "balls": 484,
+      "overs": "80.4",
+      "runs": 170,
+      "wickets": 6,
+      "maidens": 23,
+      "average": 28.33,
+      "economy": 2.11,
+      "strike_rate": 80.67
+    },
+    "away": {
+      "balls": 384,
+      "overs": "64.0",
+      "runs": 194,
+      "wickets": 7,
+      "maidens": 11,
+      "average": 27.71,
+      "economy": 3.03,
+      "strike_rate": 54.86
     }
   },
   {
@@ -49107,14 +49523,14 @@
     "player": "MK Andersson",
     "season": "2026",
     "team": "Derbyshire",
-    "balls": 830,
-    "overs": "138.2",
-    "runs": 384,
+    "balls": 860,
+    "overs": "143.2",
+    "runs": 407,
     "wickets": 13,
     "maidens": 17,
-    "average": 29.54,
-    "economy": 2.78,
-    "strike_rate": 63.85,
+    "average": 31.31,
+    "economy": 2.84,
+    "strike_rate": 66.15,
     "best": "2/33",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -49125,14 +49541,14 @@
       "bowled": 2
     },
     "home": {
-      "balls": 390,
-      "overs": "65.0",
-      "runs": 178,
+      "balls": 420,
+      "overs": "70.0",
+      "runs": 201,
       "wickets": 7,
       "maidens": 9,
-      "average": 25.43,
-      "economy": 2.74,
-      "strike_rate": 55.71
+      "average": 28.71,
+      "economy": 2.87,
+      "strike_rate": 60.0
     },
     "away": {
       "balls": 440,
@@ -50464,6 +50880,47 @@
     }
   },
   {
+    "player": "LW James",
+    "season": "2026",
+    "team": "Nottinghamshire",
+    "balls": 956,
+    "overs": "159.2",
+    "runs": 570,
+    "wickets": 12,
+    "maidens": 18,
+    "average": 47.5,
+    "economy": 3.58,
+    "strike_rate": 79.67,
+    "best": "3/79",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 8,
+      "lbw": 2,
+      "bowled": 2
+    },
+    "home": {
+      "balls": 397,
+      "overs": "66.1",
+      "runs": 254,
+      "wickets": 6,
+      "maidens": 8,
+      "average": 42.33,
+      "economy": 3.84,
+      "strike_rate": 66.17
+    },
+    "away": {
+      "balls": 559,
+      "overs": "93.1",
+      "runs": 316,
+      "wickets": 6,
+      "maidens": 10,
+      "average": 52.67,
+      "economy": 3.39,
+      "strike_rate": 93.17
+    }
+  },
+  {
     "player": "LJ Carey",
     "season": "2018",
     "team": "Glamorgan",
@@ -50713,14 +51170,14 @@
     "player": "P Coughlin",
     "season": "2026",
     "team": "Lancashire",
-    "balls": 579,
-    "overs": "96.3",
-    "runs": 353,
+    "balls": 675,
+    "overs": "112.3",
+    "runs": 422,
     "wickets": 12,
-    "maidens": 14,
-    "average": 29.42,
-    "economy": 3.66,
-    "strike_rate": 48.25,
+    "maidens": 15,
+    "average": 35.17,
+    "economy": 3.75,
+    "strike_rate": 56.25,
     "best": "4/79",
     "five_wkt": 0,
     "four_wkt": 1,
@@ -50739,14 +51196,14 @@
       "strike_rate": 26.5
     },
     "away": {
-      "balls": 330,
-      "overs": "55.0",
-      "runs": 201,
+      "balls": 426,
+      "overs": "71.0",
+      "runs": 270,
       "wickets": 4,
-      "maidens": 7,
-      "average": 50.25,
-      "economy": 3.65,
-      "strike_rate": 82.5
+      "maidens": 8,
+      "average": 67.5,
+      "economy": 3.8,
+      "strike_rate": 106.5
     }
   },
   {
@@ -50795,14 +51252,14 @@
     "player": "EG Barnard",
     "season": "2026",
     "team": "Warwickshire",
-    "balls": 1024,
-    "overs": "170.4",
-    "runs": 470,
+    "balls": 1102,
+    "overs": "183.4",
+    "runs": 510,
     "wickets": 12,
-    "maidens": 46,
-    "average": 39.17,
-    "economy": 2.75,
-    "strike_rate": 85.33,
+    "maidens": 48,
+    "average": 42.5,
+    "economy": 2.78,
+    "strike_rate": 91.83,
     "best": "3/66",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -50822,14 +51279,14 @@
       "strike_rate": 97.0
     },
     "away": {
-      "balls": 442,
-      "overs": "73.4",
-      "runs": 222,
+      "balls": 520,
+      "overs": "86.4",
+      "runs": 262,
       "wickets": 6,
-      "maidens": 11,
-      "average": 37.0,
-      "economy": 3.01,
-      "strike_rate": 73.67
+      "maidens": 13,
+      "average": 43.67,
+      "economy": 3.02,
+      "strike_rate": 86.67
     }
   },
   {
@@ -51243,6 +51700,88 @@
     }
   },
   {
+    "player": "NN Gilchrist",
+    "season": "2026",
+    "team": "Warwickshire",
+    "balls": 616,
+    "overs": "102.4",
+    "runs": 393,
+    "wickets": 12,
+    "maidens": 12,
+    "average": 32.75,
+    "economy": 3.83,
+    "strike_rate": 51.33,
+    "best": "4/40",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 8,
+      "lbw": 2,
+      "bowled": 2
+    },
+    "home": {
+      "balls": 412,
+      "overs": "68.4",
+      "runs": 278,
+      "wickets": 8,
+      "maidens": 7,
+      "average": 34.75,
+      "economy": 4.05,
+      "strike_rate": 51.5
+    },
+    "away": {
+      "balls": 204,
+      "overs": "34.0",
+      "runs": 115,
+      "wickets": 4,
+      "maidens": 5,
+      "average": 28.75,
+      "economy": 3.38,
+      "strike_rate": 51.0
+    }
+  },
+  {
+    "player": "JDM Evison",
+    "season": "2026",
+    "team": "Kent, Leicestershire",
+    "balls": 833,
+    "overs": "138.5",
+    "runs": 523,
+    "wickets": 12,
+    "maidens": 18,
+    "average": 43.58,
+    "economy": 3.77,
+    "strike_rate": 69.42,
+    "best": "2/62",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 7,
+      "lbw": 3,
+      "caught": 2
+    },
+    "home": {
+      "balls": 383,
+      "overs": "63.5",
+      "runs": 236,
+      "wickets": 6,
+      "maidens": 6,
+      "average": 39.33,
+      "economy": 3.7,
+      "strike_rate": 63.83
+    },
+    "away": {
+      "balls": 450,
+      "overs": "75.0",
+      "runs": 287,
+      "wickets": 6,
+      "maidens": 12,
+      "average": 47.83,
+      "economy": 3.83,
+      "strike_rate": 75.0
+    }
+  },
+  {
     "player": "JA Leaning",
     "season": "2023",
     "team": "Kent",
@@ -51453,6 +51992,47 @@
     }
   },
   {
+    "player": "BJ Webster",
+    "season": "2026",
+    "team": "Warwickshire",
+    "balls": 839,
+    "overs": "139.5",
+    "runs": 490,
+    "wickets": 12,
+    "maidens": 25,
+    "average": 40.83,
+    "economy": 3.5,
+    "strike_rate": 69.92,
+    "best": "4/23",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 10,
+      "lbw": 1,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 308,
+      "overs": "51.2",
+      "runs": 167,
+      "wickets": 2,
+      "maidens": 11,
+      "average": 83.5,
+      "economy": 3.25,
+      "strike_rate": 154.0
+    },
+    "away": {
+      "balls": 531,
+      "overs": "88.3",
+      "runs": 323,
+      "wickets": 10,
+      "maidens": 14,
+      "average": 32.3,
+      "economy": 3.65,
+      "strike_rate": 53.1
+    }
+  },
+  {
     "player": "BMJ Allison",
     "season": "2022",
     "team": "Essex",
@@ -51530,6 +52110,48 @@
       "average": 44.5,
       "economy": 3.56,
       "strike_rate": 75.0
+    }
+  },
+  {
+    "player": "Rehan Ahmed",
+    "season": "2026",
+    "team": "Leicestershire",
+    "balls": 628,
+    "overs": "104.4",
+    "runs": 420,
+    "wickets": 12,
+    "maidens": 9,
+    "average": 35.0,
+    "economy": 4.01,
+    "strike_rate": 52.33,
+    "best": "4/102",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "lbw": 4,
+      "bowled": 4,
+      "caught": 3,
+      "stumped": 1
+    },
+    "home": {
+      "balls": 463,
+      "overs": "77.1",
+      "runs": 292,
+      "wickets": 10,
+      "maidens": 6,
+      "average": 29.2,
+      "economy": 3.78,
+      "strike_rate": 46.3
+    },
+    "away": {
+      "balls": 165,
+      "overs": "27.3",
+      "runs": 128,
+      "wickets": 2,
+      "maidens": 3,
+      "average": 64.0,
+      "economy": 4.65,
+      "strike_rate": 82.5
     }
   },
   {
@@ -52194,6 +52816,47 @@
     }
   },
   {
+    "player": "SA Abbott",
+    "season": "2026",
+    "team": "Surrey",
+    "balls": 1308,
+    "overs": "218.0",
+    "runs": 740,
+    "wickets": 12,
+    "maidens": 26,
+    "average": 61.67,
+    "economy": 3.39,
+    "strike_rate": 109.0,
+    "best": "3/84",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 6,
+      "bowled": 3,
+      "lbw": 3
+    },
+    "home": {
+      "balls": 594,
+      "overs": "99.0",
+      "runs": 352,
+      "wickets": 5,
+      "maidens": 12,
+      "average": 70.4,
+      "economy": 3.56,
+      "strike_rate": 118.8
+    },
+    "away": {
+      "balls": 714,
+      "overs": "119.0",
+      "runs": 388,
+      "wickets": 7,
+      "maidens": 14,
+      "average": 55.43,
+      "economy": 3.26,
+      "strike_rate": 102.0
+    }
+  },
+  {
     "player": "LE Plunkett",
     "season": "2015",
     "team": "Yorkshire",
@@ -52775,6 +53438,46 @@
     }
   },
   {
+    "player": "Hasan Mahmud",
+    "season": "2026",
+    "team": "Kent",
+    "balls": 342,
+    "overs": "57.0",
+    "runs": 229,
+    "wickets": 12,
+    "maidens": 10,
+    "average": 19.08,
+    "economy": 4.02,
+    "strike_rate": 28.5,
+    "best": "6/69",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 4,
+      "caught": 8
+    },
+    "home": {
+      "balls": 210,
+      "overs": "35.0",
+      "runs": 128,
+      "wickets": 3,
+      "maidens": 5,
+      "average": 42.67,
+      "economy": 3.66,
+      "strike_rate": 70.0
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    }
+  },
+  {
     "player": "U Arshad",
     "season": "2014",
     "team": "Durham",
@@ -52854,6 +53557,46 @@
       "average": 49.83,
       "economy": 4.21,
       "strike_rate": 71.0
+    }
+  },
+  {
+    "player": "ML Revis",
+    "season": "2026",
+    "team": "Yorkshire",
+    "balls": 718,
+    "overs": "119.4",
+    "runs": 477,
+    "wickets": 11,
+    "maidens": 20,
+    "average": 43.36,
+    "economy": 3.99,
+    "strike_rate": 65.27,
+    "best": "3/45",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 9,
+      "bowled": 2
+    },
+    "home": {
+      "balls": 318,
+      "overs": "53.0",
+      "runs": 240,
+      "wickets": 6,
+      "maidens": 12,
+      "average": 40.0,
+      "economy": 4.53,
+      "strike_rate": 53.0
+    },
+    "away": {
+      "balls": 400,
+      "overs": "66.4",
+      "runs": 237,
+      "wickets": 5,
+      "maidens": 8,
+      "average": 47.4,
+      "economy": 3.56,
+      "strike_rate": 80.0
     }
   },
   {
@@ -52939,6 +53682,47 @@
     }
   },
   {
+    "player": "TJ Haines",
+    "season": "2026",
+    "team": "Sussex",
+    "balls": 450,
+    "overs": "75.0",
+    "runs": 202,
+    "wickets": 11,
+    "maidens": 15,
+    "average": 18.36,
+    "economy": 2.69,
+    "strike_rate": 40.91,
+    "best": "3/5",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 5,
+      "caught": 5,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 174,
+      "overs": "29.0",
+      "runs": 64,
+      "wickets": 7,
+      "maidens": 8,
+      "average": 9.14,
+      "economy": 2.21,
+      "strike_rate": 24.86
+    },
+    "away": {
+      "balls": 276,
+      "overs": "46.0",
+      "runs": 138,
+      "wickets": 4,
+      "maidens": 7,
+      "average": 34.5,
+      "economy": 3.0,
+      "strike_rate": 69.0
+    }
+  },
+  {
     "player": "HT Crocombe",
     "season": "2024",
     "team": "Sussex",
@@ -52977,6 +53761,46 @@
       "average": 11.0,
       "economy": 2.72,
       "strike_rate": 24.25
+    }
+  },
+  {
+    "player": "TJ Price",
+    "season": "2026",
+    "team": "Sussex",
+    "balls": 574,
+    "overs": "95.4",
+    "runs": 307,
+    "wickets": 11,
+    "maidens": 8,
+    "average": 27.91,
+    "economy": 3.21,
+    "strike_rate": 52.18,
+    "best": "3/27",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 6,
+      "bowled": 5
+    },
+    "home": {
+      "balls": 454,
+      "overs": "75.4",
+      "runs": 227,
+      "wickets": 11,
+      "maidens": 7,
+      "average": 20.64,
+      "economy": 3.0,
+      "strike_rate": 41.27
+    },
+    "away": {
+      "balls": 120,
+      "overs": "20.0",
+      "runs": 80,
+      "wickets": 0,
+      "maidens": 1,
+      "average": null,
+      "economy": 4.0,
+      "strike_rate": null
     }
   },
   {
@@ -53228,47 +54052,6 @@
     }
   },
   {
-    "player": "MJJ Critchley",
-    "season": "2026",
-    "team": "Essex",
-    "balls": 421,
-    "overs": "70.1",
-    "runs": 226,
-    "wickets": 11,
-    "maidens": 8,
-    "average": 20.55,
-    "economy": 3.22,
-    "strike_rate": 38.27,
-    "best": "5/9",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 3,
-      "bowled": 4,
-      "caught": 4
-    },
-    "home": {
-      "balls": 126,
-      "overs": "21.0",
-      "runs": 76,
-      "wickets": 0,
-      "maidens": 2,
-      "average": null,
-      "economy": 3.62,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 295,
-      "overs": "49.1",
-      "runs": 150,
-      "wickets": 11,
-      "maidens": 6,
-      "average": 13.64,
-      "economy": 3.05,
-      "strike_rate": 26.82
-    }
-  },
-  {
     "player": "MA Wood",
     "season": "2016",
     "team": "Durham",
@@ -53517,45 +54300,44 @@
     }
   },
   {
-    "player": "CF Parkinson",
+    "player": "Mohammad Abbas",
     "season": "2026",
-    "team": "Durham",
-    "balls": 1068,
-    "overs": "178.0",
-    "runs": 416,
+    "team": "Derbyshire",
+    "balls": 1014,
+    "overs": "169.0",
+    "runs": 451,
     "wickets": 11,
-    "maidens": 35,
-    "average": 37.82,
-    "economy": 2.34,
-    "strike_rate": 97.09,
-    "best": "5/13",
-    "five_wkt": 1,
+    "maidens": 38,
+    "average": 41.0,
+    "economy": 2.67,
+    "strike_rate": 92.18,
+    "best": "3/32",
+    "five_wkt": 0,
     "four_wkt": 0,
     "dismissal_types": {
-      "caught": 5,
-      "caught and bowled": 2,
-      "bowled": 3,
+      "caught": 8,
+      "bowled": 2,
       "lbw": 1
     },
     "home": {
-      "balls": 330,
-      "overs": "55.0",
-      "runs": 124,
-      "wickets": 2,
-      "maidens": 11,
-      "average": 62.0,
-      "economy": 2.25,
-      "strike_rate": 165.0
+      "balls": 636,
+      "overs": "106.0",
+      "runs": 272,
+      "wickets": 6,
+      "maidens": 26,
+      "average": 45.33,
+      "economy": 2.57,
+      "strike_rate": 106.0
     },
     "away": {
-      "balls": 738,
-      "overs": "123.0",
-      "runs": 292,
-      "wickets": 9,
-      "maidens": 24,
-      "average": 32.44,
-      "economy": 2.37,
-      "strike_rate": 82.0
+      "balls": 378,
+      "overs": "63.0",
+      "runs": 179,
+      "wickets": 5,
+      "maidens": 12,
+      "average": 35.8,
+      "economy": 2.84,
+      "strike_rate": 75.6
     }
   },
   {
@@ -53805,44 +54587,44 @@
     }
   },
   {
-    "player": "LW James",
+    "player": "BA Hutton",
     "season": "2026",
     "team": "Nottinghamshire",
-    "balls": 884,
-    "overs": "147.2",
-    "runs": 530,
+    "balls": 724,
+    "overs": "120.4",
+    "runs": 340,
     "wickets": 11,
-    "maidens": 17,
-    "average": 48.18,
-    "economy": 3.6,
-    "strike_rate": 80.36,
-    "best": "3/79",
+    "maidens": 25,
+    "average": 30.91,
+    "economy": 2.82,
+    "strike_rate": 65.82,
+    "best": "4/33",
     "five_wkt": 0,
-    "four_wkt": 0,
+    "four_wkt": 1,
     "dismissal_types": {
-      "caught": 7,
       "lbw": 2,
+      "caught": 7,
       "bowled": 2
     },
     "home": {
-      "balls": 397,
-      "overs": "66.1",
-      "runs": 254,
-      "wickets": 6,
-      "maidens": 8,
-      "average": 42.33,
-      "economy": 3.84,
-      "strike_rate": 66.17
+      "balls": 588,
+      "overs": "98.0",
+      "runs": 269,
+      "wickets": 10,
+      "maidens": 20,
+      "average": 26.9,
+      "economy": 2.74,
+      "strike_rate": 58.8
     },
     "away": {
-      "balls": 487,
-      "overs": "81.1",
-      "runs": 276,
-      "wickets": 5,
-      "maidens": 9,
-      "average": 55.2,
-      "economy": 3.4,
-      "strike_rate": 97.4
+      "balls": 136,
+      "overs": "22.4",
+      "runs": 71,
+      "wickets": 1,
+      "maidens": 5,
+      "average": 71.0,
+      "economy": 3.13,
+      "strike_rate": 136.0
     }
   },
   {
@@ -54093,47 +54875,6 @@
     }
   },
   {
-    "player": "JDM Evison",
-    "season": "2026",
-    "team": "Kent, Leicestershire",
-    "balls": 791,
-    "overs": "131.5",
-    "runs": 504,
-    "wickets": 11,
-    "maidens": 17,
-    "average": 45.82,
-    "economy": 3.82,
-    "strike_rate": 71.91,
-    "best": "2/62",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 6,
-      "lbw": 3,
-      "caught": 2
-    },
-    "home": {
-      "balls": 341,
-      "overs": "56.5",
-      "runs": 217,
-      "wickets": 5,
-      "maidens": 5,
-      "average": 43.4,
-      "economy": 3.82,
-      "strike_rate": 68.2
-    },
-    "away": {
-      "balls": 450,
-      "overs": "75.0",
-      "runs": 287,
-      "wickets": 6,
-      "maidens": 12,
-      "average": 47.83,
-      "economy": 3.83,
-      "strike_rate": 75.0
-    }
-  },
-  {
     "player": "J Clark",
     "season": "2016",
     "team": "Lancashire",
@@ -54255,6 +54996,47 @@
       "average": 28.11,
       "economy": 3.16,
       "strike_rate": 53.33
+    }
+  },
+  {
+    "player": "L Guthrie",
+    "season": "2026",
+    "team": "Northamptonshire",
+    "balls": 550,
+    "overs": "91.4",
+    "runs": 396,
+    "wickets": 11,
+    "maidens": 8,
+    "average": 36.0,
+    "economy": 4.32,
+    "strike_rate": 50.0,
+    "best": "4/50",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "lbw": 2,
+      "caught": 8,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 408,
+      "overs": "68.0",
+      "runs": 305,
+      "wickets": 8,
+      "maidens": 3,
+      "average": 38.12,
+      "economy": 4.49,
+      "strike_rate": 51.0
+    },
+    "away": {
+      "balls": 142,
+      "overs": "23.4",
+      "runs": 91,
+      "wickets": 3,
+      "maidens": 5,
+      "average": 30.33,
+      "economy": 3.85,
+      "strike_rate": 47.33
     }
   },
   {
@@ -54875,47 +55657,6 @@
     }
   },
   {
-    "player": "MJ Waite",
-    "season": "2026",
-    "team": "Worcestershire",
-    "balls": 756,
-    "overs": "126.0",
-    "runs": 385,
-    "wickets": 11,
-    "maidens": 24,
-    "average": 35.0,
-    "economy": 3.06,
-    "strike_rate": 68.73,
-    "best": "3/43",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 7,
-      "lbw": 2,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 264,
-      "overs": "44.0",
-      "runs": 128,
-      "wickets": 6,
-      "maidens": 6,
-      "average": 21.33,
-      "economy": 2.91,
-      "strike_rate": 44.0
-    },
-    "away": {
-      "balls": 414,
-      "overs": "69.0",
-      "runs": 224,
-      "wickets": 3,
-      "maidens": 16,
-      "average": 74.67,
-      "economy": 3.25,
-      "strike_rate": 138.0
-    }
-  },
-  {
     "player": "Kashif Ali",
     "season": "2025",
     "team": "Kent, Worcestershire",
@@ -55446,89 +56187,6 @@
     }
   },
   {
-    "player": "ARJ Ogborne",
-    "season": "2026",
-    "team": "Somerset",
-    "balls": 696,
-    "overs": "116.0",
-    "runs": 436,
-    "wickets": 11,
-    "maidens": 17,
-    "average": 39.64,
-    "economy": 3.76,
-    "strike_rate": 63.27,
-    "best": "3/81",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 6,
-      "lbw": 3,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 486,
-      "overs": "81.0",
-      "runs": 310,
-      "wickets": 9,
-      "maidens": 13,
-      "average": 34.44,
-      "economy": 3.83,
-      "strike_rate": 54.0
-    },
-    "away": {
-      "balls": 210,
-      "overs": "35.0",
-      "runs": 126,
-      "wickets": 2,
-      "maidens": 4,
-      "average": 63.0,
-      "economy": 3.6,
-      "strike_rate": 105.0
-    }
-  },
-  {
-    "player": "AY Patel",
-    "season": "2026",
-    "team": "Leicestershire",
-    "balls": 1018,
-    "overs": "169.4",
-    "runs": 597,
-    "wickets": 11,
-    "maidens": 17,
-    "average": 54.27,
-    "economy": 3.52,
-    "strike_rate": 92.55,
-    "best": "3/92",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 3,
-      "caught": 5,
-      "bowled": 2,
-      "stumped": 1
-    },
-    "home": {
-      "balls": 162,
-      "overs": "27.0",
-      "runs": 95,
-      "wickets": 1,
-      "maidens": 4,
-      "average": 95.0,
-      "economy": 3.52,
-      "strike_rate": 162.0
-    },
-    "away": {
-      "balls": 856,
-      "overs": "142.4",
-      "runs": 502,
-      "wickets": 10,
-      "maidens": 13,
-      "average": 50.2,
-      "economy": 3.52,
-      "strike_rate": 85.6
-    }
-  },
-  {
     "player": "RA Jones",
     "season": "2014",
     "team": "Leicestershire, Warwickshire",
@@ -55610,44 +56268,46 @@
     }
   },
   {
-    "player": "B Swanepoel",
+    "player": "MJ Suthar",
     "season": "2026",
-    "team": "Worcestershire",
-    "balls": 660,
-    "overs": "110.0",
-    "runs": 389,
+    "team": "Warwickshire",
+    "balls": 647,
+    "overs": "107.5",
+    "runs": 309,
     "wickets": 11,
-    "maidens": 15,
-    "average": 35.36,
-    "economy": 3.54,
-    "strike_rate": 60.0,
-    "best": "3/51",
-    "five_wkt": 0,
+    "maidens": 21,
+    "average": 28.09,
+    "economy": 2.87,
+    "strike_rate": 58.82,
+    "best": "5/100",
+    "five_wkt": 1,
     "four_wkt": 0,
     "dismissal_types": {
-      "lbw": 3,
-      "bowled": 4,
-      "caught": 4
+      "stumped": 2,
+      "lbw": 1,
+      "caught": 5,
+      "caught and bowled": 1,
+      "bowled": 2
     },
     "home": {
-      "balls": 396,
-      "overs": "66.0",
-      "runs": 214,
-      "wickets": 6,
-      "maidens": 11,
-      "average": 35.67,
-      "economy": 3.24,
-      "strike_rate": 66.0
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
     },
     "away": {
-      "balls": 126,
-      "overs": "21.0",
-      "runs": 94,
-      "wickets": 2,
-      "maidens": 1,
-      "average": 47.0,
-      "economy": 4.48,
-      "strike_rate": 63.0
+      "balls": 647,
+      "overs": "107.5",
+      "runs": 309,
+      "wickets": 11,
+      "maidens": 21,
+      "average": 28.09,
+      "economy": 2.87,
+      "strike_rate": 58.82
     }
   },
   {
@@ -56015,46 +56675,6 @@
       "average": 23.82,
       "economy": 4.6,
       "strike_rate": 31.09
-    }
-  },
-  {
-    "player": "ML Revis",
-    "season": "2026",
-    "team": "Yorkshire",
-    "balls": 610,
-    "overs": "101.4",
-    "runs": 400,
-    "wickets": 10,
-    "maidens": 19,
-    "average": 40.0,
-    "economy": 3.93,
-    "strike_rate": 61.0,
-    "best": "3/45",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 8,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 318,
-      "overs": "53.0",
-      "runs": 240,
-      "wickets": 6,
-      "maidens": 12,
-      "average": 40.0,
-      "economy": 4.53,
-      "strike_rate": 53.0
-    },
-    "away": {
-      "balls": 292,
-      "overs": "48.4",
-      "runs": 160,
-      "wickets": 4,
-      "maidens": 7,
-      "average": 40.0,
-      "economy": 3.29,
-      "strike_rate": 73.0
     }
   },
   {
@@ -56673,47 +57293,6 @@
       "average": 37.25,
       "economy": 3.01,
       "strike_rate": 74.25
-    }
-  },
-  {
-    "player": "BA Hutton",
-    "season": "2026",
-    "team": "Nottinghamshire",
-    "balls": 616,
-    "overs": "102.4",
-    "runs": 290,
-    "wickets": 10,
-    "maidens": 20,
-    "average": 29.0,
-    "economy": 2.82,
-    "strike_rate": 61.6,
-    "best": "4/33",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 7,
-      "lbw": 1,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 588,
-      "overs": "98.0",
-      "runs": 269,
-      "wickets": 10,
-      "maidens": 20,
-      "average": 26.9,
-      "economy": 2.74,
-      "strike_rate": 58.8
-    },
-    "away": {
-      "balls": 28,
-      "overs": "4.4",
-      "runs": 21,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": 4.5,
-      "strike_rate": null
     }
   },
   {
@@ -57580,48 +58159,6 @@
     }
   },
   {
-    "player": "Rehan Ahmed",
-    "season": "2026",
-    "team": "Leicestershire",
-    "balls": 572,
-    "overs": "95.2",
-    "runs": 400,
-    "wickets": 10,
-    "maidens": 6,
-    "average": 40.0,
-    "economy": 4.2,
-    "strike_rate": 57.2,
-    "best": "4/102",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "bowled": 4,
-      "caught": 3,
-      "lbw": 2,
-      "stumped": 1
-    },
-    "home": {
-      "balls": 407,
-      "overs": "67.5",
-      "runs": 272,
-      "wickets": 8,
-      "maidens": 3,
-      "average": 34.0,
-      "economy": 4.01,
-      "strike_rate": 50.88
-    },
-    "away": {
-      "balls": 165,
-      "overs": "27.3",
-      "runs": 128,
-      "wickets": 2,
-      "maidens": 3,
-      "average": 64.0,
-      "economy": 4.65,
-      "strike_rate": 82.5
-    }
-  },
-  {
     "player": "A Phillip",
     "season": "2025",
     "team": "Lancashire",
@@ -58279,47 +58816,6 @@
   },
   {
     "player": "SA Abbott",
-    "season": "2026",
-    "team": "Surrey",
-    "balls": 1140,
-    "overs": "190.0",
-    "runs": 655,
-    "wickets": 10,
-    "maidens": 23,
-    "average": 65.5,
-    "economy": 3.45,
-    "strike_rate": 114.0,
-    "best": "3/84",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 5,
-      "bowled": 2,
-      "lbw": 3
-    },
-    "home": {
-      "balls": 594,
-      "overs": "99.0",
-      "runs": 352,
-      "wickets": 5,
-      "maidens": 12,
-      "average": 70.4,
-      "economy": 3.56,
-      "strike_rate": 118.8
-    },
-    "away": {
-      "balls": 546,
-      "overs": "91.0",
-      "runs": 303,
-      "wickets": 5,
-      "maidens": 11,
-      "average": 60.6,
-      "economy": 3.33,
-      "strike_rate": 109.2
-    }
-  },
-  {
-    "player": "SA Abbott",
     "season": "2024",
     "team": "Surrey",
     "balls": 612,
@@ -58398,6 +58894,47 @@
       "average": 141.5,
       "economy": 3.72,
       "strike_rate": 228.0
+    }
+  },
+  {
+    "player": "EV Jack",
+    "season": "2026",
+    "team": "Hampshire",
+    "balls": 471,
+    "overs": "78.3",
+    "runs": 314,
+    "wickets": 10,
+    "maidens": 11,
+    "average": 31.4,
+    "economy": 4.0,
+    "strike_rate": 47.1,
+    "best": "4/36",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "lbw": 3,
+      "caught": 6,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 184,
+      "overs": "30.4",
+      "runs": 154,
+      "wickets": 3,
+      "maidens": 2,
+      "average": 51.33,
+      "economy": 5.02,
+      "strike_rate": 61.33
+    },
+    "away": {
+      "balls": 287,
+      "overs": "47.5",
+      "runs": 160,
+      "wickets": 7,
+      "maidens": 9,
+      "average": 22.86,
+      "economy": 3.34,
+      "strike_rate": 41.0
     }
   },
   {
@@ -58650,47 +59187,6 @@
     }
   },
   {
-    "player": "MT Stanley",
-    "season": "2026",
-    "team": "Lancashire",
-    "balls": 432,
-    "overs": "72.0",
-    "runs": 295,
-    "wickets": 10,
-    "maidens": 11,
-    "average": 29.5,
-    "economy": 4.1,
-    "strike_rate": 43.2,
-    "best": "3/93",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 4,
-      "bowled": 2,
-      "caught": 4
-    },
-    "home": {
-      "balls": 270,
-      "overs": "45.0",
-      "runs": 197,
-      "wickets": 7,
-      "maidens": 8,
-      "average": 28.14,
-      "economy": 4.38,
-      "strike_rate": 38.57
-    },
-    "away": {
-      "balls": 162,
-      "overs": "27.0",
-      "runs": 98,
-      "wickets": 3,
-      "maidens": 3,
-      "average": 32.67,
-      "economy": 3.63,
-      "strike_rate": 54.0
-    }
-  },
-  {
     "player": "AY Patel",
     "season": "2023",
     "team": "Durham",
@@ -58853,46 +59349,6 @@
       "average": 82.0,
       "economy": 3.59,
       "strike_rate": 137.0
-    }
-  },
-  {
-    "player": "TJ Haines",
-    "season": "2026",
-    "team": "Sussex",
-    "balls": 384,
-    "overs": "64.0",
-    "runs": 164,
-    "wickets": 9,
-    "maidens": 13,
-    "average": 18.22,
-    "economy": 2.56,
-    "strike_rate": 42.67,
-    "best": "3/5",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 4,
-      "caught": 5
-    },
-    "home": {
-      "balls": 108,
-      "overs": "18.0",
-      "runs": 26,
-      "wickets": 5,
-      "maidens": 6,
-      "average": 5.2,
-      "economy": 1.44,
-      "strike_rate": 21.6
-    },
-    "away": {
-      "balls": 276,
-      "overs": "46.0",
-      "runs": 138,
-      "wickets": 4,
-      "maidens": 7,
-      "average": 34.5,
-      "economy": 3.0,
-      "strike_rate": 69.0
     }
   },
   {
@@ -59345,47 +59801,6 @@
     }
   },
   {
-    "player": "MJ Leach",
-    "season": "2026",
-    "team": "Somerset",
-    "balls": 658,
-    "overs": "109.4",
-    "runs": 298,
-    "wickets": 9,
-    "maidens": 22,
-    "average": 33.11,
-    "economy": 2.72,
-    "strike_rate": 73.11,
-    "best": "3/44",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 3,
-      "bowled": 3,
-      "lbw": 3
-    },
-    "home": {
-      "balls": 274,
-      "overs": "45.4",
-      "runs": 104,
-      "wickets": 2,
-      "maidens": 11,
-      "average": 52.0,
-      "economy": 2.28,
-      "strike_rate": 137.0
-    },
-    "away": {
-      "balls": 384,
-      "overs": "64.0",
-      "runs": 194,
-      "wickets": 7,
-      "maidens": 11,
-      "average": 27.71,
-      "economy": 3.03,
-      "strike_rate": 54.86
-    }
-  },
-  {
     "player": "MA Wood",
     "season": "2018",
     "team": "Durham",
@@ -59589,6 +60004,46 @@
       "average": 68.5,
       "economy": 3.77,
       "strike_rate": 109.0
+    }
+  },
+  {
+    "player": "Anuj Dal",
+    "season": "2026",
+    "team": "Derbyshire",
+    "balls": 424,
+    "overs": "70.4",
+    "runs": 219,
+    "wickets": 9,
+    "maidens": 14,
+    "average": 24.33,
+    "economy": 3.1,
+    "strike_rate": 47.11,
+    "best": "3/22",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 5,
+      "bowled": 4
+    },
+    "home": {
+      "balls": 316,
+      "overs": "52.4",
+      "runs": 160,
+      "wickets": 7,
+      "maidens": 10,
+      "average": 22.86,
+      "economy": 3.04,
+      "strike_rate": 45.14
+    },
+    "away": {
+      "balls": 108,
+      "overs": "18.0",
+      "runs": 59,
+      "wickets": 2,
+      "maidens": 4,
+      "average": 29.5,
+      "economy": 3.28,
+      "strike_rate": 54.0
     }
   },
   {
@@ -60406,6 +60861,48 @@
     }
   },
   {
+    "player": "JH Davey",
+    "season": "2026",
+    "team": "Leicestershire",
+    "balls": 570,
+    "overs": "95.0",
+    "runs": 320,
+    "wickets": 9,
+    "maidens": 15,
+    "average": 35.56,
+    "economy": 3.37,
+    "strike_rate": 63.33,
+    "best": "3/36",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught and bowled": 1,
+      "caught": 6,
+      "lbw": 1,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 384,
+      "overs": "64.0",
+      "runs": 229,
+      "wickets": 7,
+      "maidens": 11,
+      "average": 32.71,
+      "economy": 3.58,
+      "strike_rate": 54.86
+    },
+    "away": {
+      "balls": 186,
+      "overs": "31.0",
+      "runs": 91,
+      "wickets": 2,
+      "maidens": 4,
+      "average": 45.5,
+      "economy": 2.94,
+      "strike_rate": 93.0
+    }
+  },
+  {
     "player": "JA Leaning",
     "season": "2025",
     "team": "Kent",
@@ -60484,6 +60981,46 @@
       "average": 30.4,
       "economy": 4.45,
       "strike_rate": 41.0
+    }
+  },
+  {
+    "player": "DW Lawrence",
+    "season": "2026",
+    "team": "Surrey",
+    "balls": 1070,
+    "overs": "178.2",
+    "runs": 642,
+    "wickets": 9,
+    "maidens": 18,
+    "average": 71.33,
+    "economy": 3.6,
+    "strike_rate": 118.89,
+    "best": "3/14",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 6,
+      "bowled": 3
+    },
+    "home": {
+      "balls": 499,
+      "overs": "83.1",
+      "runs": 274,
+      "wickets": 5,
+      "maidens": 10,
+      "average": 54.8,
+      "economy": 3.29,
+      "strike_rate": 99.8
+    },
+    "away": {
+      "balls": 571,
+      "overs": "95.1",
+      "runs": 368,
+      "wickets": 4,
+      "maidens": 8,
+      "average": 92.0,
+      "economy": 3.87,
+      "strike_rate": 142.75
     }
   },
   {
@@ -60689,47 +61226,6 @@
       "average": 19.62,
       "economy": 4.86,
       "strike_rate": 24.25
-    }
-  },
-  {
-    "player": "L Guthrie",
-    "season": "2026",
-    "team": "Northamptonshire",
-    "balls": 468,
-    "overs": "78.0",
-    "runs": 329,
-    "wickets": 9,
-    "maidens": 7,
-    "average": 36.56,
-    "economy": 4.22,
-    "strike_rate": 52.0,
-    "best": "4/50",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "lbw": 2,
-      "caught": 6,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 408,
-      "overs": "68.0",
-      "runs": 305,
-      "wickets": 8,
-      "maidens": 3,
-      "average": 38.12,
-      "economy": 4.49,
-      "strike_rate": 51.0
-    },
-    "away": {
-      "balls": 60,
-      "overs": "10.0",
-      "runs": 24,
-      "wickets": 1,
-      "maidens": 4,
-      "average": 24.0,
-      "economy": 2.4,
-      "strike_rate": 60.0
     }
   },
   {
@@ -61268,14 +61764,14 @@
     "player": "JJG Sales",
     "season": "2026",
     "team": "Northamptonshire",
-    "balls": 477,
-    "overs": "79.3",
-    "runs": 372,
+    "balls": 585,
+    "overs": "97.3",
+    "runs": 446,
     "wickets": 9,
     "maidens": 3,
-    "average": 41.33,
-    "economy": 4.68,
-    "strike_rate": 53.0,
+    "average": 49.56,
+    "economy": 4.57,
+    "strike_rate": 65.0,
     "best": "3/57",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -61295,14 +61791,14 @@
       "strike_rate": 52.2
     },
     "away": {
-      "balls": 216,
-      "overs": "36.0",
-      "runs": 170,
+      "balls": 324,
+      "overs": "54.0",
+      "runs": 244,
       "wickets": 4,
       "maidens": 2,
-      "average": 42.5,
-      "economy": 4.72,
-      "strike_rate": 54.0
+      "average": 61.0,
+      "economy": 4.52,
+      "strike_rate": 81.0
     }
   },
   {
@@ -61596,14 +62092,14 @@
     "player": "AM Vaughan",
     "season": "2026",
     "team": "Somerset",
-    "balls": 391,
-    "overs": "65.1",
-    "runs": 161,
+    "balls": 481,
+    "overs": "80.1",
+    "runs": 208,
     "wickets": 9,
-    "maidens": 17,
-    "average": 17.89,
-    "economy": 2.47,
-    "strike_rate": 43.44,
+    "maidens": 20,
+    "average": 23.11,
+    "economy": 2.59,
+    "strike_rate": 53.44,
     "best": "2/5",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -61613,14 +62109,14 @@
       "bowled": 3
     },
     "home": {
-      "balls": 204,
-      "overs": "34.0",
-      "runs": 79,
+      "balls": 294,
+      "overs": "49.0",
+      "runs": 126,
       "wickets": 5,
-      "maidens": 10,
-      "average": 15.8,
-      "economy": 2.32,
-      "strike_rate": 40.8
+      "maidens": 13,
+      "average": 25.2,
+      "economy": 2.57,
+      "strike_rate": 58.8
     },
     "away": {
       "balls": 187,
@@ -62746,46 +63242,6 @@
     }
   },
   {
-    "player": "Hasan Mahmud",
-    "season": "2026",
-    "team": "Kent",
-    "balls": 132,
-    "overs": "22.0",
-    "runs": 101,
-    "wickets": 9,
-    "maidens": 5,
-    "average": 11.22,
-    "economy": 4.59,
-    "strike_rate": 14.67,
-    "best": "6/69",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 8,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    }
-  },
-  {
     "player": "JO Holder",
     "season": "2024",
     "team": "Worcestershire",
@@ -63156,46 +63612,6 @@
   },
   {
     "player": "TG Helm",
-    "season": "2026",
-    "team": "Leicestershire, Middlesex",
-    "balls": 504,
-    "overs": "84.0",
-    "runs": 304,
-    "wickets": 8,
-    "maidens": 15,
-    "average": 38.0,
-    "economy": 3.62,
-    "strike_rate": 63.0,
-    "best": "3/85",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 6,
-      "lbw": 2
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 504,
-      "overs": "84.0",
-      "runs": 304,
-      "wickets": 8,
-      "maidens": 15,
-      "average": 38.0,
-      "economy": 3.62,
-      "strike_rate": 63.0
-    }
-  },
-  {
-    "player": "TG Helm",
     "season": "2021",
     "team": "Middlesex",
     "balls": 787,
@@ -63239,14 +63655,14 @@
     "player": "LA Procter",
     "season": "2026",
     "team": "Northamptonshire",
-    "balls": 883,
-    "overs": "147.1",
-    "runs": 449,
+    "balls": 895,
+    "overs": "149.1",
+    "runs": 469,
     "wickets": 8,
     "maidens": 31,
-    "average": 56.12,
-    "economy": 3.05,
-    "strike_rate": 110.38,
+    "average": 58.62,
+    "economy": 3.14,
+    "strike_rate": 111.88,
     "best": "2/24",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -63266,14 +63682,14 @@
       "strike_rate": 113.0
     },
     "away": {
-      "balls": 318,
-      "overs": "53.0",
-      "runs": 176,
+      "balls": 330,
+      "overs": "55.0",
+      "runs": 196,
       "wickets": 3,
       "maidens": 13,
-      "average": 58.67,
-      "economy": 3.32,
-      "strike_rate": 106.0
+      "average": 65.33,
+      "economy": 3.56,
+      "strike_rate": 110.0
     }
   },
   {
@@ -63680,47 +64096,6 @@
       "average": 35.0,
       "economy": 5.17,
       "strike_rate": 40.6
-    }
-  },
-  {
-    "player": "Mohammad Abbas",
-    "season": "2026",
-    "team": "Derbyshire",
-    "balls": 798,
-    "overs": "133.0",
-    "runs": 366,
-    "wickets": 8,
-    "maidens": 30,
-    "average": 45.75,
-    "economy": 2.75,
-    "strike_rate": 99.75,
-    "best": "3/32",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 6,
-      "bowled": 1,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 420,
-      "overs": "70.0",
-      "runs": 187,
-      "wickets": 3,
-      "maidens": 18,
-      "average": 62.33,
-      "economy": 2.67,
-      "strike_rate": 140.0
-    },
-    "away": {
-      "balls": 378,
-      "overs": "63.0",
-      "runs": 179,
-      "wickets": 5,
-      "maidens": 12,
-      "average": 35.8,
-      "economy": 2.84,
-      "strike_rate": 75.6
     }
   },
   {
@@ -64463,47 +64838,6 @@
     }
   },
   {
-    "player": "NN Gilchrist",
-    "season": "2026",
-    "team": "Warwickshire",
-    "balls": 412,
-    "overs": "68.4",
-    "runs": 278,
-    "wickets": 8,
-    "maidens": 7,
-    "average": 34.75,
-    "economy": 4.05,
-    "strike_rate": 51.5,
-    "best": "4/40",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 5,
-      "lbw": 1,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 412,
-      "overs": "68.4",
-      "runs": 278,
-      "wickets": 8,
-      "maidens": 7,
-      "average": 34.75,
-      "economy": 4.05,
-      "strike_rate": 51.5
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    }
-  },
-  {
     "player": "JA Duffy",
     "season": "2022",
     "team": "Kent",
@@ -64542,46 +64876,6 @@
       "average": null,
       "economy": 6.58,
       "strike_rate": null
-    }
-  },
-  {
-    "player": "DW Lawrence",
-    "season": "2026",
-    "team": "Surrey",
-    "balls": 890,
-    "overs": "148.2",
-    "runs": 545,
-    "wickets": 8,
-    "maidens": 14,
-    "average": 68.12,
-    "economy": 3.67,
-    "strike_rate": 111.25,
-    "best": "3/14",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 6,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 499,
-      "overs": "83.1",
-      "runs": 274,
-      "wickets": 5,
-      "maidens": 10,
-      "average": 54.8,
-      "economy": 3.29,
-      "strike_rate": 99.8
-    },
-    "away": {
-      "balls": 391,
-      "overs": "65.1",
-      "runs": 271,
-      "wickets": 3,
-      "maidens": 4,
-      "average": 90.33,
-      "economy": 4.16,
-      "strike_rate": 130.33
     }
   },
   {
@@ -64744,47 +65038,6 @@
       "average": 8.62,
       "economy": 2.92,
       "strike_rate": 17.75
-    }
-  },
-  {
-    "player": "GL van Buuren",
-    "season": "2026",
-    "team": "Gloucestershire",
-    "balls": 817,
-    "overs": "136.1",
-    "runs": 422,
-    "wickets": 8,
-    "maidens": 16,
-    "average": 52.75,
-    "economy": 3.1,
-    "strike_rate": 102.12,
-    "best": "3/31",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2,
-      "bowled": 4,
-      "lbw": 2
-    },
-    "home": {
-      "balls": 361,
-      "overs": "60.1",
-      "runs": 189,
-      "wickets": 3,
-      "maidens": 5,
-      "average": 63.0,
-      "economy": 3.14,
-      "strike_rate": 120.33
-    },
-    "away": {
-      "balls": 456,
-      "overs": "76.0",
-      "runs": 233,
-      "wickets": 5,
-      "maidens": 11,
-      "average": 46.6,
-      "economy": 3.07,
-      "strike_rate": 91.2
     }
   },
   {
@@ -65111,6 +65364,47 @@
       "average": 93.0,
       "economy": 3.65,
       "strike_rate": 153.0
+    }
+  },
+  {
+    "player": "BMJ Allison",
+    "season": "2026",
+    "team": "Worcestershire",
+    "balls": 455,
+    "overs": "75.5",
+    "runs": 227,
+    "wickets": 8,
+    "maidens": 11,
+    "average": 28.38,
+    "economy": 2.99,
+    "strike_rate": 56.88,
+    "best": "4/77",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 4,
+      "bowled": 2,
+      "lbw": 2
+    },
+    "home": {
+      "balls": 455,
+      "overs": "75.5",
+      "runs": 227,
+      "wickets": 8,
+      "maidens": 11,
+      "average": 28.38,
+      "economy": 2.99,
+      "strike_rate": 56.88
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
     }
   },
   {
@@ -65487,14 +65781,14 @@
     "player": "Ekansh Singh",
     "season": "2026",
     "team": "Kent",
-    "balls": 307,
-    "overs": "51.1",
-    "runs": 209,
+    "balls": 331,
+    "overs": "55.1",
+    "runs": 231,
     "wickets": 8,
     "maidens": 5,
-    "average": 26.12,
-    "economy": 4.08,
-    "strike_rate": 38.38,
+    "average": 28.88,
+    "economy": 4.19,
+    "strike_rate": 41.38,
     "best": "3/46",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -65503,14 +65797,14 @@
       "caught": 7
     },
     "home": {
-      "balls": 133,
-      "overs": "22.1",
-      "runs": 93,
+      "balls": 157,
+      "overs": "26.1",
+      "runs": 115,
       "wickets": 5,
       "maidens": 3,
-      "average": 18.6,
-      "economy": 4.2,
-      "strike_rate": 26.6
+      "average": 23.0,
+      "economy": 4.39,
+      "strike_rate": 31.4
     },
     "away": {
       "balls": 162,
@@ -65603,6 +65897,47 @@
       "average": 77.67,
       "economy": 5.18,
       "strike_rate": 90.0
+    }
+  },
+  {
+    "player": "KDC Clarke",
+    "season": "2026",
+    "team": "Gloucestershire",
+    "balls": 409,
+    "overs": "68.1",
+    "runs": 302,
+    "wickets": 8,
+    "maidens": 12,
+    "average": 37.75,
+    "economy": 4.43,
+    "strike_rate": 51.12,
+    "best": "6/109",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 1,
+      "caught": 5,
+      "lbw": 2
+    },
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 409,
+      "overs": "68.1",
+      "runs": 302,
+      "wickets": 8,
+      "maidens": 12,
+      "average": 37.75,
+      "economy": 4.43,
+      "strike_rate": 51.12
     }
   },
   {
@@ -65972,6 +66307,46 @@
       "average": 21.5,
       "economy": 3.79,
       "strike_rate": 34.0
+    }
+  },
+  {
+    "player": "JD Unadkat",
+    "season": "2026",
+    "team": "Sussex",
+    "balls": 434,
+    "overs": "72.2",
+    "runs": 153,
+    "wickets": 8,
+    "maidens": 25,
+    "average": 19.12,
+    "economy": 2.12,
+    "strike_rate": 54.25,
+    "best": "4/29",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 7,
+      "caught and bowled": 1
+    },
+    "home": {
+      "balls": 434,
+      "overs": "72.2",
+      "runs": 153,
+      "wickets": 8,
+      "maidens": 25,
+      "average": 19.12,
+      "economy": 2.12,
+      "strike_rate": 54.25
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
     }
   },
   {
@@ -68672,6 +69047,47 @@
     }
   },
   {
+    "player": "AAP Atkinson",
+    "season": "2026",
+    "team": "Surrey",
+    "balls": 511,
+    "overs": "85.1",
+    "runs": 229,
+    "wickets": 7,
+    "maidens": 19,
+    "average": 32.71,
+    "economy": 2.69,
+    "strike_rate": 73.0,
+    "best": "4/61",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "caught": 2,
+      "bowled": 4,
+      "lbw": 1
+    },
+    "home": {
+      "balls": 204,
+      "overs": "34.0",
+      "runs": 88,
+      "wickets": 2,
+      "maidens": 5,
+      "average": 44.0,
+      "economy": 2.59,
+      "strike_rate": 102.0
+    },
+    "away": {
+      "balls": 307,
+      "overs": "51.1",
+      "runs": 141,
+      "wickets": 5,
+      "maidens": 14,
+      "average": 28.2,
+      "economy": 2.76,
+      "strike_rate": 61.4
+    }
+  },
+  {
     "player": "Jaskaran Singh",
     "season": "2025",
     "team": "Kent",
@@ -69000,46 +69416,6 @@
     }
   },
   {
-    "player": "BJ Webster",
-    "season": "2026",
-    "team": "Warwickshire",
-    "balls": 677,
-    "overs": "112.5",
-    "runs": 393,
-    "wickets": 7,
-    "maidens": 21,
-    "average": 56.14,
-    "economy": 3.48,
-    "strike_rate": 96.71,
-    "best": "2/4",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 6,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 308,
-      "overs": "51.2",
-      "runs": 167,
-      "wickets": 2,
-      "maidens": 11,
-      "average": 83.5,
-      "economy": 3.25,
-      "strike_rate": 154.0
-    },
-    "away": {
-      "balls": 369,
-      "overs": "61.3",
-      "runs": 226,
-      "wickets": 5,
-      "maidens": 10,
-      "average": 45.2,
-      "economy": 3.67,
-      "strike_rate": 73.8
-    }
-  },
-  {
     "player": "BMJ Allison",
     "season": "2024",
     "team": "Worcestershire",
@@ -69083,14 +69459,14 @@
     "player": "EA Brookes",
     "season": "2026",
     "team": "Worcestershire",
-    "balls": 538,
-    "overs": "89.4",
-    "runs": 296,
+    "balls": 604,
+    "overs": "100.4",
+    "runs": 316,
     "wickets": 7,
-    "maidens": 17,
-    "average": 42.29,
-    "economy": 3.3,
-    "strike_rate": 76.86,
+    "maidens": 21,
+    "average": 45.14,
+    "economy": 3.14,
+    "strike_rate": 86.29,
     "best": "2/10",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -69100,14 +69476,14 @@
       "bowled": 1
     },
     "home": {
-      "balls": 309,
-      "overs": "51.3",
-      "runs": 149,
+      "balls": 375,
+      "overs": "62.3",
+      "runs": 169,
       "wickets": 5,
-      "maidens": 13,
-      "average": 29.8,
-      "economy": 2.89,
-      "strike_rate": 61.8
+      "maidens": 17,
+      "average": 33.8,
+      "economy": 2.7,
+      "strike_rate": 75.0
     },
     "away": {
       "balls": 229,
@@ -69288,14 +69664,14 @@
     "player": "TE Lawes",
     "season": "2026",
     "team": "Surrey",
-    "balls": 479,
-    "overs": "79.5",
-    "runs": 385,
+    "balls": 497,
+    "overs": "82.5",
+    "runs": 402,
     "wickets": 7,
     "maidens": 9,
-    "average": 55.0,
-    "economy": 4.82,
-    "strike_rate": 68.43,
+    "average": 57.43,
+    "economy": 4.85,
+    "strike_rate": 71.0,
     "best": "4/141",
     "five_wkt": 0,
     "four_wkt": 1,
@@ -69315,14 +69691,14 @@
       "strike_rate": 60.0
     },
     "away": {
-      "balls": 119,
-      "overs": "19.5",
-      "runs": 110,
+      "balls": 137,
+      "overs": "22.5",
+      "runs": 127,
       "wickets": 1,
       "maidens": 2,
-      "average": 110.0,
-      "economy": 5.55,
-      "strike_rate": 119.0
+      "average": 127.0,
+      "economy": 5.56,
+      "strike_rate": 137.0
     }
   },
   {
@@ -69406,6 +69782,47 @@
       "average": 162.0,
       "economy": 4.15,
       "strike_rate": 234.0
+    }
+  },
+  {
+    "player": "Hasan Ali",
+    "season": "2026",
+    "team": "Yorkshire",
+    "balls": 377,
+    "overs": "62.5",
+    "runs": 191,
+    "wickets": 7,
+    "maidens": 9,
+    "average": 27.29,
+    "economy": 3.04,
+    "strike_rate": 53.86,
+    "best": "3/50",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 3,
+      "lbw": 2,
+      "caught": 2
+    },
+    "home": {
+      "balls": 245,
+      "overs": "40.5",
+      "runs": 111,
+      "wickets": 5,
+      "maidens": 8,
+      "average": 22.2,
+      "economy": 2.72,
+      "strike_rate": 49.0
+    },
+    "away": {
+      "balls": 132,
+      "overs": "22.0",
+      "runs": 80,
+      "wickets": 2,
+      "maidens": 1,
+      "average": 40.0,
+      "economy": 3.64,
+      "strike_rate": 66.0
     }
   },
   {
@@ -70224,6 +70641,47 @@
       "average": 64.67,
       "economy": 2.85,
       "strike_rate": 136.0
+    }
+  },
+  {
+    "player": "D Potgieter",
+    "season": "2026",
+    "team": "Hampshire",
+    "balls": 384,
+    "overs": "64.0",
+    "runs": 239,
+    "wickets": 7,
+    "maidens": 10,
+    "average": 34.14,
+    "economy": 3.73,
+    "strike_rate": 54.86,
+    "best": "3/88",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 1,
+      "caught": 3,
+      "lbw": 3
+    },
+    "home": {
+      "balls": 120,
+      "overs": "20.0",
+      "runs": 55,
+      "wickets": 1,
+      "maidens": 3,
+      "average": 55.0,
+      "economy": 2.75,
+      "strike_rate": 120.0
+    },
+    "away": {
+      "balls": 264,
+      "overs": "44.0",
+      "runs": 184,
+      "wickets": 6,
+      "maidens": 7,
+      "average": 30.67,
+      "economy": 4.18,
+      "strike_rate": 44.0
     }
   },
   {
@@ -71769,6 +72227,45 @@
     }
   },
   {
+    "player": "FS Organ",
+    "season": "2026",
+    "team": "Hampshire",
+    "balls": 456,
+    "overs": "76.0",
+    "runs": 331,
+    "wickets": 6,
+    "maidens": 4,
+    "average": 55.17,
+    "economy": 4.36,
+    "strike_rate": 76.0,
+    "best": "3/31",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 6
+    },
+    "home": {
+      "balls": 222,
+      "overs": "37.0",
+      "runs": 154,
+      "wickets": 1,
+      "maidens": 1,
+      "average": 154.0,
+      "economy": 4.16,
+      "strike_rate": 222.0
+    },
+    "away": {
+      "balls": 234,
+      "overs": "39.0",
+      "runs": 177,
+      "wickets": 5,
+      "maidens": 3,
+      "average": 35.4,
+      "economy": 4.54,
+      "strike_rate": 46.8
+    }
+  },
+  {
     "player": "JA Leaning",
     "season": "2021",
     "team": "Kent",
@@ -72299,47 +72796,6 @@
     }
   },
   {
-    "player": "BMJ Allison",
-    "season": "2026",
-    "team": "Worcestershire",
-    "balls": 221,
-    "overs": "36.5",
-    "runs": 135,
-    "wickets": 6,
-    "maidens": 5,
-    "average": 22.5,
-    "economy": 3.67,
-    "strike_rate": 36.83,
-    "best": "4/77",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "bowled": 2,
-      "lbw": 2,
-      "caught": 2
-    },
-    "home": {
-      "balls": 221,
-      "overs": "36.5",
-      "runs": 135,
-      "wickets": 6,
-      "maidens": 5,
-      "average": 22.5,
-      "economy": 3.67,
-      "strike_rate": 36.83
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    }
-  },
-  {
     "player": "L Trevaskis",
     "season": "2019",
     "team": "Durham",
@@ -72501,6 +72957,47 @@
       "average": 89.5,
       "economy": 2.8,
       "strike_rate": 192.0
+    }
+  },
+  {
+    "player": "BA Stokes",
+    "season": "2026",
+    "team": "Durham",
+    "balls": 437,
+    "overs": "72.5",
+    "runs": 263,
+    "wickets": 6,
+    "maidens": 14,
+    "average": 43.83,
+    "economy": 3.61,
+    "strike_rate": 72.83,
+    "best": "2/33",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 4,
+      "bowled": 1,
+      "lbw": 1
+    },
+    "home": {
+      "balls": 150,
+      "overs": "25.0",
+      "runs": 80,
+      "wickets": 1,
+      "maidens": 4,
+      "average": 80.0,
+      "economy": 3.2,
+      "strike_rate": 150.0
+    },
+    "away": {
+      "balls": 287,
+      "overs": "47.5",
+      "runs": 183,
+      "wickets": 5,
+      "maidens": 10,
+      "average": 36.6,
+      "economy": 3.83,
+      "strike_rate": 57.4
     }
   },
   {
@@ -72825,47 +73322,6 @@
     }
   },
   {
-    "player": "KDC Clarke",
-    "season": "2026",
-    "team": "Gloucestershire",
-    "balls": 216,
-    "overs": "36.0",
-    "runs": 189,
-    "wickets": 6,
-    "maidens": 5,
-    "average": 31.5,
-    "economy": 5.25,
-    "strike_rate": 36.0,
-    "best": "6/109",
-    "five_wkt": 1,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 1,
-      "caught": 3,
-      "lbw": 2
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 216,
-      "overs": "36.0",
-      "runs": 189,
-      "wickets": 6,
-      "maidens": 5,
-      "average": 31.5,
-      "economy": 5.25,
-      "strike_rate": 36.0
-    }
-  },
-  {
     "player": "CR Woakes",
     "season": "2025",
     "team": "Warwickshire",
@@ -73030,14 +73486,14 @@
     "player": "LS Livingstone",
     "season": "2026",
     "team": "Lancashire",
-    "balls": 228,
-    "overs": "38.0",
-    "runs": 140,
+    "balls": 270,
+    "overs": "45.0",
+    "runs": 155,
     "wickets": 6,
     "maidens": 5,
-    "average": 23.33,
-    "economy": 3.68,
-    "strike_rate": 38.0,
+    "average": 25.83,
+    "economy": 3.44,
+    "strike_rate": 45.0,
     "best": "5/55",
     "five_wkt": 1,
     "four_wkt": 0,
@@ -73057,13 +73513,13 @@
       "strike_rate": null
     },
     "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
+      "balls": 42,
+      "overs": "7.0",
+      "runs": 15,
       "wickets": 0,
       "maidens": 0,
       "average": null,
-      "economy": null,
+      "economy": 2.14,
       "strike_rate": null
     }
   },
@@ -74161,6 +74617,47 @@
     }
   },
   {
+    "player": "BI Kellaway",
+    "season": "2026",
+    "team": "Glamorgan",
+    "balls": 546,
+    "overs": "91.0",
+    "runs": 264,
+    "wickets": 6,
+    "maidens": 8,
+    "average": 44.0,
+    "economy": 2.9,
+    "strike_rate": 91.0,
+    "best": "2/69",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 4,
+      "lbw": 1,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 372,
+      "overs": "62.0",
+      "runs": 174,
+      "wickets": 3,
+      "maidens": 5,
+      "average": 58.0,
+      "economy": 2.81,
+      "strike_rate": 124.0
+    },
+    "away": {
+      "balls": 174,
+      "overs": "29.0",
+      "runs": 90,
+      "wickets": 3,
+      "maidens": 3,
+      "average": 30.0,
+      "economy": 3.1,
+      "strike_rate": 58.0
+    }
+  },
+  {
     "player": "RH Patel",
     "season": "2015",
     "team": "Essex, Middlesex",
@@ -74689,6 +75186,48 @@
     }
   },
   {
+    "player": "F Singh",
+    "season": "2026",
+    "team": "Worcestershire",
+    "balls": 240,
+    "overs": "40.0",
+    "runs": 128,
+    "wickets": 6,
+    "maidens": 7,
+    "average": 21.33,
+    "economy": 3.2,
+    "strike_rate": 40.0,
+    "best": "5/74",
+    "five_wkt": 1,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 2,
+      "lbw": 1,
+      "caught and bowled": 2,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 240,
+      "overs": "40.0",
+      "runs": 128,
+      "wickets": 6,
+      "maidens": 7,
+      "average": 21.33,
+      "economy": 3.2,
+      "strike_rate": 40.0
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    }
+  },
+  {
     "player": "C de Grandhomme",
     "season": "2021",
     "team": "Hampshire",
@@ -75133,46 +75672,6 @@
     }
   },
   {
-    "player": "TJ Price",
-    "season": "2026",
-    "team": "Sussex",
-    "balls": 400,
-    "overs": "66.4",
-    "runs": 239,
-    "wickets": 5,
-    "maidens": 4,
-    "average": 47.8,
-    "economy": 3.58,
-    "strike_rate": 80.0,
-    "best": "3/71",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 3,
-      "bowled": 2
-    },
-    "home": {
-      "balls": 280,
-      "overs": "46.4",
-      "runs": 159,
-      "wickets": 5,
-      "maidens": 3,
-      "average": 31.8,
-      "economy": 3.41,
-      "strike_rate": 56.0
-    },
-    "away": {
-      "balls": 120,
-      "overs": "20.0",
-      "runs": 80,
-      "wickets": 0,
-      "maidens": 1,
-      "average": null,
-      "economy": 4.0,
-      "strike_rate": null
-    }
-  },
-  {
     "player": "JJ Carson",
     "season": "2022",
     "team": "Sussex",
@@ -75580,46 +76079,6 @@
     }
   },
   {
-    "player": "Anuj Dal",
-    "season": "2026",
-    "team": "Derbyshire",
-    "balls": 286,
-    "overs": "47.4",
-    "runs": 130,
-    "wickets": 5,
-    "maidens": 12,
-    "average": 26.0,
-    "economy": 2.73,
-    "strike_rate": 57.2,
-    "best": "3/22",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2,
-      "bowled": 3
-    },
-    "home": {
-      "balls": 178,
-      "overs": "29.4",
-      "runs": 71,
-      "wickets": 3,
-      "maidens": 8,
-      "average": 23.67,
-      "economy": 2.39,
-      "strike_rate": 59.33
-    },
-    "away": {
-      "balls": 108,
-      "overs": "18.0",
-      "runs": 59,
-      "wickets": 2,
-      "maidens": 4,
-      "average": 29.5,
-      "economy": 3.28,
-      "strike_rate": 54.0
-    }
-  },
-  {
     "player": "WS Davis",
     "season": "2023",
     "team": "Leicestershire",
@@ -75778,6 +76237,47 @@
       "average": 68.5,
       "economy": 4.35,
       "strike_rate": 94.5
+    }
+  },
+  {
+    "player": "MW Parkinson",
+    "season": "2026",
+    "team": "Kent",
+    "balls": 701,
+    "overs": "116.5",
+    "runs": 429,
+    "wickets": 5,
+    "maidens": 11,
+    "average": 85.8,
+    "economy": 3.67,
+    "strike_rate": 140.2,
+    "best": "2/97",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 2,
+      "caught": 2,
+      "lbw": 1
+    },
+    "home": {
+      "balls": 383,
+      "overs": "63.5",
+      "runs": 255,
+      "wickets": 3,
+      "maidens": 8,
+      "average": 85.0,
+      "economy": 3.99,
+      "strike_rate": 127.67
+    },
+    "away": {
+      "balls": 168,
+      "overs": "28.0",
+      "runs": 92,
+      "wickets": 1,
+      "maidens": 3,
+      "average": 92.0,
+      "economy": 3.29,
+      "strike_rate": 168.0
     }
   },
   {
@@ -76262,6 +76762,47 @@
     }
   },
   {
+    "player": "G Stewart",
+    "season": "2026",
+    "team": "Kent",
+    "balls": 250,
+    "overs": "41.4",
+    "runs": 144,
+    "wickets": 5,
+    "maidens": 7,
+    "average": 28.8,
+    "economy": 3.46,
+    "strike_rate": 50.0,
+    "best": "3/38",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 2,
+      "caught": 2,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 144,
+      "overs": "24.0",
+      "runs": 69,
+      "wickets": 1,
+      "maidens": 4,
+      "average": 69.0,
+      "economy": 2.88,
+      "strike_rate": 144.0
+    },
+    "away": {
+      "balls": 106,
+      "overs": "17.4",
+      "runs": 75,
+      "wickets": 4,
+      "maidens": 3,
+      "average": 18.75,
+      "economy": 4.25,
+      "strike_rate": 26.5
+    }
+  },
+  {
     "player": "HW Podmore",
     "season": "2022",
     "team": "Kent",
@@ -76298,47 +76839,6 @@
       "average": 19.67,
       "economy": 2.46,
       "strike_rate": 48.0
-    }
-  },
-  {
-    "player": "JH Davey",
-    "season": "2026",
-    "team": "Leicestershire",
-    "balls": 396,
-    "overs": "66.0",
-    "runs": 226,
-    "wickets": 5,
-    "maidens": 9,
-    "average": 45.2,
-    "economy": 3.42,
-    "strike_rate": 79.2,
-    "best": "2/42",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 3,
-      "lbw": 1,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 210,
-      "overs": "35.0",
-      "runs": 135,
-      "wickets": 3,
-      "maidens": 5,
-      "average": 45.0,
-      "economy": 3.86,
-      "strike_rate": 70.0
-    },
-    "away": {
-      "balls": 186,
-      "overs": "31.0",
-      "runs": 91,
-      "wickets": 2,
-      "maidens": 4,
-      "average": 45.5,
-      "economy": 2.94,
-      "strike_rate": 93.0
     }
   },
   {
@@ -76700,6 +77200,47 @@
       "average": null,
       "economy": null,
       "strike_rate": null
+    }
+  },
+  {
+    "player": "J Shaw",
+    "season": "2026",
+    "team": "Somerset",
+    "balls": 252,
+    "overs": "42.0",
+    "runs": 155,
+    "wickets": 5,
+    "maidens": 10,
+    "average": 31.0,
+    "economy": 3.69,
+    "strike_rate": 50.4,
+    "best": "3/30",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 2,
+      "bowled": 2,
+      "lbw": 1
+    },
+    "home": {
+      "balls": 120,
+      "overs": "20.0",
+      "runs": 73,
+      "wickets": 1,
+      "maidens": 3,
+      "average": 73.0,
+      "economy": 3.65,
+      "strike_rate": 120.0
+    },
+    "away": {
+      "balls": 132,
+      "overs": "22.0",
+      "runs": 82,
+      "wickets": 4,
+      "maidens": 7,
+      "average": 20.5,
+      "economy": 3.73,
+      "strike_rate": 33.0
     }
   },
   {
@@ -77264,47 +77805,6 @@
     }
   },
   {
-    "player": "BA Stokes",
-    "season": "2026",
-    "team": "Durham",
-    "balls": 287,
-    "overs": "47.5",
-    "runs": 183,
-    "wickets": 5,
-    "maidens": 10,
-    "average": 36.6,
-    "economy": 3.83,
-    "strike_rate": 57.4,
-    "best": "2/33",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 3,
-      "bowled": 1,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 287,
-      "overs": "47.5",
-      "runs": 183,
-      "wickets": 5,
-      "maidens": 10,
-      "average": 36.6,
-      "economy": 3.83,
-      "strike_rate": 57.4
-    }
-  },
-  {
     "player": "MP Dunn",
     "season": "2019",
     "team": "Surrey",
@@ -77426,6 +77926,47 @@
     }
   },
   {
+    "player": "RM Yates",
+    "season": "2026",
+    "team": "Warwickshire",
+    "balls": 408,
+    "overs": "68.0",
+    "runs": 255,
+    "wickets": 5,
+    "maidens": 6,
+    "average": 51.0,
+    "economy": 3.75,
+    "strike_rate": 81.6,
+    "best": "2/93",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 1,
+      "caught": 3,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 144,
+      "overs": "24.0",
+      "runs": 114,
+      "wickets": 1,
+      "maidens": 1,
+      "average": 114.0,
+      "economy": 4.75,
+      "strike_rate": 144.0
+    },
+    "away": {
+      "balls": 264,
+      "overs": "44.0",
+      "runs": 141,
+      "wickets": 4,
+      "maidens": 5,
+      "average": 35.25,
+      "economy": 3.2,
+      "strike_rate": 66.0
+    }
+  },
+  {
     "player": "ZJ Chappell",
     "season": "2017",
     "team": "Leicestershire",
@@ -77504,47 +78045,6 @@
       "average": 23.2,
       "economy": 3.31,
       "strike_rate": 42.0
-    }
-  },
-  {
-    "player": "Hasan Ali",
-    "season": "2026",
-    "team": "Yorkshire",
-    "balls": 245,
-    "overs": "40.5",
-    "runs": 111,
-    "wickets": 5,
-    "maidens": 8,
-    "average": 22.2,
-    "economy": 2.72,
-    "strike_rate": 49.0,
-    "best": "3/50",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 2,
-      "lbw": 1,
-      "caught": 2
-    },
-    "home": {
-      "balls": 245,
-      "overs": "40.5",
-      "runs": 111,
-      "wickets": 5,
-      "maidens": 8,
-      "average": 22.2,
-      "economy": 2.72,
-      "strike_rate": 49.0
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
     }
   },
   {
@@ -78841,47 +79341,6 @@
     }
   },
   {
-    "player": "D Potgieter",
-    "season": "2026",
-    "team": "Hampshire",
-    "balls": 234,
-    "overs": "39.0",
-    "runs": 180,
-    "wickets": 5,
-    "maidens": 4,
-    "average": 36.0,
-    "economy": 4.62,
-    "strike_rate": 46.8,
-    "best": "3/88",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 1,
-      "caught": 3,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 120,
-      "overs": "20.0",
-      "runs": 55,
-      "wickets": 1,
-      "maidens": 3,
-      "average": 55.0,
-      "economy": 2.75,
-      "strike_rate": 120.0
-    },
-    "away": {
-      "balls": 114,
-      "overs": "19.0",
-      "runs": 125,
-      "wickets": 4,
-      "maidens": 1,
-      "average": 31.25,
-      "economy": 6.58,
-      "strike_rate": 28.5
-    }
-  },
-  {
     "player": "Callum Taylor",
     "season": "2021",
     "team": "Glamorgan",
@@ -79002,6 +79461,46 @@
     }
   },
   {
+    "player": "CE Bennett",
+    "season": "2025",
+    "team": "Essex",
+    "balls": 158,
+    "overs": "26.2",
+    "runs": 109,
+    "wickets": 5,
+    "maidens": 3,
+    "average": 21.8,
+    "economy": 4.14,
+    "strike_rate": 31.6,
+    "best": "3/73",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 2,
+      "caught": 3
+    },
+    "home": {
+      "balls": 158,
+      "overs": "26.2",
+      "runs": 109,
+      "wickets": 5,
+      "maidens": 3,
+      "average": 21.8,
+      "economy": 4.14,
+      "strike_rate": 31.6
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    }
+  },
+  {
     "player": "SA Piolet",
     "season": "2014",
     "team": "Sussex",
@@ -79038,6 +79537,46 @@
       "average": 58.25,
       "economy": 3.94,
       "strike_rate": 88.75
+    }
+  },
+  {
+    "player": "AM Green",
+    "season": "2026",
+    "team": "Leicestershire",
+    "balls": 247,
+    "overs": "41.1",
+    "runs": 209,
+    "wickets": 5,
+    "maidens": 7,
+    "average": 41.8,
+    "economy": 5.08,
+    "strike_rate": 49.4,
+    "best": "3/61",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 3,
+      "bowled": 2
+    },
+    "home": {
+      "balls": 247,
+      "overs": "41.1",
+      "runs": 209,
+      "wickets": 5,
+      "maidens": 7,
+      "average": 41.8,
+      "economy": 5.08,
+      "strike_rate": 49.4
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
     }
   },
   {
@@ -79403,46 +79942,6 @@
       "average": 21.4,
       "economy": 3.82,
       "strike_rate": 33.6
-    }
-  },
-  {
-    "player": "CE Bennett",
-    "season": "2025",
-    "team": "Essex",
-    "balls": 158,
-    "overs": "26.2",
-    "runs": 109,
-    "wickets": 5,
-    "maidens": 3,
-    "average": 21.8,
-    "economy": 4.14,
-    "strike_rate": 31.6,
-    "best": "3/73",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 2,
-      "caught": 3
-    },
-    "home": {
-      "balls": 158,
-      "overs": "26.2",
-      "runs": 109,
-      "wickets": 5,
-      "maidens": 3,
-      "average": 21.8,
-      "economy": 4.14,
-      "strike_rate": 31.6
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
     }
   },
   {
@@ -81019,47 +81518,6 @@
     }
   },
   {
-    "player": "G Stewart",
-    "season": "2026",
-    "team": "Kent",
-    "balls": 106,
-    "overs": "17.4",
-    "runs": 75,
-    "wickets": 4,
-    "maidens": 3,
-    "average": 18.75,
-    "economy": 4.25,
-    "strike_rate": 26.5,
-    "best": "3/38",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2,
-      "lbw": 1,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 106,
-      "overs": "17.4",
-      "runs": 75,
-      "wickets": 4,
-      "maidens": 3,
-      "average": 18.75,
-      "economy": 4.25,
-      "strike_rate": 26.5
-    }
-  },
-  {
     "player": "WRS Gidman",
     "season": "2015",
     "team": "Nottinghamshire",
@@ -81825,47 +82283,6 @@
   },
   {
     "player": "J Shaw",
-    "season": "2026",
-    "team": "Somerset",
-    "balls": 132,
-    "overs": "22.0",
-    "runs": 82,
-    "wickets": 4,
-    "maidens": 7,
-    "average": 20.5,
-    "economy": 3.73,
-    "strike_rate": 33.0,
-    "best": "3/30",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 2,
-      "caught": 1,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 132,
-      "overs": "22.0",
-      "runs": 82,
-      "wickets": 4,
-      "maidens": 7,
-      "average": 20.5,
-      "economy": 3.73,
-      "strike_rate": 33.0
-    }
-  },
-  {
-    "player": "J Shaw",
     "season": "2018",
     "team": "Yorkshire",
     "balls": 378,
@@ -82030,14 +82447,14 @@
     "player": "KS Carlson",
     "season": "2026",
     "team": "Glamorgan",
-    "balls": 235,
-    "overs": "39.1",
-    "runs": 122,
+    "balls": 301,
+    "overs": "50.1",
+    "runs": 149,
     "wickets": 4,
-    "maidens": 3,
-    "average": 30.5,
-    "economy": 3.11,
-    "strike_rate": 58.75,
+    "maidens": 5,
+    "average": 37.25,
+    "economy": 2.97,
+    "strike_rate": 75.25,
     "best": "2/100",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -82045,14 +82462,14 @@
       "caught": 4
     },
     "home": {
-      "balls": 198,
-      "overs": "33.0",
-      "runs": 100,
+      "balls": 264,
+      "overs": "44.0",
+      "runs": 127,
       "wickets": 2,
-      "maidens": 2,
-      "average": 50.0,
-      "economy": 3.03,
-      "strike_rate": 99.0
+      "maidens": 4,
+      "average": 63.5,
+      "economy": 2.89,
+      "strike_rate": 132.0
     },
     "away": {
       "balls": 37,
@@ -82550,46 +82967,6 @@
     }
   },
   {
-    "player": "RM Yates",
-    "season": "2026",
-    "team": "Warwickshire",
-    "balls": 324,
-    "overs": "54.0",
-    "runs": 224,
-    "wickets": 4,
-    "maidens": 5,
-    "average": 56.0,
-    "economy": 4.15,
-    "strike_rate": 81.0,
-    "best": "2/93",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 3,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 144,
-      "overs": "24.0",
-      "runs": 114,
-      "wickets": 1,
-      "maidens": 1,
-      "average": 114.0,
-      "economy": 4.75,
-      "strike_rate": 144.0
-    },
-    "away": {
-      "balls": 180,
-      "overs": "30.0",
-      "runs": 110,
-      "wickets": 3,
-      "maidens": 4,
-      "average": 36.67,
-      "economy": 3.67,
-      "strike_rate": 60.0
-    }
-  },
-  {
     "player": "BG Charlesworth",
     "season": "2018",
     "team": "Gloucestershire",
@@ -82789,6 +83166,47 @@
       "average": 56.25,
       "economy": 4.41,
       "strike_rate": 76.5
+    }
+  },
+  {
+    "player": "D Moriarty",
+    "season": "2026",
+    "team": "Yorkshire",
+    "balls": 124,
+    "overs": "20.4",
+    "runs": 85,
+    "wickets": 4,
+    "maidens": 2,
+    "average": 21.25,
+    "economy": 4.11,
+    "strike_rate": 31.0,
+    "best": "4/85",
+    "five_wkt": 0,
+    "four_wkt": 1,
+    "dismissal_types": {
+      "stumped": 1,
+      "bowled": 2,
+      "caught": 1
+    },
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 124,
+      "overs": "20.4",
+      "runs": 85,
+      "wickets": 4,
+      "maidens": 2,
+      "average": 21.25,
+      "economy": 4.11,
+      "strike_rate": 31.0
     }
   },
   {
@@ -83636,46 +84054,6 @@
     }
   },
   {
-    "player": "JD Unadkat",
-    "season": "2026",
-    "team": "Sussex",
-    "balls": 206,
-    "overs": "34.2",
-    "runs": 81,
-    "wickets": 4,
-    "maidens": 11,
-    "average": 20.25,
-    "economy": 2.36,
-    "strike_rate": 51.5,
-    "best": "4/29",
-    "five_wkt": 0,
-    "four_wkt": 1,
-    "dismissal_types": {
-      "caught": 3,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 206,
-      "overs": "34.2",
-      "runs": 81,
-      "wickets": 4,
-      "maidens": 11,
-      "average": 20.25,
-      "economy": 2.36,
-      "strike_rate": 51.5
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    }
-  },
-  {
     "player": "DJ Willey",
     "season": "2017",
     "team": "Yorkshire",
@@ -84159,47 +84537,6 @@
     }
   },
   {
-    "player": "EV Jack",
-    "season": "2026",
-    "team": "Hampshire",
-    "balls": 316,
-    "overs": "52.4",
-    "runs": 220,
-    "wickets": 4,
-    "maidens": 6,
-    "average": 55.0,
-    "economy": 4.18,
-    "strike_rate": 79.0,
-    "best": "1/23",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 1,
-      "caught": 2,
-      "caught and bowled": 1
-    },
-    "home": {
-      "balls": 184,
-      "overs": "30.4",
-      "runs": 154,
-      "wickets": 3,
-      "maidens": 2,
-      "average": 51.33,
-      "economy": 5.02,
-      "strike_rate": 61.33
-    },
-    "away": {
-      "balls": 132,
-      "overs": "22.0",
-      "runs": 66,
-      "wickets": 1,
-      "maidens": 4,
-      "average": 66.0,
-      "economy": 3.0,
-      "strike_rate": 132.0
-    }
-  },
-  {
     "player": "BM Cliff",
     "season": "2026",
     "team": "Yorkshire",
@@ -84279,47 +84616,6 @@
     }
   },
   {
-    "player": "BI Kellaway",
-    "season": "2026",
-    "team": "Glamorgan",
-    "balls": 366,
-    "overs": "61.0",
-    "runs": 181,
-    "wickets": 4,
-    "maidens": 6,
-    "average": 45.25,
-    "economy": 2.97,
-    "strike_rate": 91.5,
-    "best": "2/69",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2,
-      "lbw": 1,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 192,
-      "overs": "32.0",
-      "runs": 91,
-      "wickets": 1,
-      "maidens": 3,
-      "average": 91.0,
-      "economy": 2.84,
-      "strike_rate": 192.0
-    },
-    "away": {
-      "balls": 174,
-      "overs": "29.0",
-      "runs": 90,
-      "wickets": 3,
-      "maidens": 3,
-      "average": 30.0,
-      "economy": 3.1,
-      "strike_rate": 58.0
-    }
-  },
-  {
     "player": "MA Cohen",
     "season": "2026",
     "team": "Kent",
@@ -84385,6 +84681,45 @@
       "maidens": 7,
       "average": 11.0,
       "economy": 2.44,
+      "strike_rate": 27.0
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    }
+  },
+  {
+    "player": "DC Goodman",
+    "season": "2026",
+    "team": "Sussex",
+    "balls": 108,
+    "overs": "18.0",
+    "runs": 89,
+    "wickets": 4,
+    "maidens": 4,
+    "average": 22.25,
+    "economy": 4.94,
+    "strike_rate": 27.0,
+    "best": "2/34",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 4
+    },
+    "home": {
+      "balls": 108,
+      "overs": "18.0",
+      "runs": 89,
+      "wickets": 4,
+      "maidens": 4,
+      "average": 22.25,
+      "economy": 4.94,
       "strike_rate": 27.0
     },
     "away": {
@@ -84516,47 +84851,6 @@
       "average": 68.25,
       "economy": 4.07,
       "strike_rate": 100.5
-    }
-  },
-  {
-    "player": "MJ Suthar",
-    "season": "2026",
-    "team": "Warwickshire",
-    "balls": 258,
-    "overs": "43.0",
-    "runs": 159,
-    "wickets": 4,
-    "maidens": 3,
-    "average": 39.75,
-    "economy": 3.7,
-    "strike_rate": 64.5,
-    "best": "3/85",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "stumped": 1,
-      "lbw": 1,
-      "caught": 2
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 258,
-      "overs": "43.0",
-      "runs": 159,
-      "wickets": 4,
-      "maidens": 3,
-      "average": 39.75,
-      "economy": 3.7,
-      "strike_rate": 64.5
     }
   },
   {
@@ -84802,6 +85096,127 @@
     }
   },
   {
+    "player": "CE Bennett",
+    "season": "2026",
+    "team": "Essex",
+    "balls": 324,
+    "overs": "54.0",
+    "runs": 192,
+    "wickets": 4,
+    "maidens": 9,
+    "average": 48.0,
+    "economy": 3.56,
+    "strike_rate": 81.0,
+    "best": "3/48",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 2,
+      "caught": 2
+    },
+    "home": {
+      "balls": 96,
+      "overs": "16.0",
+      "runs": 54,
+      "wickets": 0,
+      "maidens": 4,
+      "average": null,
+      "economy": 3.38,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 228,
+      "overs": "38.0",
+      "runs": 138,
+      "wickets": 4,
+      "maidens": 5,
+      "average": 34.5,
+      "economy": 3.63,
+      "strike_rate": 57.0
+    }
+  },
+  {
+    "player": "F Singh",
+    "season": "2025",
+    "team": "Worcestershire",
+    "balls": 262,
+    "overs": "43.4",
+    "runs": 165,
+    "wickets": 4,
+    "maidens": 6,
+    "average": 41.25,
+    "economy": 3.78,
+    "strike_rate": 65.5,
+    "best": "3/58",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 2,
+      "lbw": 1,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 90,
+      "overs": "15.0",
+      "runs": 85,
+      "wickets": 1,
+      "maidens": 0,
+      "average": 85.0,
+      "economy": 5.67,
+      "strike_rate": 90.0
+    },
+    "away": {
+      "balls": 172,
+      "overs": "28.4",
+      "runs": 80,
+      "wickets": 3,
+      "maidens": 6,
+      "average": 26.67,
+      "economy": 2.79,
+      "strike_rate": 57.33
+    }
+  },
+  {
+    "player": "LA Charlesworth",
+    "season": "2023",
+    "team": "Gloucestershire",
+    "balls": 185,
+    "overs": "30.5",
+    "runs": 134,
+    "wickets": 4,
+    "maidens": 6,
+    "average": 33.5,
+    "economy": 4.35,
+    "strike_rate": 46.25,
+    "best": "3/54",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 2,
+      "caught": 2
+    },
+    "home": {
+      "balls": 66,
+      "overs": "11.0",
+      "runs": 50,
+      "wickets": 1,
+      "maidens": 2,
+      "average": 50.0,
+      "economy": 4.55,
+      "strike_rate": 66.0
+    },
+    "away": {
+      "balls": 119,
+      "overs": "19.5",
+      "runs": 84,
+      "wickets": 3,
+      "maidens": 4,
+      "average": 28.0,
+      "economy": 4.24,
+      "strike_rate": 39.67
+    }
+  },
+  {
     "player": "IG Butler",
     "season": "2014",
     "team": "Northamptonshire",
@@ -84999,46 +85414,6 @@
       "average": null,
       "economy": null,
       "strike_rate": null
-    }
-  },
-  {
-    "player": "LA Charlesworth",
-    "season": "2023",
-    "team": "Gloucestershire",
-    "balls": 185,
-    "overs": "30.5",
-    "runs": 134,
-    "wickets": 4,
-    "maidens": 6,
-    "average": 33.5,
-    "economy": 4.35,
-    "strike_rate": 46.25,
-    "best": "3/54",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 2,
-      "caught": 2
-    },
-    "home": {
-      "balls": 66,
-      "overs": "11.0",
-      "runs": 50,
-      "wickets": 1,
-      "maidens": 2,
-      "average": 50.0,
-      "economy": 4.55,
-      "strike_rate": 66.0
-    },
-    "away": {
-      "balls": 119,
-      "overs": "19.5",
-      "runs": 84,
-      "wickets": 3,
-      "maidens": 4,
-      "average": 28.0,
-      "economy": 4.24,
-      "strike_rate": 39.67
     }
   },
   {
@@ -85480,47 +85855,6 @@
     }
   },
   {
-    "player": "F Singh",
-    "season": "2025",
-    "team": "Worcestershire",
-    "balls": 262,
-    "overs": "43.4",
-    "runs": 165,
-    "wickets": 4,
-    "maidens": 6,
-    "average": 41.25,
-    "economy": 3.78,
-    "strike_rate": 65.5,
-    "best": "3/58",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2,
-      "lbw": 1,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 90,
-      "overs": "15.0",
-      "runs": 85,
-      "wickets": 1,
-      "maidens": 0,
-      "average": 85.0,
-      "economy": 5.67,
-      "strike_rate": 90.0
-    },
-    "away": {
-      "balls": 172,
-      "overs": "28.4",
-      "runs": 80,
-      "wickets": 3,
-      "maidens": 6,
-      "average": 26.67,
-      "economy": 2.79,
-      "strike_rate": 57.33
-    }
-  },
-  {
     "player": "TJ Phillips",
     "season": "2014",
     "team": "Essex",
@@ -85558,46 +85892,6 @@
       "average": 39.0,
       "economy": 3.55,
       "strike_rate": 66.0
-    }
-  },
-  {
-    "player": "CE Bennett",
-    "season": "2026",
-    "team": "Essex",
-    "balls": 228,
-    "overs": "38.0",
-    "runs": 138,
-    "wickets": 4,
-    "maidens": 5,
-    "average": 34.5,
-    "economy": 3.63,
-    "strike_rate": 57.0,
-    "best": "3/48",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 2,
-      "caught": 2
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 228,
-      "overs": "38.0",
-      "runs": 138,
-      "wickets": 4,
-      "maidens": 5,
-      "average": 34.5,
-      "economy": 3.63,
-      "strike_rate": 57.0
     }
   },
   {
@@ -86602,46 +86896,6 @@
     }
   },
   {
-    "player": "MW Parkinson",
-    "season": "2026",
-    "team": "Kent",
-    "balls": 497,
-    "overs": "82.5",
-    "runs": 303,
-    "wickets": 3,
-    "maidens": 6,
-    "average": 101.0,
-    "economy": 3.66,
-    "strike_rate": 165.67,
-    "best": "1/82",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 2,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 179,
-      "overs": "29.5",
-      "runs": 129,
-      "wickets": 1,
-      "maidens": 3,
-      "average": 129.0,
-      "economy": 4.32,
-      "strike_rate": 179.0
-    },
-    "away": {
-      "balls": 168,
-      "overs": "28.0",
-      "runs": 92,
-      "wickets": 1,
-      "maidens": 3,
-      "average": 92.0,
-      "economy": 3.29,
-      "strike_rate": 168.0
-    }
-  },
-  {
     "player": "A Karvelas",
     "season": "2024",
     "team": "Sussex",
@@ -87403,45 +87657,6 @@
   },
   {
     "player": "FS Organ",
-    "season": "2026",
-    "team": "Hampshire",
-    "balls": 360,
-    "overs": "60.0",
-    "runs": 291,
-    "wickets": 3,
-    "maidens": 3,
-    "average": 97.0,
-    "economy": 4.85,
-    "strike_rate": 120.0,
-    "best": "1/68",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 3
-    },
-    "home": {
-      "balls": 222,
-      "overs": "37.0",
-      "runs": 154,
-      "wickets": 1,
-      "maidens": 1,
-      "average": 154.0,
-      "economy": 4.16,
-      "strike_rate": 222.0
-    },
-    "away": {
-      "balls": 138,
-      "overs": "23.0",
-      "runs": 137,
-      "wickets": 2,
-      "maidens": 2,
-      "average": 68.5,
-      "economy": 5.96,
-      "strike_rate": 69.0
-    }
-  },
-  {
-    "player": "FS Organ",
     "season": "2025",
     "team": "Hampshire",
     "balls": 782,
@@ -87877,47 +88092,6 @@
     }
   },
   {
-    "player": "AAP Atkinson",
-    "season": "2026",
-    "team": "Surrey",
-    "balls": 378,
-    "overs": "63.0",
-    "runs": 168,
-    "wickets": 3,
-    "maidens": 10,
-    "average": 56.0,
-    "economy": 2.67,
-    "strike_rate": 126.0,
-    "best": "1/12",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 1,
-      "bowled": 1,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 204,
-      "overs": "34.0",
-      "runs": 88,
-      "wickets": 2,
-      "maidens": 5,
-      "average": 44.0,
-      "economy": 2.59,
-      "strike_rate": 102.0
-    },
-    "away": {
-      "balls": 174,
-      "overs": "29.0",
-      "runs": 80,
-      "wickets": 1,
-      "maidens": 5,
-      "average": 80.0,
-      "economy": 2.76,
-      "strike_rate": 174.0
-    }
-  },
-  {
     "player": "SA Zaib",
     "season": "2021",
     "team": "Northamptonshire",
@@ -87961,14 +88135,14 @@
     "player": "SA Zaib",
     "season": "2026",
     "team": "Northamptonshire",
-    "balls": 427,
-    "overs": "71.1",
-    "runs": 163,
+    "balls": 439,
+    "overs": "73.1",
+    "runs": 175,
     "wickets": 3,
     "maidens": 14,
-    "average": 54.33,
-    "economy": 2.29,
-    "strike_rate": 142.33,
+    "average": 58.33,
+    "economy": 2.39,
+    "strike_rate": 146.33,
     "best": "2/16",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -87987,13 +88161,13 @@
       "strike_rate": 106.33
     },
     "away": {
-      "balls": 108,
-      "overs": "18.0",
-      "runs": 54,
+      "balls": 120,
+      "overs": "20.0",
+      "runs": 66,
       "wickets": 0,
       "maidens": 2,
       "average": null,
-      "economy": 3.0,
+      "economy": 3.3,
       "strike_rate": null
     }
   },
@@ -88481,14 +88655,14 @@
     "player": "BL D'Oliveira",
     "season": "2026",
     "team": "Worcestershire",
-    "balls": 392,
-    "overs": "65.2",
-    "runs": 278,
+    "balls": 404,
+    "overs": "67.2",
+    "runs": 287,
     "wickets": 3,
     "maidens": 4,
-    "average": 92.67,
+    "average": 95.67,
     "economy": 4.26,
-    "strike_rate": 130.67,
+    "strike_rate": 134.67,
     "best": "2/98",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -88498,13 +88672,13 @@
       "caught and bowled": 1
     },
     "home": {
-      "balls": 170,
-      "overs": "28.2",
-      "runs": 97,
+      "balls": 182,
+      "overs": "30.2",
+      "runs": 106,
       "wickets": 0,
       "maidens": 0,
       "average": null,
-      "economy": 3.42,
+      "economy": 3.49,
       "strike_rate": null
     },
     "away": {
@@ -89396,6 +89570,86 @@
       "average": 81.0,
       "economy": 2.79,
       "strike_rate": 174.0
+    }
+  },
+  {
+    "player": "DJ Ahmed",
+    "season": "2026",
+    "team": "Gloucestershire",
+    "balls": 210,
+    "overs": "35.0",
+    "runs": 114,
+    "wickets": 3,
+    "maidens": 7,
+    "average": 38.0,
+    "economy": 3.26,
+    "strike_rate": 70.0,
+    "best": "1/15",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 2,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 210,
+      "overs": "35.0",
+      "runs": 114,
+      "wickets": 3,
+      "maidens": 7,
+      "average": 38.0,
+      "economy": 3.26,
+      "strike_rate": 70.0
+    }
+  },
+  {
+    "player": "Miles Hammond",
+    "season": "2026",
+    "team": "Gloucestershire",
+    "balls": 168,
+    "overs": "28.0",
+    "runs": 99,
+    "wickets": 3,
+    "maidens": 3,
+    "average": 33.0,
+    "economy": 3.54,
+    "strike_rate": 56.0,
+    "best": "2/2",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 2,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 6,
+      "overs": "1.0",
+      "runs": 8,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": 8.0,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 162,
+      "overs": "27.0",
+      "runs": 91,
+      "wickets": 3,
+      "maidens": 3,
+      "average": 30.33,
+      "economy": 3.37,
+      "strike_rate": 54.0
     }
   },
   {
@@ -90472,6 +90726,46 @@
       "average": null,
       "economy": null,
       "strike_rate": null
+    }
+  },
+  {
+    "player": "NA McSweeney",
+    "season": "2026",
+    "team": "Northamptonshire",
+    "balls": 235,
+    "overs": "39.1",
+    "runs": 131,
+    "wickets": 3,
+    "maidens": 5,
+    "average": 43.67,
+    "economy": 3.34,
+    "strike_rate": 78.33,
+    "best": "2/48",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 2,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 60,
+      "overs": "10.0",
+      "runs": 31,
+      "wickets": 1,
+      "maidens": 2,
+      "average": 31.0,
+      "economy": 3.1,
+      "strike_rate": 60.0
+    },
+    "away": {
+      "balls": 175,
+      "overs": "29.1",
+      "runs": 100,
+      "wickets": 2,
+      "maidens": 3,
+      "average": 50.0,
+      "economy": 3.43,
+      "strike_rate": 87.5
     }
   },
   {
@@ -91835,6 +92129,46 @@
     }
   },
   {
+    "player": "F Singh",
+    "season": "2024",
+    "team": "Northamptonshire",
+    "balls": 240,
+    "overs": "40.0",
+    "runs": 193,
+    "wickets": 3,
+    "maidens": 0,
+    "average": 64.33,
+    "economy": 4.83,
+    "strike_rate": 80.0,
+    "best": "3/193",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 2,
+      "caught": 1
+    },
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 240,
+      "overs": "40.0",
+      "runs": 193,
+      "wickets": 3,
+      "maidens": 0,
+      "average": 64.33,
+      "economy": 4.83,
+      "strike_rate": 80.0
+    }
+  },
+  {
     "player": "GS Sandhu",
     "season": "2017",
     "team": "Derbyshire",
@@ -91991,6 +92325,47 @@
       "average": 21.67,
       "economy": 3.25,
       "strike_rate": 40.0
+    }
+  },
+  {
+    "player": "RD Chahar",
+    "season": "2026",
+    "team": "Surrey",
+    "balls": 187,
+    "overs": "31.1",
+    "runs": 115,
+    "wickets": 3,
+    "maidens": 2,
+    "average": 38.33,
+    "economy": 3.69,
+    "strike_rate": 62.33,
+    "best": "2/57",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "lbw": 1,
+      "caught": 1,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 187,
+      "overs": "31.1",
+      "runs": 115,
+      "wickets": 3,
+      "maidens": 2,
+      "average": 38.33,
+      "economy": 3.69,
+      "strike_rate": 62.33
     }
   },
   {
@@ -92314,6 +92689,46 @@
     }
   },
   {
+    "player": "SHB Morgan",
+    "season": "2025",
+    "team": "Middlesex",
+    "balls": 258,
+    "overs": "43.0",
+    "runs": 219,
+    "wickets": 3,
+    "maidens": 3,
+    "average": 73.0,
+    "economy": 5.09,
+    "strike_rate": 86.0,
+    "best": "2/82",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 2,
+      "bowled": 1
+    },
+    "home": {
+      "balls": 180,
+      "overs": "30.0",
+      "runs": 137,
+      "wickets": 1,
+      "maidens": 3,
+      "average": 137.0,
+      "economy": 4.57,
+      "strike_rate": 180.0
+    },
+    "away": {
+      "balls": 78,
+      "overs": "13.0",
+      "runs": 82,
+      "wickets": 2,
+      "maidens": 0,
+      "average": 41.0,
+      "economy": 6.31,
+      "strike_rate": 39.0
+    }
+  },
+  {
     "player": "FJ Klaassen",
     "season": "2021",
     "team": "Kent",
@@ -92352,46 +92767,6 @@
       "average": 62.0,
       "economy": 5.72,
       "strike_rate": 65.0
-    }
-  },
-  {
-    "player": "SHB Morgan",
-    "season": "2025",
-    "team": "Middlesex",
-    "balls": 258,
-    "overs": "43.0",
-    "runs": 219,
-    "wickets": 3,
-    "maidens": 3,
-    "average": 73.0,
-    "economy": 5.09,
-    "strike_rate": 86.0,
-    "best": "2/82",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 180,
-      "overs": "30.0",
-      "runs": 137,
-      "wickets": 1,
-      "maidens": 3,
-      "average": 137.0,
-      "economy": 4.57,
-      "strike_rate": 180.0
-    },
-    "away": {
-      "balls": 78,
-      "overs": "13.0",
-      "runs": 82,
-      "wickets": 2,
-      "maidens": 0,
-      "average": 41.0,
-      "economy": 6.31,
-      "strike_rate": 39.0
     }
   },
   {
@@ -92474,46 +92849,6 @@
     }
   },
   {
-    "player": "NA McSweeney",
-    "season": "2026",
-    "team": "Northamptonshire",
-    "balls": 143,
-    "overs": "23.5",
-    "runs": 89,
-    "wickets": 3,
-    "maidens": 3,
-    "average": 29.67,
-    "economy": 3.73,
-    "strike_rate": 47.67,
-    "best": "2/48",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 2,
-      "bowled": 1
-    },
-    "home": {
-      "balls": 60,
-      "overs": "10.0",
-      "runs": 31,
-      "wickets": 1,
-      "maidens": 2,
-      "average": 31.0,
-      "economy": 3.1,
-      "strike_rate": 60.0
-    },
-    "away": {
-      "balls": 83,
-      "overs": "13.5",
-      "runs": 58,
-      "wickets": 2,
-      "maidens": 1,
-      "average": 29.0,
-      "economy": 4.19,
-      "strike_rate": 41.5
-    }
-  },
-  {
     "player": "JW Shutt",
     "season": "2022",
     "team": "Yorkshire",
@@ -92551,46 +92886,6 @@
       "average": 25.0,
       "economy": 5.77,
       "strike_rate": 26.0
-    }
-  },
-  {
-    "player": "F Singh",
-    "season": "2024",
-    "team": "Northamptonshire",
-    "balls": 240,
-    "overs": "40.0",
-    "runs": 193,
-    "wickets": 3,
-    "maidens": 0,
-    "average": 64.33,
-    "economy": 4.83,
-    "strike_rate": 80.0,
-    "best": "3/193",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "lbw": 2,
-      "caught": 1
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 240,
-      "overs": "40.0",
-      "runs": 193,
-      "wickets": 3,
-      "maidens": 0,
-      "average": 64.33,
-      "economy": 4.83,
-      "strike_rate": 80.0
     }
   },
   {
@@ -94104,6 +94399,45 @@
     }
   },
   {
+    "player": "M Montgomery",
+    "season": "2026",
+    "team": "Derbyshire",
+    "balls": 192,
+    "overs": "32.0",
+    "runs": 109,
+    "wickets": 2,
+    "maidens": 4,
+    "average": 54.5,
+    "economy": 3.41,
+    "strike_rate": 96.0,
+    "best": "1/0",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 2
+    },
+    "home": {
+      "balls": 150,
+      "overs": "25.0",
+      "runs": 76,
+      "wickets": 1,
+      "maidens": 4,
+      "average": 76.0,
+      "economy": 3.04,
+      "strike_rate": 150.0
+    },
+    "away": {
+      "balls": 42,
+      "overs": "7.0",
+      "runs": 33,
+      "wickets": 1,
+      "maidens": 0,
+      "average": 33.0,
+      "economy": 4.71,
+      "strike_rate": 42.0
+    }
+  },
+  {
     "player": "CA Ingram",
     "season": "2017",
     "team": "Glamorgan",
@@ -95140,14 +95474,14 @@
     "player": "JMR Taylor",
     "season": "2026",
     "team": "Gloucestershire",
-    "balls": 28,
-    "overs": "4.4",
-    "runs": 21,
+    "balls": 40,
+    "overs": "6.4",
+    "runs": 25,
     "wickets": 2,
     "maidens": 0,
-    "average": 10.5,
-    "economy": 4.5,
-    "strike_rate": 14.0,
+    "average": 12.5,
+    "economy": 3.75,
+    "strike_rate": 20.0,
     "best": "2/11",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -95165,14 +95499,14 @@
       "strike_rate": null
     },
     "away": {
-      "balls": 28,
-      "overs": "4.4",
-      "runs": 21,
+      "balls": 40,
+      "overs": "6.4",
+      "runs": 25,
       "wickets": 2,
       "maidens": 0,
-      "average": 10.5,
-      "economy": 4.5,
-      "strike_rate": 14.0
+      "average": 12.5,
+      "economy": 3.75,
+      "strike_rate": 20.0
     }
   },
   {
@@ -95415,14 +95749,14 @@
     "player": "DR Mousley",
     "season": "2026",
     "team": "Warwickshire",
-    "balls": 252,
-    "overs": "42.0",
-    "runs": 142,
+    "balls": 306,
+    "overs": "51.0",
+    "runs": 157,
     "wickets": 2,
-    "maidens": 2,
-    "average": 71.0,
-    "economy": 3.38,
-    "strike_rate": 126.0,
+    "maidens": 4,
+    "average": 78.5,
+    "economy": 3.08,
+    "strike_rate": 153.0,
     "best": "1/36",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -95440,14 +95774,14 @@
       "strike_rate": 102.0
     },
     "away": {
-      "balls": 150,
-      "overs": "25.0",
-      "runs": 83,
+      "balls": 204,
+      "overs": "34.0",
+      "runs": 98,
       "wickets": 1,
-      "maidens": 1,
-      "average": 83.0,
-      "economy": 3.32,
-      "strike_rate": 150.0
+      "maidens": 3,
+      "average": 98.0,
+      "economy": 2.88,
+      "strike_rate": 204.0
     }
   },
   {
@@ -96399,85 +96733,6 @@
       "average": 70.0,
       "economy": 3.73,
       "strike_rate": 112.5
-    }
-  },
-  {
-    "player": "DJ Ahmed",
-    "season": "2026",
-    "team": "Gloucestershire",
-    "balls": 120,
-    "overs": "20.0",
-    "runs": 82,
-    "wickets": 2,
-    "maidens": 4,
-    "average": 41.0,
-    "economy": 4.1,
-    "strike_rate": 60.0,
-    "best": "1/15",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2
-    },
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 120,
-      "overs": "20.0",
-      "runs": 82,
-      "wickets": 2,
-      "maidens": 4,
-      "average": 41.0,
-      "economy": 4.1,
-      "strike_rate": 60.0
-    }
-  },
-  {
-    "player": "Miles Hammond",
-    "season": "2026",
-    "team": "Gloucestershire",
-    "balls": 72,
-    "overs": "12.0",
-    "runs": 45,
-    "wickets": 2,
-    "maidens": 1,
-    "average": 22.5,
-    "economy": 3.75,
-    "strike_rate": 36.0,
-    "best": "2/2",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 1,
-      "lbw": 1
-    },
-    "home": {
-      "balls": 6,
-      "overs": "1.0",
-      "runs": 8,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": 8.0,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 66,
-      "overs": "11.0",
-      "runs": 37,
-      "wickets": 2,
-      "maidens": 1,
-      "average": 18.5,
-      "economy": 3.36,
-      "strike_rate": 33.0
     }
   },
   {
@@ -98613,45 +98868,6 @@
       "average": 49.5,
       "economy": 3.19,
       "strike_rate": 93.0
-    }
-  },
-  {
-    "player": "DC Goodman",
-    "season": "2026",
-    "team": "Sussex",
-    "balls": 60,
-    "overs": "10.0",
-    "runs": 34,
-    "wickets": 2,
-    "maidens": 3,
-    "average": 17.0,
-    "economy": 3.4,
-    "strike_rate": 30.0,
-    "best": "2/34",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "caught": 2
-    },
-    "home": {
-      "balls": 60,
-      "overs": "10.0",
-      "runs": 34,
-      "wickets": 2,
-      "maidens": 3,
-      "average": 17.0,
-      "economy": 3.4,
-      "strike_rate": 30.0
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
     }
   },
   {
@@ -101213,6 +101429,45 @@
   },
   {
     "player": "WMH Rhodes",
+    "season": "2026",
+    "team": "Durham",
+    "balls": 108,
+    "overs": "18.0",
+    "runs": 54,
+    "wickets": 1,
+    "maidens": 2,
+    "average": 54.0,
+    "economy": 3.0,
+    "strike_rate": 108.0,
+    "best": "1/39",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 1
+    },
+    "home": {
+      "balls": 108,
+      "overs": "18.0",
+      "runs": 54,
+      "wickets": 1,
+      "maidens": 2,
+      "average": 54.0,
+      "economy": 3.0,
+      "strike_rate": 108.0
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    }
+  },
+  {
+    "player": "WMH Rhodes",
     "season": "2018",
     "team": "Warwickshire",
     "balls": 336,
@@ -101761,14 +102016,14 @@
     "player": "SF Hunt",
     "season": "2026",
     "team": "Sussex",
-    "balls": 156,
-    "overs": "26.0",
-    "runs": 83,
+    "balls": 282,
+    "overs": "47.0",
+    "runs": 153,
     "wickets": 1,
-    "maidens": 2,
-    "average": 83.0,
-    "economy": 3.19,
-    "strike_rate": 156.0,
+    "maidens": 8,
+    "average": 153.0,
+    "economy": 3.26,
+    "strike_rate": 282.0,
     "best": "1/33",
     "five_wkt": 0,
     "four_wkt": 0,
@@ -101776,14 +102031,14 @@
       "caught": 1
     },
     "home": {
-      "balls": 156,
-      "overs": "26.0",
-      "runs": 83,
+      "balls": 282,
+      "overs": "47.0",
+      "runs": 153,
       "wickets": 1,
-      "maidens": 2,
-      "average": 83.0,
-      "economy": 3.19,
-      "strike_rate": 156.0
+      "maidens": 8,
+      "average": 153.0,
+      "economy": 3.26,
+      "strike_rate": 282.0
     },
     "away": {
       "balls": 0,
@@ -101950,45 +102205,6 @@
       "average": 16.0,
       "economy": 4.0,
       "strike_rate": 24.0
-    }
-  },
-  {
-    "player": "M Montgomery",
-    "season": "2026",
-    "team": "Derbyshire",
-    "balls": 184,
-    "overs": "30.4",
-    "runs": 109,
-    "wickets": 1,
-    "maidens": 3,
-    "average": 109.0,
-    "economy": 3.55,
-    "strike_rate": 184.0,
-    "best": "1/5",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {
-      "bowled": 1
-    },
-    "home": {
-      "balls": 142,
-      "overs": "23.4",
-      "runs": 76,
-      "wickets": 0,
-      "maidens": 3,
-      "average": null,
-      "economy": 3.21,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 42,
-      "overs": "7.0",
-      "runs": 33,
-      "wickets": 1,
-      "maidens": 0,
-      "average": 33.0,
-      "economy": 4.71,
-      "strike_rate": 42.0
     }
   },
   {
@@ -104995,6 +105211,45 @@
     }
   },
   {
+    "player": "BS McKinney",
+    "season": "2026",
+    "team": "Durham",
+    "balls": 54,
+    "overs": "9.0",
+    "runs": 28,
+    "wickets": 1,
+    "maidens": 1,
+    "average": 28.0,
+    "economy": 3.11,
+    "strike_rate": 54.0,
+    "best": "1/17",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 1
+    },
+    "home": {
+      "balls": 18,
+      "overs": "3.0",
+      "runs": 17,
+      "wickets": 1,
+      "maidens": 0,
+      "average": 17.0,
+      "economy": 5.67,
+      "strike_rate": 18.0
+    },
+    "away": {
+      "balls": 36,
+      "overs": "6.0",
+      "runs": 11,
+      "wickets": 0,
+      "maidens": 1,
+      "average": null,
+      "economy": 1.83,
+      "strike_rate": null
+    }
+  },
+  {
     "player": "Ekansh Singh",
     "season": "2025",
     "team": "Kent",
@@ -105655,6 +105910,45 @@
       "average": 21.0,
       "economy": 2.33,
       "strike_rate": 54.0
+    }
+  },
+  {
+    "player": "JJ Bohannon",
+    "season": "2026",
+    "team": "Lancashire",
+    "balls": 54,
+    "overs": "9.0",
+    "runs": 56,
+    "wickets": 1,
+    "maidens": 1,
+    "average": 56.0,
+    "economy": 6.22,
+    "strike_rate": 54.0,
+    "best": "1/38",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "caught": 1
+    },
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 42,
+      "overs": "7.0",
+      "runs": 45,
+      "wickets": 1,
+      "maidens": 1,
+      "average": 45.0,
+      "economy": 6.43,
+      "strike_rate": 42.0
     }
   },
   {
@@ -109246,6 +109540,45 @@
     }
   },
   {
+    "player": "LA Charlesworth",
+    "season": "2026",
+    "team": "Gloucestershire",
+    "balls": 114,
+    "overs": "19.0",
+    "runs": 69,
+    "wickets": 1,
+    "maidens": 4,
+    "average": 69.0,
+    "economy": 3.63,
+    "strike_rate": 114.0,
+    "best": "1/49",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {
+      "bowled": 1
+    },
+    "home": {
+      "balls": 18,
+      "overs": "3.0",
+      "runs": 20,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": 6.67,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 96,
+      "overs": "16.0",
+      "runs": 49,
+      "wickets": 1,
+      "maidens": 4,
+      "average": 49.0,
+      "economy": 3.06,
+      "strike_rate": 96.0
+    }
+  },
+  {
     "player": "HE Dearden",
     "season": "2017",
     "team": "Leicestershire",
@@ -111447,43 +111780,6 @@
     }
   },
   {
-    "player": "WMH Rhodes",
-    "season": "2026",
-    "team": "Durham",
-    "balls": 42,
-    "overs": "7.0",
-    "runs": 9,
-    "wickets": 0,
-    "maidens": 2,
-    "average": null,
-    "economy": 1.29,
-    "strike_rate": null,
-    "best": "-",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {},
-    "home": {
-      "balls": 42,
-      "overs": "7.0",
-      "runs": 9,
-      "wickets": 0,
-      "maidens": 2,
-      "average": null,
-      "economy": 1.29,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    }
-  },
-  {
     "player": "A Lyth",
     "season": "2017",
     "team": "Yorkshire",
@@ -111776,6 +112072,43 @@
       "maidens": 0,
       "average": null,
       "economy": null,
+      "strike_rate": null
+    }
+  },
+  {
+    "player": "SM Curran",
+    "season": "2026",
+    "team": "Surrey",
+    "balls": 54,
+    "overs": "9.0",
+    "runs": 22,
+    "wickets": 0,
+    "maidens": 1,
+    "average": null,
+    "economy": 2.44,
+    "strike_rate": null,
+    "best": "-",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {},
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 54,
+      "overs": "9.0",
+      "runs": 22,
+      "wickets": 0,
+      "maidens": 1,
+      "average": null,
+      "economy": 2.44,
       "strike_rate": null
     }
   },
@@ -113779,6 +114112,43 @@
   },
   {
     "player": "LP Goldsworthy",
+    "season": "2026",
+    "team": "Somerset",
+    "balls": 6,
+    "overs": "1.0",
+    "runs": 8,
+    "wickets": 0,
+    "maidens": 0,
+    "average": null,
+    "economy": 8.0,
+    "strike_rate": null,
+    "best": "-",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {},
+    "home": {
+      "balls": 6,
+      "overs": "1.0",
+      "runs": 8,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": 8.0,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    }
+  },
+  {
+    "player": "LP Goldsworthy",
     "season": "2022",
     "team": "Somerset",
     "balls": 30,
@@ -114262,13 +114632,13 @@
     "player": "FW McCann",
     "season": "2026",
     "team": "Nottinghamshire",
-    "balls": 18,
-    "overs": "3.0",
-    "runs": 13,
+    "balls": 36,
+    "overs": "6.0",
+    "runs": 40,
     "wickets": 0,
     "maidens": 0,
     "average": null,
-    "economy": 4.33,
+    "economy": 6.67,
     "strike_rate": null,
     "best": "-",
     "five_wkt": 0,
@@ -114285,13 +114655,13 @@
       "strike_rate": null
     },
     "away": {
-      "balls": 6,
-      "overs": "1.0",
-      "runs": 4,
+      "balls": 24,
+      "overs": "4.0",
+      "runs": 31,
       "wickets": 0,
       "maidens": 0,
       "average": null,
-      "economy": 4.0,
+      "economy": 7.75,
       "strike_rate": null
     }
   },
@@ -114447,13 +114817,13 @@
     "player": "RS Patel",
     "season": "2026",
     "team": "Surrey",
-    "balls": 108,
-    "overs": "18.0",
-    "runs": 84,
+    "balls": 138,
+    "overs": "23.0",
+    "runs": 98,
     "wickets": 0,
-    "maidens": 0,
+    "maidens": 1,
     "average": null,
-    "economy": 4.67,
+    "economy": 4.26,
     "strike_rate": null,
     "best": "-",
     "five_wkt": 0,
@@ -114470,13 +114840,13 @@
       "strike_rate": null
     },
     "away": {
-      "balls": 78,
-      "overs": "13.0",
-      "runs": 57,
+      "balls": 108,
+      "overs": "18.0",
+      "runs": 71,
       "wickets": 0,
-      "maidens": 0,
+      "maidens": 1,
       "average": null,
-      "economy": 4.38,
+      "economy": 3.94,
       "strike_rate": null
     }
   },
@@ -116553,43 +116923,6 @@
     }
   },
   {
-    "player": "BS McKinney",
-    "season": "2026",
-    "team": "Durham",
-    "balls": 36,
-    "overs": "6.0",
-    "runs": 11,
-    "wickets": 0,
-    "maidens": 1,
-    "average": null,
-    "economy": 1.83,
-    "strike_rate": null,
-    "best": "-",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {},
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 36,
-      "overs": "6.0",
-      "runs": 11,
-      "wickets": 0,
-      "maidens": 1,
-      "average": null,
-      "economy": 1.83,
-      "strike_rate": null
-    }
-  },
-  {
     "player": "TS Muyeye",
     "season": "2026",
     "team": "Kent",
@@ -117918,43 +118251,6 @@
       "maidens": 0,
       "average": null,
       "economy": 4.83,
-      "strike_rate": null
-    }
-  },
-  {
-    "player": "JJ Bohannon",
-    "season": "2026",
-    "team": "Lancashire",
-    "balls": 18,
-    "overs": "3.0",
-    "runs": 18,
-    "wickets": 0,
-    "maidens": 0,
-    "average": null,
-    "economy": 6.0,
-    "strike_rate": null,
-    "best": "-",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {},
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 6,
-      "overs": "1.0",
-      "runs": 7,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": 7.0,
       "strike_rate": null
     }
   },
@@ -121255,13 +121551,13 @@
     "player": "ARG Thomas",
     "season": "2026",
     "team": "Surrey",
-    "balls": 180,
-    "overs": "30.0",
-    "runs": 106,
+    "balls": 198,
+    "overs": "33.0",
+    "runs": 118,
     "wickets": 0,
-    "maidens": 3,
+    "maidens": 4,
     "average": null,
-    "economy": 3.53,
+    "economy": 3.58,
     "strike_rate": null,
     "best": "-",
     "five_wkt": 0,
@@ -121278,13 +121574,13 @@
       "strike_rate": null
     },
     "away": {
-      "balls": 180,
-      "overs": "30.0",
-      "runs": 106,
+      "balls": 198,
+      "overs": "33.0",
+      "runs": 118,
       "wickets": 0,
-      "maidens": 3,
+      "maidens": 4,
       "average": null,
-      "economy": 3.53,
+      "economy": 3.58,
       "strike_rate": null
     }
   },
@@ -125655,6 +125951,43 @@
     }
   },
   {
+    "player": "LA Charlesworth",
+    "season": "2024",
+    "team": "Gloucestershire",
+    "balls": 108,
+    "overs": "18.0",
+    "runs": 65,
+    "wickets": 0,
+    "maidens": 0,
+    "average": null,
+    "economy": 3.61,
+    "strike_rate": null,
+    "best": "-",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {},
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 108,
+      "overs": "18.0",
+      "runs": 65,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": 3.61,
+      "strike_rate": null
+    }
+  },
+  {
     "player": "MW Pillans",
     "season": "2016",
     "team": "Surrey",
@@ -126196,117 +126529,6 @@
       "maidens": 1,
       "average": null,
       "economy": 5.12,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    }
-  },
-  {
-    "player": "AM Green",
-    "season": "2026",
-    "team": "Leicestershire",
-    "balls": 126,
-    "overs": "21.0",
-    "runs": 98,
-    "wickets": 0,
-    "maidens": 2,
-    "average": null,
-    "economy": 4.67,
-    "strike_rate": null,
-    "best": "-",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {},
-    "home": {
-      "balls": 126,
-      "overs": "21.0",
-      "runs": 98,
-      "wickets": 0,
-      "maidens": 2,
-      "average": null,
-      "economy": 4.67,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    }
-  },
-  {
-    "player": "LA Charlesworth",
-    "season": "2024",
-    "team": "Gloucestershire",
-    "balls": 108,
-    "overs": "18.0",
-    "runs": 65,
-    "wickets": 0,
-    "maidens": 0,
-    "average": null,
-    "economy": 3.61,
-    "strike_rate": null,
-    "best": "-",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {},
-    "home": {
-      "balls": 0,
-      "overs": "0.0",
-      "runs": 0,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": null,
-      "strike_rate": null
-    },
-    "away": {
-      "balls": 108,
-      "overs": "18.0",
-      "runs": 65,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": 3.61,
-      "strike_rate": null
-    }
-  },
-  {
-    "player": "LA Charlesworth",
-    "season": "2026",
-    "team": "Gloucestershire",
-    "balls": 18,
-    "overs": "3.0",
-    "runs": 20,
-    "wickets": 0,
-    "maidens": 0,
-    "average": null,
-    "economy": 6.67,
-    "strike_rate": null,
-    "best": "-",
-    "five_wkt": 0,
-    "four_wkt": 0,
-    "dismissal_types": {},
-    "home": {
-      "balls": 18,
-      "overs": "3.0",
-      "runs": 20,
-      "wickets": 0,
-      "maidens": 0,
-      "average": null,
-      "economy": 6.67,
       "strike_rate": null
     },
     "away": {
@@ -130350,6 +130572,43 @@
       "maidens": 0,
       "average": null,
       "economy": 10.0,
+      "strike_rate": null
+    }
+  },
+  {
+    "player": "AJ Neal",
+    "season": "2026",
+    "team": "Hampshire",
+    "balls": 54,
+    "overs": "9.0",
+    "runs": 31,
+    "wickets": 0,
+    "maidens": 0,
+    "average": null,
+    "economy": 3.44,
+    "strike_rate": null,
+    "best": "-",
+    "five_wkt": 0,
+    "four_wkt": 0,
+    "dismissal_types": {},
+    "home": {
+      "balls": 0,
+      "overs": "0.0",
+      "runs": 0,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": null,
+      "strike_rate": null
+    },
+    "away": {
+      "balls": 54,
+      "overs": "9.0",
+      "runs": 31,
+      "wickets": 0,
+      "maidens": 0,
+      "average": null,
+      "economy": 3.44,
       "strike_rate": null
     }
   },
